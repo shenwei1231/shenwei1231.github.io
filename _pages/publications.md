@@ -21,16 +21,14 @@ You can also find my full publication list on my [Google Scholar profile](http:/
 Jiazhong Cen, Zekun Jiang, Lingxi Xie, Qi Tian, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Consensus Synergizes with Memory:
 A Simple Approach for Anomaly Segmentation in Urban Scenes</font>. **arXiv:2111.07832**. ([PDF](https://arxiv.org/pdf/2111.15463.pdf))
 
-Xintian Mao, Yiming Liu, **Wei Shen**, Qingli Li, Yan Wang. <font color='Navy'>Deep Residual Fourier Transformation for Single Image Deblurring</font>. **arXiv:2111.11745**. ([PDF](https://arxiv.org/pdf/2111.11745.pdf))
-
 Yilin Wang, Shaozuo Yu, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Making CNNs Interpretable by Building Dynamic Sequential Decision Forests with Top-down Hierarchy Learning</font>. **arXiv: 2106.02824**. ([PDF](https://arxiv.org/abs/2106.02824))
-
-Yuhui Xu, Lingxi Xie, Cihang Xie, Jieru Mei, Siyuan Qiao, **Wei Shen**, Hongkai Xiong, Alan Yuille. <font color='Navy'>Batch Normalization with Enhanced Linear Transformation</font>. **arXiv: 2011.14150**. ([PDF](https://arxiv.org/pdf/2011.14150.pdf))
 
 Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='Navy'>Micro-Batch Training with Batch-Channel Normalization and Weight Standardization</font>. **arXiv:1903.10520**. ([PDF](https://arxiv.org/pdf/1903.10520.pdf))
 
 **Conference**
 ======
+Xintian Mao, Yiming Liu, Fengze Liu, Qingli Li, **Wei Shen**, Yan Wang. <font color='Navy'>Intriguing Findings of Frequency Selection for Image Deblurring</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, Washington, USA, 2023. ([PDF](https://arxiv.org/pdf/2111.11745.pdf))
+
 Danyang Tu, Wei Sun, Xiongkuo Min, Guangtao Zhai, **Wei Shen**. <font color='Navy'>Video-based Human-Object Interaction Detection from Tubelet Tokens</font>. **Advances in Neural Information Processing Systems (NeurIPS)**, New Orleans, USA, 2022. ([PDF](https://arxiv.org/pdf/2206.01908.pdf))
 
 Feng Wang, Huiyu Wang, Chen Wei, Alan Yuille, **Wei Shen**. <font color='Navy'>CP2: Copy-Paste Contrastive Pretraining for Semantic Segmentation</font>. **European Conference on Computer Vision (ECCV)**, Tel-Aviv, Israel, 2022. ([PDF](https://arxiv.org/pdf/2203.11709.pdf))
@@ -128,11 +126,13 @@ Bo Wang, **Wei Shen**, Wenyu Liu, Xinge You, Xiang Bai. <font color='Navy'>Shape
 
 **Journal**
 ======
+Yuhui Xu, Lingxi Xie, Cihang Xie, Jieru Mei, Siyuan Qiao, **Wei Shen**, Hongkai Xiong, Alan Yuille. <font color='Navy'>Batch Normalization with Enhanced Linear Transformation</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 2023. ([PDF](https://arxiv.org/pdf/2011.14150.pdf))
+
 Mingyang Li, Zekun Jiang, **Wei Shen**, Haitao Liu. <font color='Navy'>Deep learning in bladder cancer imaging: A review</font>. **Frontiers in Oncology**, 2022. ([PDF](http://journal.frontiersin.org/article/10.3389/fonc.2022.930917/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Oncology&id=930917))
 
 Michela Antonelli, Annika Reinke, Spyridon Bakas, Keyvan Farahani, AnnetteKopp-Schneider, Bennett A. Landman, Geert Litjens, Bjoern Menze, Olaf Ronneberger, Ronald M.Summers, Bram van Ginneken, Michel Bilello, Patrick Bilic, Patrick F. Christ, Richard K. G. Do, Marc J. Gollub, Stephan H. Heckers, Henkjan Huisman, William R. Jarnagin, Maureen K. McHugo, Sandy Napel, Jennifer S. Goli Pernicka, Kawal Rhode, Catalina Tobon-Gomez, Eugene Vorontsov, Henkjan Huisman, James A. Meakin, Sebastien Ourselin, Manuel Wiesenfarth, Pablo Arbelaez, Byeonguk Bae, Sihong Chen, Laura Daza, Jianjiang Feng, Baochun He, Fabian Isensee, Yuanfeng Ji, Fucang Jia, Namkug Kim, Ildoo Kim, Dorit Merhof, Akshay Pai, Beomhee Park, Mathias Perslev, Ramin Rezaiifar, Oliver Rippel, Ignacio Sarasua, **Wei Shen**, Jaemin Son, Christian Wachinger, Liansheng Wang, Yan Wang, Yingda Xia, Daguang Xu, Zhanwei Xu, Yefeng Zheng, Amber L. Simpson, Lena Maier-Hein, M. Jorge Cardoso. <font color='Navy'>The Medical Segmentation Decathlon</font>. **Nature Communications**, 2022. ([PDF](https://arxiv.org/pdf/2106.05735.pdf))
 
-Chen Yang, Shunyu Yao, Zanwei Zhou, Bin Ji, Guangtao Zhai, **Wei Shen**. <font color='Navy'>Poxture: Human Posture Imitation Using Neural Texture</font>. **IEEE Trans. Circuits and Systems for Video Technology**, 2022. ([PDF](https://ieeexplore.ieee.org/document/9829868))
+Chen Yang, Shunyu Yao, Zanwei Zhou, Bin Ji, Guangtao Zhai, **Wei Shen**. <font color='Navy'>Poxture: Human Posture Imitation Using Neural Texture</font>. **IEEE Trans. Circuits and Systems for Video Technology**, 32（12）, 8537 - 8549, 2022. ([PDF](https://ieeexplore.ieee.org/document/9829868))
 
 Huiyu Duan, **Wei Shen**, Xiongkuo Min, Yuan Tian, Jae-Hyun Jung, Xiaokang Yang, Guangtao Zhai. <font color='Navy'>Develop then Rival: A Human Vision-Inspired Framework for Superimposed Image Decomposition</font>. **IEEE Trans. Multimedia**, 2022. ([PDF](https://ieeexplore.ieee.org/document/9769950))
 
