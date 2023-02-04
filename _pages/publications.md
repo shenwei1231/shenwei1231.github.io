@@ -126,9 +126,11 @@ Bo Wang, **Wei Shen**, Wenyu Liu, Xinge You, Xiang Bai. <font color='Navy'>Shape
 
 **Journal**
 ======
+Meixuan Wu, Chengguang Zhu, Jiani Yang, Shanshan Cheng, Xiaokang Yang, Sijia Gu, Shilin Xu, Yongsong Wu, **Wei Shen**, Shan Huang, Yu Wang. **Frontiers in Oncology**, 2023. ([PDF](https://www.frontiersin.org/articles/10.3389/fgene.2022.1069673/full))
+
 Yuhui Xu, Lingxi Xie, Cihang Xie, Jieru Mei, Siyuan Qiao, **Wei Shen**, Hongkai Xiong, Alan Yuille. <font color='Navy'>Batch Normalization with Enhanced Linear Transformation</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 2023. ([PDF](https://arxiv.org/pdf/2011.14150.pdf))
 
-Mingyang Li, Zekun Jiang, **Wei Shen**, Haitao Liu. <font color='Navy'>Deep learning in bladder cancer imaging: A review</font>. **Frontiers in Oncology**, 2022. ([PDF](http://journal.frontiersin.org/article/10.3389/fonc.2022.930917/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Oncology&id=930917))
+Mingyang Li, Zekun Jiang, **Wei Shen**, Haitao Liu. <font color='Navy'>Deep learning in bladder cancer imaging: A review</font>. **Frontiers in Oncology**, 2022. ([PDF](https://www.frontiersin.org/articles/10.3389/fonc.2022.930917/full))
 
 Michela Antonelli, Annika Reinke, Spyridon Bakas, Keyvan Farahani, AnnetteKopp-Schneider, Bennett A. Landman, Geert Litjens, Bjoern Menze, Olaf Ronneberger, Ronald M.Summers, Bram van Ginneken, Michel Bilello, Patrick Bilic, Patrick F. Christ, Richard K. G. Do, Marc J. Gollub, Stephan H. Heckers, Henkjan Huisman, William R. Jarnagin, Maureen K. McHugo, Sandy Napel, Jennifer S. Goli Pernicka, Kawal Rhode, Catalina Tobon-Gomez, Eugene Vorontsov, Henkjan Huisman, James A. Meakin, Sebastien Ourselin, Manuel Wiesenfarth, Pablo Arbelaez, Byeonguk Bae, Sihong Chen, Laura Daza, Jianjiang Feng, Baochun He, Fabian Isensee, Yuanfeng Ji, Fucang Jia, Namkug Kim, Ildoo Kim, Dorit Merhof, Akshay Pai, Beomhee Park, Mathias Perslev, Ramin Rezaiifar, Oliver Rippel, Ignacio Sarasua, **Wei Shen**, Jaemin Son, Christian Wachinger, Liansheng Wang, Yan Wang, Yingda Xia, Daguang Xu, Zhanwei Xu, Yefeng Zheng, Amber L. Simpson, Lena Maier-Hein, M. Jorge Cardoso. <font color='Navy'>The Medical Segmentation Decathlon</font>. **Nature Communications**, 2022. ([PDF](https://arxiv.org/pdf/2106.05735.pdf))
 
