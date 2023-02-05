@@ -126,7 +126,7 @@ Bo Wang, **Wei Shen**, Wenyu Liu, Xinge You, Xiang Bai. <font color='Navy'>Shape
 
 **Journal**
 ======
-Meixuan Wu, Chengguang Zhu, Jiani Yang, Shanshan Cheng, Xiaokang Yang, Sijia Gu, Shilin Xu, Yongsong Wu, **Wei Shen**, Shan Huang, Yu Wang. **Frontiers in Oncology**, 2023. ([PDF](https://www.frontiersin.org/articles/10.3389/fgene.2022.1069673/full))
+Meixuan Wu, Chengguang Zhu, Jiani Yang, Shanshan Cheng, Xiaokang Yang, Sijia Gu, Shilin Xu, Yongsong Wu, **Wei Shen**, Shan Huang, Yu Wang. **Frontiers in Genetics**, 2023. ([PDF](https://www.frontiersin.org/articles/10.3389/fgene.2022.1069673/full))
 
 Yuhui Xu, Lingxi Xie, Cihang Xie, Wenrui Dai, Jieru Mei, Siyuan Qiao, **Wei Shen**, Hongkai Xiong, Alan Yuille. <font color='Navy'>Batch Normalization with Enhanced Linear Transformation</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 2023. ([PDF](https://arxiv.org/pdf/2011.14150.pdf))
 
