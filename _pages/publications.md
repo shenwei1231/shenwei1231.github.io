@@ -16,8 +16,6 @@ You can also find my full publication list on my [Google Scholar profile](http:/
 
 **Preprints**
 ======
-**Wei Shen**, Zelin Peng, Xuehui Wang, Huayu Wang, Jiazhong Cen, Dongsheng Jiang, Lingxi Xie, Xiaokang Yang, Qi Tian. <font color='Navy'>A Survey on Label-efficient Deep Segmentation: Bridging the Gap between Weak Supervision and Dense Prediction</font>. **arXiv:2207.01223**. ([PDF](https://arxiv.org/pdf/2207.01223.pdf))
-
 Jiazhong Cen, Zekun Jiang, Lingxi Xie, Qi Tian, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Consensus Synergizes with Memory:
 A Simple Approach for Anomaly Segmentation in Urban Scenes</font>. **arXiv:2111.07832**. ([PDF](https://arxiv.org/pdf/2111.15463.pdf))
 
@@ -126,6 +124,8 @@ Bo Wang, **Wei Shen**, Wenyu Liu, Xinge You, Xiang Bai. <font color='Navy'>Shape
 
 **Journal**
 ======
+**Wei Shen**, Zelin Peng, Xuehui Wang, Huayu Wang, Jiazhong Cen, Dongsheng Jiang, Lingxi Xie, Xiaokang Yang, Qi Tian. <font color='Navy'>A Survey on Label-efficient Deep Segmentation: Bridging the Gap between Weak Supervision and Dense Prediction</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 2023. ([PDF](https://arxiv.org/pdf/2207.01223.pdf))
+
 Meixuan Wu, Chengguang Zhu, Jiani Yang, Shanshan Cheng, Xiaokang Yang, Sijia Gu, Shilin Xu, Yongsong Wu, **Wei Shen**, Shan Huang, Yu Wang. <font color='Navy'>Exploring prognostic indicators in the pathological images of ovarian cancer based on a deep survival network</font>. **Frontiers in Genetics**, 2023. ([PDF](https://www.frontiersin.org/articles/10.3389/fgene.2022.1069673/full))
 
 Yuhui Xu, Lingxi Xie, Cihang Xie, Wenrui Dai, Jieru Mei, Siyuan Qiao, **Wei Shen**, Hongkai Xiong, Alan Yuille. <font color='Navy'>Batch Normalization with Enhanced Linear Transformation</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 2023. ([PDF](https://arxiv.org/pdf/2011.14150.pdf))

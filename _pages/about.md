@@ -26,6 +26,8 @@ My research interests lie in the fields of computer vision, machine learning, de
 
 **Recent News**
 ======
+- One paper has been accepted to IEEE TPAMI.
+>* [A Survey on Label-efficient Deep Segmentation: Bridging the Gap between Weak Supervision and Dense Prediction](https://arxiv.org/pdf/2207.01223.pdf)
 - I will serve as an Area Chair for CVPR 2023.
 - One paper has been accepted to NeurIPS 2022.
 >* [Video-based Human-Object Interaction Detection from Tubelet Tokens](https://arxiv.org/pdf/2206.01908.pdf)
