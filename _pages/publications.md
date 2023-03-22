@@ -16,7 +16,7 @@ You can also find my full publication list on my [Google Scholar profile](http:/
 
 **Preprints**
 ======
-Zelin Peng, Guanchun Wang, Lingxi Xie, Dongsheng Jiang, **Wei Shen**, Qi Tian. <font color='Navy'>CUSAGE: A Unified Seed Area Generation Paradigm for Weakly Supervised Semantic Segmentation</font>. **arXiv:2303.07806**. ([PDF](https://arxiv.org/abs/2303.07806))
+Zelin Peng, Guanchun Wang, Lingxi Xie, Dongsheng Jiang, **Wei Shen**, Qi Tian. <font color='Navy'>USAGE: A Unified Seed Area Generation Paradigm for Weakly Supervised Semantic Segmentation</font>. **arXiv:2303.07806**. ([PDF](https://arxiv.org/abs/2303.07806))
 
 Tongkun Guan, **Wei Shen**, Xue Yang, Qi Feng, Zekun Jiang, Xiaokang Yang. <font color='Navy'>Self-supervised Character-to-Character Distillation for Text Recognition</font>. **arXiv:2211.00288**. ([PDF](https://arxiv.org/abs/2211.00288))
 
