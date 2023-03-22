@@ -16,9 +16,9 @@ You can also find my full publication list on my [Google Scholar profile](http:/
 
 **Preprints**
 ======
-Zelin Peng, Guanchun Wang, Lingxi Xie, Dongsheng Jiang, **Wei Shen**, Qi Tian. <font color='Navy'>CUSAGE: A Unified Seed Area Generation Paradigm for Weakly Supervised Semantic Segmentation</font>. **arxiv:2303.07806**. ([PDF](https://arxiv.org/abs/2303.07806))
+Zelin Peng, Guanchun Wang, Lingxi Xie, Dongsheng Jiang, **Wei Shen**, Qi Tian. <font color='Navy'>CUSAGE: A Unified Seed Area Generation Paradigm for Weakly Supervised Semantic Segmentation</font>. **arXiv:2303.07806**. ([PDF](https://arxiv.org/abs/2303.07806))
 
-Tongkun Guan, **Wei Shen**, Xue Yang, Qi Feng, Zekun Jiang, Xiaokang Yang. <font color='Navy'>Self-supervised Character-to-Character Distillation for Text Recognition</font>. **arxiv:2211.00288**. ([PDF](https://arxiv.org/abs/2211.00288))
+Tongkun Guan, **Wei Shen**, Xue Yang, Qi Feng, Zekun Jiang, Xiaokang Yang. <font color='Navy'>Self-supervised Character-to-Character Distillation for Text Recognition</font>. **arXiv:2211.00288**. ([PDF](https://arxiv.org/abs/2211.00288))
 
 Jiazhong Cen, Zekun Jiang, Lingxi Xie, Qi Tian, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Consensus Synergizes with Memory:
 A Simple Approach for Anomaly Segmentation in Urban Scenes</font>. **arXiv:2111.07832**. ([PDF](https://arxiv.org/pdf/2111.15463.pdf))
