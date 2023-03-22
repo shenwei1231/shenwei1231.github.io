@@ -29,9 +29,9 @@ Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='Nav
 
 **Conference**
 ======
-Tongkun Guan, Chaochen Gu, Jingzheng Tu, Xue Yang, Qi Feng, Yudi Zhao, **Wei Shen**. Self-supervised Implicit Glyph Attention for Text Recognition. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Vancouver, Canada, 2023. ([PDF](https://arxiv.org/abs/2203.03382))
+Tongkun Guan, Chaochen Gu, Jingzheng Tu, Xue Yang, Qi Feng, Yudi Zhao, **Wei Shen**. <font color='Navy'>Self-supervised Implicit Glyph Attention for Text Recognition</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Vancouver, Canada, 2023. ([PDF](https://arxiv.org/abs/2203.03382))
 
-Duowen Chen, Yunhao Bai, **Wei Shen**, Qingli Li, Lequan Yu, Yan Wang. MagicNet: Semi-Supervised Multi-Organ Segmentation via Magic-Cube Partition and Recovery. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Vancouver, Canada, 2023. ([PDF](https://arxiv.org/abs/2212.14310))
+Duowen Chen, Yunhao Bai, **Wei Shen**, Qingli Li, Lequan Yu, Yan Wang. <font color='Navy'>MagicNet: Semi-Supervised Multi-Organ Segmentation via Magic-Cube Partition and Recovery</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Vancouver, Canada, 2023. ([PDF](https://arxiv.org/abs/2212.14310))
 
 Xintian Mao, Yiming Liu, Fengze Liu, Qingli Li, **Wei Shen**, Yan Wang. <font color='Navy'>Intriguing Findings of Frequency Selection for Image Deblurring</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, Washington, USA, 2023. ([PDF](https://arxiv.org/pdf/2111.11745.pdf))
 
