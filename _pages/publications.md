@@ -16,6 +16,10 @@ You can also find my full publication list on my [Google Scholar profile](http:/
 
 **Preprints**
 ======
+Zelin Peng, Guanchun Wang, Lingxi Xie, Dongsheng Jiang, **Wei Shen**, Qi Tian. <font color='Navy'>CUSAGE: A Unified Seed Area Generation Paradigm for Weakly Supervised Semantic Segmentation</font>. **arxiv:2303.07806**. ([PDF](https://arxiv.org/abs/2303.07806))
+
+Tongkun Guan, **Wei Shen**, Xue Yang, Qi Feng, Zekun Jiang, Xiaokang Yang. <font color='Navy'>Self-supervised Character-to-Character Distillation for Text Recognition</font>. **arxiv:2211.00288**. ([PDF}(https://arxiv.org/abs/2211.00288))
+
 Jiazhong Cen, Zekun Jiang, Lingxi Xie, Qi Tian, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Consensus Synergizes with Memory:
 A Simple Approach for Anomaly Segmentation in Urban Scenes</font>. **arXiv:2111.07832**. ([PDF](https://arxiv.org/pdf/2111.15463.pdf))
 
@@ -25,6 +29,10 @@ Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='Nav
 
 **Conference**
 ======
+Tongkun Guan, Chaochen Gu, Jingzheng Tu, Xue Yang, Qi Feng, Yudi Zhao, **Wei Shen**. Self-supervised Implicit Glyph Attention for Text Recognition. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Vancouver, Canada, 2023. ([PDF](https://arxiv.org/abs/2203.03382))
+
+Duowen Chen, Yunhao Bai, **Wei Shen**, Qingli Li, Lequan Yu, Yan Wang. MagicNet: Semi-Supervised Multi-Organ Segmentation via Magic-Cube Partition and Recovery. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Vancouver, Canada, 2023. ([PDF](https://arxiv.org/abs/2212.14310))
+
 Xintian Mao, Yiming Liu, Fengze Liu, Qingli Li, **Wei Shen**, Yan Wang. <font color='Navy'>Intriguing Findings of Frequency Selection for Image Deblurring</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, Washington, USA, 2023. ([PDF](https://arxiv.org/pdf/2111.11745.pdf))
 
 Danyang Tu, Wei Sun, Xiongkuo Min, Guangtao Zhai, **Wei Shen**. <font color='Navy'>Video-based Human-Object Interaction Detection from Tubelet Tokens</font>. **Advances in Neural Information Processing Systems (NeurIPS)**, New Orleans, USA, 2022. ([PDF](https://arxiv.org/pdf/2206.01908.pdf))
