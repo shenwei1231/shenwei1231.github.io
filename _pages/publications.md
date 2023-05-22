@@ -37,6 +37,8 @@ Tongkun Guan, Chaochen Gu, Jingzheng Tu, Xue Yang, Qi Feng, Yudi Zhao, **Wei She
 
 Duowen Chen, Yunhao Bai, **Wei Shen**, Qingli Li, Lequan Yu, Yan Wang. <font color='Navy'>MagicNet: Semi-Supervised Multi-Organ Segmentation via Magic-Cube Partition and Recovery</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Vancouver, Canada, 2023. ([PDF](https://arxiv.org/abs/2212.14310))
 
+Yunhao Bai, Duowen Chen, Qingli Li, **Wei Shen**, Yan Wang. <font color='Navy'>Bidirectional Copy-Paste for Semi-Supervised Medical Image Segmentation</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Vancouver, Canada, 2023. ([PDF](https://arxiv.org/abs/2305.00673))
+
 Xintian Mao, Yiming Liu, Fengze Liu, Qingli Li, **Wei Shen**, Yan Wang. <font color='Navy'>Intriguing Findings of Frequency Selection for Image Deblurring</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, Washington, USA, 2023. ([PDF](https://arxiv.org/pdf/2111.11745.pdf))
 
 Danyang Tu, Wei Sun, Xiongkuo Min, Guangtao Zhai, **Wei Shen**. <font color='Navy'>Video-based Human-Object Interaction Detection from Tubelet Tokens</font>. **Advances in Neural Information Processing Systems (NeurIPS)**, New Orleans, USA, 2022. ([PDF](https://arxiv.org/pdf/2206.01908.pdf))
