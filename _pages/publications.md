@@ -25,12 +25,12 @@ Tongkun Guan, **Wei Shen**, Xue Yang, Qi Feng, Zekun Jiang, Xiaokang Yang. <font
 Jiazhong Cen, Zekun Jiang, Lingxi Xie, Qi Tian, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Consensus Synergizes with Memory:
 A Simple Approach for Anomaly Segmentation in Urban Scenes</font>. **arXiv:2111.07832**. ([PDF](https://arxiv.org/pdf/2111.15463.pdf))
 
-Yilin Wang, Shaozuo Yu, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Making CNNs Interpretable by Building Dynamic Sequential Decision Forests with Top-down Hierarchy Learning</font>. **arXiv: 2106.02824**. ([PDF](https://arxiv.org/abs/2106.02824))
-
 Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='Navy'>Micro-Batch Training with Batch-Channel Normalization and Weight Standardization</font>. **arXiv:1903.10520**. ([PDF](https://arxiv.org/pdf/1903.10520.pdf))
 
 **Conference**
 ======
+Chen Yang, Kailing Wang, Yuehao Wang, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Neural LerPlane Representations for Fast 4D Reconstruction of Deformable Tissues</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, Vancouver, Canada, 2023. ([PDF](https://arxiv.org/abs/2305.19906))
+
 Chen Yang, Peihao Li, Zanwei Zhou, Shanxin Yuan, Bingbing Liu, Xiaokang Yang, Weichao Qiu, **Wei Shen**. <font color='Navy'>NeRFVS: Neural Radiance Fields for Free View Synthesis via Geometry Scaffolds</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Vancouver, Canada, 2023. ([PDF](https://arxiv.org/abs/2304.06287))
 
 Tongkun Guan, Chaochen Gu, Jingzheng Tu, Xue Yang, Qi Feng, Yudi Zhao, **Wei Shen**. <font color='Navy'>Self-supervised Implicit Glyph Attention for Text Recognition</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Vancouver, Canada, 2023. ([PDF](https://arxiv.org/abs/2203.03382))
