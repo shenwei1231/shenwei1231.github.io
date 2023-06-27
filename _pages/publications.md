@@ -22,9 +22,6 @@ Zelin Peng, Guanchun Wang, Lingxi Xie, Dongsheng Jiang, **Wei Shen**, Qi Tian. <
 
 Tongkun Guan, **Wei Shen**, Xue Yang, Qi Feng, Zekun Jiang, Xiaokang Yang. <font color='Navy'>Self-supervised Character-to-Character Distillation for Text Recognition</font>. **arXiv:2211.00288**. ([PDF](https://arxiv.org/abs/2211.00288))
 
-Jiazhong Cen, Zekun Jiang, Lingxi Xie, Qi Tian, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Consensus Synergizes with Memory:
-A Simple Approach for Anomaly Segmentation in Urban Scenes</font>. **arXiv:2111.07832**. ([PDF](https://arxiv.org/pdf/2111.15463.pdf))
-
 Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='Navy'>Micro-Batch Training with Batch-Channel Normalization and Weight Standardization</font>. **arXiv:1903.10520**. ([PDF](https://arxiv.org/pdf/1903.10520.pdf))
 
 **Conference**
@@ -138,6 +135,8 @@ Bo Wang, **Wei Shen**, Wenyu Liu, Xinge You, Xiang Bai. <font color='Navy'>Shape
 
 **Journal**
 ======
+Jiazhong Cen, Zekun Jiang, Lingxi Xie, Qi Tian, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Consensus Synergizes with Memory: A Simple Approach for Anomaly Segmentation in Urban Scenes</font>. **IEEE Trans. Circuits and Systems for Video Technology**, 2023. ([PDF](https://arxiv.org/pdf/2111.15463.pdf))
+
 **Wei Shen**, Zelin Peng, Xuehui Wang, Huayu Wang, Jiazhong Cen, Dongsheng Jiang, Lingxi Xie, Xiaokang Yang, Qi Tian. <font color='Navy'>A Survey on Label-efficient Deep Segmentation: Bridging the Gap between Weak Supervision and Dense Prediction</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 2023. ([PDF](https://arxiv.org/pdf/2207.01223.pdf))
 
 Meixuan Wu, Chengguang Zhu, Jiani Yang, Shanshan Cheng, Xiaokang Yang, Sijia Gu, Shilin Xu, Yongsong Wu, **Wei Shen**, Shan Huang, Yu Wang. <font color='Navy'>Exploring prognostic indicators in the pathological images of ovarian cancer based on a deep survival network</font>. **Frontiers in Genetics**, 2023. ([PDF](https://www.frontiersin.org/articles/10.3389/fgene.2022.1069673/full))
@@ -148,7 +147,7 @@ Mingyang Li, Zekun Jiang, **Wei Shen**, Haitao Liu. <font color='Navy'>Deep lear
 
 Michela Antonelli, Annika Reinke, Spyridon Bakas, Keyvan Farahani, AnnetteKopp-Schneider, Bennett A. Landman, Geert Litjens, Bjoern Menze, Olaf Ronneberger, Ronald M.Summers, Bram van Ginneken, Michel Bilello, Patrick Bilic, Patrick F. Christ, Richard K. G. Do, Marc J. Gollub, Stephan H. Heckers, Henkjan Huisman, William R. Jarnagin, Maureen K. McHugo, Sandy Napel, Jennifer S. Goli Pernicka, Kawal Rhode, Catalina Tobon-Gomez, Eugene Vorontsov, Henkjan Huisman, James A. Meakin, Sebastien Ourselin, Manuel Wiesenfarth, Pablo Arbelaez, Byeonguk Bae, Sihong Chen, Laura Daza, Jianjiang Feng, Baochun He, Fabian Isensee, Yuanfeng Ji, Fucang Jia, Namkug Kim, Ildoo Kim, Dorit Merhof, Akshay Pai, Beomhee Park, Mathias Perslev, Ramin Rezaiifar, Oliver Rippel, Ignacio Sarasua, **Wei Shen**, Jaemin Son, Christian Wachinger, Liansheng Wang, Yan Wang, Yingda Xia, Daguang Xu, Zhanwei Xu, Yefeng Zheng, Amber L. Simpson, Lena Maier-Hein, M. Jorge Cardoso. <font color='Navy'>The Medical Segmentation Decathlon</font>. **Nature Communications**, 2022. ([PDF](https://arxiv.org/pdf/2106.05735.pdf))
 
-Chen Yang, Shunyu Yao, Zanwei Zhou, Bin Ji, Guangtao Zhai, **Wei Shen**. <font color='Navy'>Poxture: Human Posture Imitation Using Neural Texture</font>. **IEEE Trans. Circuits and Systems for Video Technology**, 32（12）, 8537 - 8549, 2022. ([PDF](https://ieeexplore.ieee.org/document/9829868))
+Chen Yang, Shunyu Yao, Zanwei Zhou, Bin Ji, Guangtao Zhai, **Wei Shen**. <font color='Navy'>Poxture: Human Posture Imitation Using Neural Texture</font>. **IEEE Trans. Circuits and Systems for Video Technology**, 32(12), 8537 - 8549, 2022. ([PDF](https://ieeexplore.ieee.org/document/9829868))
 
 Huiyu Duan, **Wei Shen**, Xiongkuo Min, Yuan Tian, Jae-Hyun Jung, Xiaokang Yang, Guangtao Zhai. <font color='Navy'>Develop then Rival: A Human Vision-Inspired Framework for Superimposed Image Decomposition</font>. **IEEE Trans. Multimedia**, 2022. ([PDF](https://ieeexplore.ieee.org/document/9769950))
 
