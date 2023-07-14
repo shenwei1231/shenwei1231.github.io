@@ -18,14 +18,14 @@ You can also find my full publication list on my [Google Scholar profile](http:/
 ======
 Jiazhong Cen, Zanwei Zhou, Jiemin Fang, **Wei Shen**, Lingxi Xie, Dongsheng Jiang, Xiaopeng Zhang, Qi Tian. <font color='Navy'>Segment Anything in 3D with NeRFs</font>. **arXiv:2304.12308**. ([PDF](https://arxiv.org/abs/2304.12308))
 
-Zelin Peng, Guanchun Wang, Lingxi Xie, Dongsheng Jiang, **Wei Shen**, Qi Tian. <font color='Navy'>USAGE: A Unified Seed Area Generation Paradigm for Weakly Supervised Semantic Segmentation</font>. **arXiv:2303.07806**. ([PDF](https://arxiv.org/abs/2303.07806))
-
-Tongkun Guan, **Wei Shen**, Xue Yang, Qi Feng, Zekun Jiang, Xiaokang Yang. <font color='Navy'>Self-supervised Character-to-Character Distillation for Text Recognition</font>. **arXiv:2211.00288**. ([PDF](https://arxiv.org/abs/2211.00288))
-
 Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='Navy'>Micro-Batch Training with Batch-Channel Normalization and Weight Standardization</font>. **arXiv:1903.10520**. ([PDF](https://arxiv.org/pdf/1903.10520.pdf))
 
 **Conference**
 ======
+Zelin Peng, Guanchun Wang, Lingxi Xie, Dongsheng Jiang, **Wei Shen**, Qi Tian. <font color='Navy'>USAGE: A Unified Seed Area Generation Paradigm for Weakly Supervised Semantic Segmentation</font>. **IEEE International Conference on Computer Vision (ICCV)**. ([PDF](https://arxiv.org/abs/2303.07806))
+
+Tongkun Guan, **Wei Shen**, Xue Yang, Qi Feng, Zekun Jiang, Xiaokang Yang. <font color='Navy'>Self-supervised Character-to-Character Distillation for Text Recognition</font>. **IEEE International Conference on Computer Vision (ICCV)**. ([PDF](https://arxiv.org/abs/2211.00288))
+
 Chen Yang, Kailing Wang, Yuehao Wang, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Neural LerPlane Representations for Fast 4D Reconstruction of Deformable Tissues</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, Vancouver, Canada, 2023. ([PDF](https://arxiv.org/abs/2305.19906))
 
 Chen Yang, Peihao Li, Zanwei Zhou, Shanxin Yuan, Bingbing Liu, Xiaokang Yang, Weichao Qiu, **Wei Shen**. <font color='Navy'>NeRFVS: Neural Radiance Fields for Free View Synthesis via Geometry Scaffolds</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Vancouver, Canada, 2023. ([PDF](https://arxiv.org/abs/2304.06287))

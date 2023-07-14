@@ -26,6 +26,7 @@ My research interests lie in the fields of computer vision, machine learning, de
 
 **Recent News**
 ======
+- Three papers have been accepted to ICCV 2023.
 - I will serve as an Area Chair for NeurIPS 2023.
 - Four papers have been accepted to CVPR 2023.
 - One paper has been accepted to IEEE TPAMI.
