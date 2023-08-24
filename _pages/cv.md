@@ -40,7 +40,7 @@ Academic Service
 	* Neurocomputing, 2019 - present
 	* Image and Vision Computing, 2023 - present 
 * Conference Area Chair/Senior Program Committee (SPC) Member
-	* NeurIPS 2023, CVPR 2022, AAAI 2022, ACCV 2022, CVPR 2023
+	* WACV 2024, NeurIPS 2023, CVPR 2023, CVPR 2022, AAAI 2022, ACCV 2022
 * Journal Reviewer	
 	* IEEE Transactions on Pattern Analysis and Machine Intelligence
     * IEEE Transactions on Image Processing
