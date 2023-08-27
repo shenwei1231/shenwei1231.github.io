@@ -26,6 +26,7 @@ Work experience
 
 Grants
 ======
+* 2024.01 - 2026.12		  Shape Guided Image Segmentation, **National Natural Science Foundation of China** No. 62322604 **(PI)**
 * 2022.01 - 2025.12       Deep Sequential Decision Trees with Applications to Visual Recognition, **National Natural Science Foundation of China** No. 62176159​ **(PI)**
 * 2021.07 - 2024.06		  Deep Differentiable Random Forests with Applications to Visual Recognition, **Natural Science Foundation of Shanghai** No. 21ZR1432200 **(PI)**
 * 2017.01 - 2020.12       Object proposal detection by deep shape feature extraction in natural images, **National Natural Science Foundation of China** No. 61672336​ **(PI)**
