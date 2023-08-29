@@ -26,7 +26,7 @@ Zelin Peng, Guanchun Wang, Lingxi Xie, Dongsheng Jiang, **Wei Shen**, Qi Tian. <
 
 Tongkun Guan, **Wei Shen**, Xue Yang, Qi Feng, Zekun Jiang, Xiaokang Yang. <font color='Navy'>Self-supervised Character-to-Character Distillation for Text Recognition</font>. **IEEE International Conference on Computer Vision (ICCV)**, Paris, France, 2023. ([PDF](https://arxiv.org/abs/2211.00288))
 
-Danyang Tu, Wei Sun, Guangtao Zhai, **Wei Shen**. <font color='Navy'>Agglomerative Transformer for Human-Object Interaction Detection</font>. **IEEE International Conference on Computer Vision (ICCV)**, Paris, France, 2023. ([PDF]())
+Danyang Tu, Wei Sun, Guangtao Zhai, **Wei Shen**. <font color='Navy'>Agglomerative Transformer for Human-Object Interaction Detection</font>. **IEEE International Conference on Computer Vision (ICCV)**, Paris, France, 2023. ([PDF](https://arxiv.org/abs/2308.08370))
 
 Chen Yang, Kailing Wang, Yuehao Wang, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Neural LerPlane Representations for Fast 4D Reconstruction of Deformable Tissues</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, Vancouver, Canada, 2023. ([PDF](https://arxiv.org/abs/2305.19906)) **(STAR Award)**
 
