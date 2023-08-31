@@ -16,7 +16,7 @@ You can also find my full publication list on my [Google Scholar profile](http:/
 
 **Preprints**
 ======
-Zelin Peng, Zhengqin Xu, Zhilin Zeng, Xiaokang Yang, Wei Shen. <font color='Navy'>SAM-PARSER: Fine-tuning SAM Efficiently by Parameter Space Reconstruction</font>. **arXiv:2308.14604**. ([PDF](https://arxiv.org/abs/2308.14604))
+Zelin Peng, Zhengqin Xu, Zhilin Zeng, Xiaokang Yang, **Wei Shen**. <font color='Navy'>SAM-PARSER: Fine-tuning SAM Efficiently by Parameter Space Reconstruction</font>. **arXiv:2308.14604**. ([PDF](https://arxiv.org/abs/2308.14604))
 
 Jiazhong Cen, Zanwei Zhou, Jiemin Fang, **Wei Shen**, Lingxi Xie, Dongsheng Jiang, Xiaopeng Zhang, Qi Tian. <font color='Navy'>Segment Anything in 3D with NeRFs</font>. **arXiv:2304.12308**. ([PDF](https://arxiv.org/abs/2304.12308))
 
