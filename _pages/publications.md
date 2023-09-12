@@ -139,6 +139,8 @@ Bo Wang, **Wei Shen**, Wenyu Liu, Xinge You, Xiang Bai. <font color='Navy'>Shape
 
 **Journal**
 ======
+Danyang Tu, **Wei Shen**, Wei Sun, Xiongkuo Min, Guangtao Zhai, Changwen Chen. <font color='Navy'>Un-Gaze: an Unified Transformer for Joint Gaze-Location and Gaze-Object Detection</font>. **IEEE Trans. Circuits and Systems for Video Technology**, 2023. ([PDF](https://arxiv.org/pdf/2308.13857.pdf))
+
 Jiazhong Cen, Zekun Jiang, Lingxi Xie, Dongsheng Jiang, **Wei Shen**, Qi Tian. <font color='Navy'>Consensus Synergizes with Memory: A Simple Approach for Anomaly Segmentation in Urban Scenes</font>. **IEEE Trans. Circuits and Systems for Video Technology**, 2023. ([PDF](https://arxiv.org/pdf/2111.15463.pdf))
 
 **Wei Shen**, Zelin Peng, Xuehui Wang, Huayu Wang, Jiazhong Cen, Dongsheng Jiang, Lingxi Xie, Xiaokang Yang, Qi Tian. <font color='Navy'>A Survey on Label-efficient Deep Segmentation: Bridging the Gap between Weak Supervision and Dense Prediction</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 45(8), 9284-9305, 2023. ([PDF](https://arxiv.org/pdf/2207.01223.pdf))
