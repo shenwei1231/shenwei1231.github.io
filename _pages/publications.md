@@ -18,12 +18,12 @@ You can also find my full publication list on my [Google Scholar profile](http:/
 ======
 Zelin Peng, Zhengqin Xu, Zhilin Zeng, Xiaokang Yang, **Wei Shen**. <font color='Navy'>SAM-PARSER: Fine-tuning SAM Efficiently by Parameter Space Reconstruction</font>. **arXiv:2308.14604**. ([PDF](https://arxiv.org/abs/2308.14604))
 
-Jiazhong Cen, Zanwei Zhou, Jiemin Fang, **Wei Shen**, Lingxi Xie, Dongsheng Jiang, Xiaopeng Zhang, Qi Tian. <font color='Navy'>Segment Anything in 3D with NeRFs</font>. **arXiv:2304.12308**. ([PDF](https://arxiv.org/abs/2304.12308))
-
 Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='Navy'>Micro-Batch Training with Batch-Channel Normalization and Weight Standardization</font>. **arXiv:1903.10520**. ([PDF](https://arxiv.org/pdf/1903.10520.pdf))
 
 **Conference**
 ======
+Jiazhong Cen, Zanwei Zhou, Jiemin Fang, **Wei Shen**, Lingxi Xie, Dongsheng Jiang, Xiaopeng Zhang, Qi Tian. <font color='Navy'>Segment Anything in 3D with NeRFs</font>. **Advances in Neural Information Processing Systems (NeurIPS)**, New Orleans, USA, 2023. ([PDF](https://arxiv.org/abs/2304.12308))
+
 Zelin Peng, Guanchun Wang, Lingxi Xie, Dongsheng Jiang, **Wei Shen**, Qi Tian. <font color='Navy'>USAGE: A Unified Seed Area Generation Paradigm for Weakly Supervised Semantic Segmentation</font>. **IEEE International Conference on Computer Vision (ICCV)**, Paris, France, 2023. ([PDF](https://arxiv.org/abs/2303.07806))
 
 Tongkun Guan, **Wei Shen**, Xue Yang, Qi Feng, Zekun Jiang, Xiaokang Yang. <font color='Navy'>Self-supervised Character-to-Character Distillation for Text Recognition</font>. **IEEE International Conference on Computer Vision (ICCV)**, Paris, France, 2023. ([PDF](https://arxiv.org/abs/2211.00288))
