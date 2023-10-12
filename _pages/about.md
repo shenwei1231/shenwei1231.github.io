@@ -26,12 +26,12 @@ My research interests lie in the fields of computer vision, machine learning, de
 
 **Recent News**
 ======
+- Our MICCAI 2023 paper receives **Young Scientist Award**.
+>* [Neural LerPlane Representations for Fast 4D Reconstruction of Deformable Tissues](https://arxiv.org/abs/2305.19906)
 - One paper has been accepted to NeurIPS 2023.
 >* [Segment Anything in 3D with NeRFs](https://arxiv.org/abs/2304.12308)
 - I will serve as an Area Chair for WACV 2024.
 - Three papers have been accepted to ICCV 2023.
-- One MICCAI 2023 paper receives **STAR Award**.
->* [Neural LerPlane Representations for Fast 4D Reconstruction of Deformable Tissues](https://arxiv.org/abs/2305.19906)
 - I will serve as an Area Chair for NeurIPS 2023.
 - Four papers have been accepted to CVPR 2023.
 - One paper has been accepted to IEEE TPAMI.
