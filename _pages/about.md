@@ -26,6 +26,7 @@ My research interests lie in the fields of computer vision, machine learning, de
 
 **Recent News**
 ======
+- Three papers have been accepted to AAAI 2024.
 - Our MICCAI 2023 paper receives **Young Scientist Award**.
 >* [Neural LerPlane Representations for Fast 4D Reconstruction of Deformable Tissues](https://arxiv.org/abs/2305.19906)
 - One paper has been accepted to NeurIPS 2023.
@@ -70,4 +71,4 @@ My research interests lie in the fields of computer vision, machine learning, de
 
 **Short Bio**
 ======
-Wei Shen is a tenure-track Associate Professor at the Artificial Intelligence Institute, Shanghai Jiao Tong University, since October 2020. Before that, he was an Assistant Research Professor at the Department of Computer Science, [Johns Hopkins University](https://www.jhu.edu/), worked with [Bloomberg Distinguished Professor Alan Yuille](http://www.cs.jhu.edu/~ayuille/). He received his B.S. and Ph.D. degrees from Huazhong University of Science and Technology in 2007 and in 2012, respectively. In 2012, he joined Shanghai University, served as an Assistant Professor and then an Associate Professor until Oct 2018. He also worked as a research intern with [Prof. Zhuowen Tu](https://pages.ucsd.edu/~ztu/) at Microsoft Research Asia. He has over 50 peer-reviewed publications in computer vision and machine learning related areas, including IEEE Trans. PAMI, IEEE Trans. Image Processing, IEEE Trans. Medical Imaging, NIPS, ICML, ICCV, CVPR, ECCV and MICCAI. He is an Area Chair for NeurIPS 2023, CVPR 2022/2023 and ACCV 2022.
+Wei Shen is a tenure-track Associate Professor at the Artificial Intelligence Institute, Shanghai Jiao Tong University, since October 2020. Before that, he was an Assistant Research Professor at the Department of Computer Science, [Johns Hopkins University](https://www.jhu.edu/), worked with [Bloomberg Distinguished Professor Alan Yuille](http://www.cs.jhu.edu/~ayuille/). He received his B.S. and Ph.D. degrees from Huazhong University of Science and Technology in 2007 and in 2012, respectively. In 2012, he joined Shanghai University, served as an Assistant Professor and then an Associate Professor until Oct 2018. He also worked as a research intern with [Prof. Zhuowen Tu](https://pages.ucsd.edu/~ztu/) at Microsoft Research Asia. He has over 80 peer-reviewed publications in computer vision and machine learning related areas, including IEEE Trans. PAMI, IEEE Trans. Image Processing, IEEE Trans. Medical Imaging, NIPS, ICML, ICCV, CVPR, ECCV and MICCAI. He is an Area Chair for NeurIPS 2023, CVPR 2022/2023, ACCV 2022 and WACV 2024. He receives the MICCAI Young Scientist Award and the NSFC Excellent Young Scientists Fund in 2023.
