@@ -16,12 +16,16 @@ You can also find my full publication list on my [Google Scholar profile](http:/
 
 **Preprints**
 ======
-Zelin Peng, Zhengqin Xu, Zhilin Zeng, Xiaokang Yang, **Wei Shen**. <font color='Navy'>SAM-PARSER: Fine-tuning SAM Efficiently by Parameter Space Reconstruction</font>. **arXiv:2308.14604**. ([PDF](https://arxiv.org/abs/2308.14604))
+Zelin Peng, Zhengqin Xu, Zhilin Zeng, Lingxi Xie, Qi Tian, **Wei Shen**. <font color='Navy'>Parameter Efficient Fine-tuning via Cross Block Orchestration for Segment Anything Model</font>. **arXiv:2311.17112**. ([PDF](https://arxiv.org/pdf/2311.17112.pdf))
+
+Jiazhong Cen, Jiemin Fang, Chen Yang, Lingxi Xie, Xiaopeng Zhang, **Wei Shen**, Qi Tian. <font color='Navy'>Segment Any 3D Gaussians</font>. **arXiv:2312.00860**. ([PDF](https://arxiv.org/pdf/2312.00860.pdf))
 
 Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='Navy'>Micro-Batch Training with Batch-Channel Normalization and Weight Standardization</font>. **arXiv:1903.10520**. ([PDF](https://arxiv.org/pdf/1903.10520.pdf))
 
 **Conference**
 ======
+Zelin Peng, Zhengqin Xu, Zhilin Zeng, Xiaokang Yang, **Wei Shen**. <font color='Navy'>SAM-PARSER: Fine-tuning SAM Efficiently by Parameter Space Reconstruction</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, Vancouver, Canada, 2024. ([PDF](https://arxiv.org/abs/2308.14604))
+
 Jiazhong Cen, Zanwei Zhou, Jiemin Fang, **Wei Shen**, Lingxi Xie, Dongsheng Jiang, Xiaopeng Zhang, Qi Tian. <font color='Navy'>Segment Anything in 3D with NeRFs</font>. **Advances in Neural Information Processing Systems (NeurIPS)**, New Orleans, USA, 2023. ([PDF](https://arxiv.org/abs/2304.12308))
 
 Zelin Peng, Guanchun Wang, Lingxi Xie, Dongsheng Jiang, **Wei Shen**, Qi Tian. <font color='Navy'>USAGE: A Unified Seed Area Generation Paradigm for Weakly Supervised Semantic Segmentation</font>. **IEEE International Conference on Computer Vision (ICCV)**, Paris, France, 2023. ([PDF](https://arxiv.org/abs/2303.07806))
