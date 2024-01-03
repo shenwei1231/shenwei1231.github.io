@@ -16,6 +16,8 @@ You can also find my full publication list on my [Google Scholar profile](http:/
 
 **Preprints**
 ======
+Chen Yang, Kailing Wang, Yuehao Wang, Qi Dou, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Efficient Deformable Tissue Reconstruction via Orthogonal Neural Plane</font>. **arXiv:2312.15253**. ([PDF](https://arxiv.org/pdf/2312.15253.pdf))
+
 Zelin Peng, Zhengqin Xu, Zhilin Zeng, Lingxi Xie, Qi Tian, **Wei Shen**. <font color='Navy'>Parameter Efficient Fine-tuning via Cross Block Orchestration for Segment Anything Model</font>. **arXiv:2311.17112**. ([PDF](https://arxiv.org/pdf/2311.17112.pdf))
 
 Jiazhong Cen, Jiemin Fang, Chen Yang, Lingxi Xie, Xiaopeng Zhang, **Wei Shen**, Qi Tian. <font color='Navy'>Segment Any 3D Gaussians</font>. **arXiv:2312.00860**. ([PDF](https://arxiv.org/pdf/2312.00860.pdf))
@@ -25,6 +27,8 @@ Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='Nav
 **Conference**
 ======
 Zelin Peng, Zhengqin Xu, Zhilin Zeng, Xiaokang Yang, **Wei Shen**. <font color='Navy'>SAM-PARSER: Fine-tuning SAM Efficiently by Parameter Space Reconstruction</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, Vancouver, Canada, 2024. ([PDF](https://arxiv.org/abs/2308.14604))
+
+Chongjie Si, Zekun Jiang, Xuehui Wang, Yan Wang, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Partial Label Learning with a Partner</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, Vancouver, Canada, 2024. ([PDF](https://arxiv.org/abs/2312.11034))
 
 Jiazhong Cen, Zanwei Zhou, Jiemin Fang, **Wei Shen**, Lingxi Xie, Dongsheng Jiang, Xiaopeng Zhang, Qi Tian. <font color='Navy'>Segment Anything in 3D with NeRFs</font>. **Advances in Neural Information Processing Systems (NeurIPS)**, New Orleans, USA, 2023. ([PDF](https://arxiv.org/abs/2304.12308)) ([CODE](https://github.com/SJTU-DeepVisionLab/SegmentAnythingin3D))
 
