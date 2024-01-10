@@ -16,6 +16,8 @@ You can also find my full publication list on my [Google Scholar profile](http:/
 
 **Preprints**
 ======
+Tongkun Guan, **Wei Shen**, Xue Yang, Xuehui Wang, Xiaokang Yang. <font color='Navy'>Bridging Synthetic and Real Worlds for Pre-training Scene Text Detectors</font>. **arXiv:2312.05286**. ([PDF](https://arxiv.org/pdf/2312.05286.pdf))
+
 Chen Yang, Kailing Wang, Yuehao Wang, Qi Dou, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Efficient Deformable Tissue Reconstruction via Orthogonal Neural Plane</font>. **arXiv:2312.15253**. ([PDF](https://arxiv.org/pdf/2312.15253.pdf))
 
 Zelin Peng, Zhengqin Xu, Zhilin Zeng, Lingxi Xie, Qi Tian, **Wei Shen**. <font color='Navy'>Parameter Efficient Fine-tuning via Cross Block Orchestration for Segment Anything Model</font>. **arXiv:2311.17112**. ([PDF](https://arxiv.org/pdf/2311.17112.pdf))
