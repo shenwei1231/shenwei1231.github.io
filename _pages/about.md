@@ -27,6 +27,9 @@ My research interests lie in the fields of computer vision, machine learning, de
 **Recent News**
 ======
 - Three papers have been accepted to AAAI 2024.
+>* [SAM-PARSER: Fine-tuning SAM Efficiently by Parameter Space Reconstruction](https://arxiv.org/pdf/2308.14604.pdf)
+>* [ViTree: Single-Path Neural Tree for Step-Wise Interpretable Fine-Grained Visual Categorization](https://arxiv.org/pdf/2401.17050.pdf)
+>* [Partial Label Learning with a Partner](https://arxiv.org/pdf/2312.11034.pdf)
 - Our MICCAI 2023 paper receives **Young Scientist Award**.
 >* [Neural LerPlane Representations for Fast 4D Reconstruction of Deformable Tissues](https://arxiv.org/abs/2305.19906)
 - One paper has been accepted to NeurIPS 2023.
