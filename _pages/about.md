@@ -27,7 +27,7 @@ My research interests lie in the fields of computer vision, machine learning, de
 **Recent News**
 ======
 - One paper has been accepted to CVPR 2024.
->* [Parameter Efficient Fine-tuning via Cross Block Orchestration for Segment Anything Model] (https://arxiv.org/pdf/2311.17112.pdf)
+>* [Parameter Efficient Fine-tuning via Cross Block Orchestration for Segment Anything Model](https://arxiv.org/pdf/2311.17112.pdf)
 - Three papers have been accepted to AAAI 2024.
 >* [SAM-PARSER: Fine-tuning SAM Efficiently by Parameter Space Reconstruction](https://arxiv.org/pdf/2308.14604.pdf)
 >* [ViTree: Single-Path Neural Tree for Step-Wise Interpretable Fine-Grained Visual Categorization](https://arxiv.org/pdf/2401.17050.pdf)
