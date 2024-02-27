@@ -155,7 +155,7 @@ Bo Wang, **Wei Shen**, Wenyu Liu, Xinge You, Xiang Bai. <font color='Navy'>Shape
 ======
 Danyang Tu, **Wei Shen**, Wei Sun, Xiongkuo Min, Guangtao Zhai, Changwen Chen. <font color='Navy'>Un-Gaze: an Unified Transformer for Joint Gaze-Location and Gaze-Object Detection</font>. **IEEE Trans. Circuits and Systems for Video Technology**, 2023. ([PDF](https://arxiv.org/pdf/2308.13857.pdf))
 
-Jiazhong Cen, Zekun Jiang, Lingxi Xie, Dongsheng Jiang, **Wei Shen**, Qi Tian. <font color='Navy'>Consensus Synergizes with Memory: A Simple Approach for Anomaly Segmentation in Urban Scenes</font>. **IEEE Trans. Circuits and Systems for Video Technology**, 2023. ([PDF](https://arxiv.org/pdf/2111.15463.pdf))
+Jiazhong Cen, Zekun Jiang, Lingxi Xie, Dongsheng Jiang, **Wei Shen**, Qi Tian. <font color='Navy'>Consensus Synergizes with Memory: A Simple Approach for Anomaly Segmentation in Urban Scenes</font>. **IEEE Trans. Circuits and Systems for Video Technology**, 34(2): 1086-1097, 2024. ([PDF](https://arxiv.org/pdf/2111.15463.pdf))
 
 **Wei Shen**, Zelin Peng, Xuehui Wang, Huayu Wang, Jiazhong Cen, Dongsheng Jiang, Lingxi Xie, Xiaokang Yang, Qi Tian. <font color='Navy'>A Survey on Label-efficient Deep Segmentation: Bridging the Gap between Weak Supervision and Dense Prediction</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 45(8), 9284-9305, 2023. ([PDF](https://arxiv.org/pdf/2207.01223.pdf))
 
@@ -163,15 +163,15 @@ Meixuan Wu, Chengguang Zhu, Jiani Yang, Shanshan Cheng, Xiaokang Yang, Sijia Gu,
 
 Yuhui Xu, Lingxi Xie, Cihang Xie, Wenrui Dai, Jieru Mei, Siyuan Qiao, **Wei Shen**, Hongkai Xiong, Alan Yuille. <font color='Navy'>Batch Normalization with Enhanced Linear Transformation</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 45(7), 9225-9232, 2023. ([PDF](https://arxiv.org/pdf/2011.14150.pdf))
 
+Huiyu Duan, **Wei Shen**, Xiongkuo Min, Yuan Tian, Jae-Hyun Jung, Xiaokang Yang, Guangtao Zhai. <font color='Navy'>Develop then Rival: A Human Vision-Inspired Framework for Superimposed Image Decomposition</font>. **IEEE Trans. Multimedia**, 25: 4267-4281, 2023. ([PDF](https://ieeexplore.ieee.org/document/9769950))
+
+Yuzhi Zhao, Lai-Man Po, Xuehui Wang, Qiong Yan, **Wei Shen**, Yujia Zhang, Wei Liu, Chun-Kit Wong, Chiu-Sing Pang, Weifeng Ou, Wing-Yin Yu, Buhua Liu. <font color='Navy'>ChildPredictor: A Child Face Prediction Framework with Disentangled Learning</font>. **IEEE Trans. Multimedia**, 25: 3737-3752, 2023. ([PDF](https://ieeexplore.ieee.org/document/9749880))
+
 Mingyang Li, Zekun Jiang, **Wei Shen**, Haitao Liu. <font color='Navy'>Deep learning in bladder cancer imaging: A review</font>. **Frontiers in Oncology**, 2022. ([PDF](https://www.frontiersin.org/articles/10.3389/fonc.2022.930917/full))
 
 Michela Antonelli, Annika Reinke, Spyridon Bakas, Keyvan Farahani, AnnetteKopp-Schneider, Bennett A. Landman, Geert Litjens, Bjoern Menze, Olaf Ronneberger, Ronald M.Summers, Bram van Ginneken, Michel Bilello, Patrick Bilic, Patrick F. Christ, Richard K. G. Do, Marc J. Gollub, Stephan H. Heckers, Henkjan Huisman, William R. Jarnagin, Maureen K. McHugo, Sandy Napel, Jennifer S. Goli Pernicka, Kawal Rhode, Catalina Tobon-Gomez, Eugene Vorontsov, Henkjan Huisman, James A. Meakin, Sebastien Ourselin, Manuel Wiesenfarth, Pablo Arbelaez, Byeonguk Bae, Sihong Chen, Laura Daza, Jianjiang Feng, Baochun He, Fabian Isensee, Yuanfeng Ji, Fucang Jia, Namkug Kim, Ildoo Kim, Dorit Merhof, Akshay Pai, Beomhee Park, Mathias Perslev, Ramin Rezaiifar, Oliver Rippel, Ignacio Sarasua, **Wei Shen**, Jaemin Son, Christian Wachinger, Liansheng Wang, Yan Wang, Yingda Xia, Daguang Xu, Zhanwei Xu, Yefeng Zheng, Amber L. Simpson, Lena Maier-Hein, M. Jorge Cardoso. <font color='Navy'>The Medical Segmentation Decathlon</font>. **Nature Communications**, 13(4128), 2022. ([PDF](https://arxiv.org/pdf/2106.05735.pdf))
 
 Chen Yang, Shunyu Yao, Zanwei Zhou, Bin Ji, Guangtao Zhai, **Wei Shen**. <font color='Navy'>Poxture: Human Posture Imitation Using Neural Texture</font>. **IEEE Trans. Circuits and Systems for Video Technology**, 32(12), 8537 - 8549, 2022. ([PDF](https://ieeexplore.ieee.org/document/9829868))
-
-Huiyu Duan, **Wei Shen**, Xiongkuo Min, Yuan Tian, Jae-Hyun Jung, Xiaokang Yang, Guangtao Zhai. <font color='Navy'>Develop then Rival: A Human Vision-Inspired Framework for Superimposed Image Decomposition</font>. **IEEE Trans. Multimedia**, 2022. ([PDF](https://ieeexplore.ieee.org/document/9769950))
-
-Yuzhi Zhao, Lai-Man Po, Xuehui Wang, Qiong Yan, **Wei Shen**, Yujia Zhang, Wei Liu, Chun-Kit Wong, Chiu-Sing Pang, Weifeng Ou, Wing-Yin Yu, Buhua Liu. <font color='Navy'>ChildPredictor: A Child Face Prediction Framework with Disentangled Learning</font>. **IEEE Trans. Multimedia**, 2022. ([PDF](https://ieeexplore.ieee.org/document/9749880))
 
 Yuyin Zhou, David Dreizin, Yan Wang, Fengze Liu, **Wei Shen**, Alan Yuille. <font color='Navy'>External Attention Assisted Multi-Phase Splenic Vascular Injury Segmentation with Limited Data</font>. **IEEE Trans. Medical Imaging**, 41(6), 1346-1357, 2022. ([PDF](../files/External_Attention.pdf))
 
