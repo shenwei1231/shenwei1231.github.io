@@ -16,8 +16,6 @@ You can also find my full publication list on my [Google Scholar profile](http:/
 
 **Preprints**
 ======
-Kailing Wang, Chen Yang, Yuehao Wang, Sikuang Li, Yan Wang, Qi Dou, Xiaokang Yang, **Wei Shen**. <font color='Navy'>EndoGSLAM: Real-Time Dense Reconstruction and Tracking in Endoscopic Surgeries using Gaussian Splatting</font>. **arXiv:2403.15124**. ([PDF](https://arxiv.org/pdf/2403.15124.pdf))([Project Page](https://endogslam.loping151.com/))
-
 Tongkun Guan, **Wei Shen**, Xue Yang, Xuehui Wang, Xiaokang Yang. <font color='Navy'>Bridging Synthetic and Real Worlds for Pre-training Scene Text Detectors</font>. **arXiv:2312.05286**. ([PDF](https://arxiv.org/pdf/2312.05286.pdf))
 
 Chen Yang, Kailing Wang, Yuehao Wang, Qi Dou, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Efficient Deformable Tissue Reconstruction via Orthogonal Neural Plane</font>. **arXiv:2312.15253**. ([PDF](https://arxiv.org/pdf/2312.15253.pdf))
