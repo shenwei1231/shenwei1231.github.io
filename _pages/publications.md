@@ -141,7 +141,7 @@ Zheng Zhang, Chenquan Zhang, **Wei Shen**, Cong Yao, Wenyu Liu, Xiang Bai. <font
 
 Zheng Zhang, **Wei Shen**, Cong Yao, Xiang Bai. <font color='Navy'>Symmetry-Based Text Line Detection in Natural Scenes</font>. ﻿**IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**﻿, Boston, USA, 2015. ([PDF](https://openaccess.thecvf.com/content_cvpr_2015/papers/Zhang_Symmetry-Based_Text_Line_2015_CVPR_paper.pdf))
 
-Shifu Zhou, **Wei Shen**, Dan Zeng, Zhijiang Zhang. <font color='Navy'>Unusual Event Detection in Crowded Scenes by Trajectory Analysis</font>. **International Conference on Acoustics, Speech, and Signal Processing (ICASSP)**, Brisbane, Australia, 2015.
+Shifu Zhou, **Wei Shen**, Dan Zeng, Zhijiang Zhang. <font color='Navy'>Unusual Event Detection in Crowded Scenes by Trajectory Analysis</font>. **IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)**, Brisbane, Australia, 2015.
 
 **Wei Shen**, Rui Lei, Dan Zeng, Zhijiang Zhang. <font color='Navy'>Regularity Guaranteed Human Pose Correction</font>. **Asian Conference on Computer Vision (ACCV)**, Singapore, 2014. ([PDF](../files/rgposecorrectionfinal.pdf))
 
