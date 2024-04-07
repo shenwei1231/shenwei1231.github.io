@@ -34,6 +34,8 @@ Danning Lao, Qi Liu, Jiazi Bu, Junchi Yan, **Wei Shen**. <font color='Navy'>ViTr
 
 Chongjie Si, Zekun Jiang, Xuehui Wang, Yan Wang, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Partial Label Learning with a Partner</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, Vancouver, Canada, 2024. ([PDF](https://arxiv.org/abs/2312.11034))
 
+Huayu Wang, Zekun Jiang, Lingxi Xie, Dongsheng Jiang, **Wei Shen**, Qi Tian. <font color='Navy'>Domain-Adaptive Semantic Segmentation Emerges From Vision-Language Supervised Domain-Debiased Self-Training</font>. **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**, Seoul, Korea, 2024. ([PDF](https://ieeexplore.ieee.org/abstract/document/10447308))
+
 Jiazhong Cen, Zanwei Zhou, Jiemin Fang, **Wei Shen**, Lingxi Xie, Dongsheng Jiang, Xiaopeng Zhang, Qi Tian. <font color='Navy'>Segment Anything in 3D with NeRFs</font>. **Advances in Neural Information Processing Systems (NeurIPS)**, New Orleans, USA, 2023. ([PDF](https://arxiv.org/abs/2304.12308)) ([CODE](https://github.com/SJTU-DeepVisionLab/SegmentAnythingin3D))
 
 Zelin Peng, Guanchun Wang, Lingxi Xie, Dongsheng Jiang, **Wei Shen**, Qi Tian. <font color='Navy'>USAGE: A Unified Seed Area Generation Paradigm for Weakly Supervised Semantic Segmentation</font>. **IEEE International Conference on Computer Vision (ICCV)**, Paris, France, 2023. ([PDF](https://arxiv.org/abs/2303.07806))
