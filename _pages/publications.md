@@ -18,8 +18,6 @@ You can also find my full publication list on my [Google Scholar profile](http:/
 ======
 Tongkun Guan, **Wei Shen**, Xue Yang, Xuehui Wang, Xiaokang Yang. <font color='Navy'>Bridging Synthetic and Real Worlds for Pre-training Scene Text Detectors</font>. **arXiv:2312.05286**. ([PDF](https://arxiv.org/pdf/2312.05286.pdf))
 
-Chen Yang, Kailing Wang, Yuehao Wang, Qi Dou, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Efficient Deformable Tissue Reconstruction via Orthogonal Neural Plane</font>. **arXiv:2312.15253**. ([PDF](https://arxiv.org/pdf/2312.15253.pdf))
-
 Jiazhong Cen, Jiemin Fang, Chen Yang, Lingxi Xie, Xiaopeng Zhang, **Wei Shen**, Qi Tian. <font color='Navy'>Segment Any 3D Gaussians</font>. **arXiv:2312.00860**. ([PDF](https://arxiv.org/pdf/2312.00860.pdf))
 
 Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='Navy'>Micro-Batch Training with Batch-Channel Normalization and Weight Standardization</font>. **arXiv:1903.10520**. ([PDF](https://arxiv.org/pdf/1903.10520.pdf))
@@ -153,6 +151,8 @@ Bo Wang, **Wei Shen**, Wenyu Liu, Xinge You, Xiang Bai. <font color='Navy'>Shape
 
 **Journal**
 ======
+Chen Yang, Kailing Wang, Yuehao Wang, Qi Dou, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Efficient Deformable Tissue Reconstruction via Orthogonal Neural Plane</font>. **IEEE Trans. Medical Imaging**, 2024. ([PDF](https://arxiv.org/pdf/2312.15253.pdf))
+
 Danyang Tu, **Wei Shen**, Wei Sun, Xiongkuo Min, Guangtao Zhai, Changwen Chen. <font color='Navy'>Un-Gaze: an Unified Transformer for Joint Gaze-Location and Gaze-Object Detection</font>. **IEEE Trans. Circuits and Systems for Video Technology**, 2023. ([PDF](https://arxiv.org/pdf/2308.13857.pdf))
 
 Jiazhong Cen, Zekun Jiang, Lingxi Xie, Dongsheng Jiang, **Wei Shen**, Qi Tian. <font color='Navy'>Consensus Synergizes with Memory: A Simple Approach for Anomaly Segmentation in Urban Scenes</font>. **IEEE Trans. Circuits and Systems for Video Technology**, 34(2): 1086-1097, 2024. ([PDF](https://arxiv.org/pdf/2111.15463.pdf))

@@ -26,6 +26,8 @@ My research interests lie in the fields of computer vision, machine learning, de
 
 **Recent News**
 ======
+- One paper has been accepted to IEEE TMI.
+>* [Efficient Deformable Tissue Reconstruction via Orthogonal Neural Plane](https://arxiv.org/pdf/2312.15253.pdf)
 - One paper has been accepted to CVPR 2024.
 >* [Parameter Efficient Fine-tuning via Cross Block Orchestration for Segment Anything Model](https://arxiv.org/pdf/2311.17112.pdf)
 - Three papers have been accepted to AAAI 2024.
