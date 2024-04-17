@@ -34,7 +34,7 @@ Zelin Peng, Zhengqin Xu, Zhilin Zeng, Xiaokang Yang, **Wei Shen**. <font color='
 
 Danning Lao, Qi Liu, Jiazi Bu, Junchi Yan, **Wei Shen**. <font color='Navy'>ViTree: Single-Path Neural Tree for Step-Wise Interpretable Fine-Grained Visual Categorization</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, Vancouver, Canada, 2024. ([PDF](https://arxiv.org/abs/2401.17050))
 
-Chongjie Si, Zekun Jiang, Xuehui Wang, Yan Wang, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Partial Label Learning with a Partner</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, Vancouver, Canada, 2024. ([PDF](https://arxiv.org/abs/2312.11034))
+Chongjie Si, Zekun Jiang, Xuehui Wang, Yan Wang, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Partial Label Learning with a Partner</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, Vancouver, Canada, 2024. <span style="color:LightCoral;">[Oral]</span> ([PDF](https://arxiv.org/abs/2312.11034))
 
 Jiazhong Cen, Zekun Jiang, Lingxi Xie, Dongsheng Jiang, **Wei Shen**, Qi Tian. <font color='Navy'>Consensus Synergizes with Memory: A Simple Approach for Anomaly Segmentation in Urban Scenes</font>. **IEEE Trans. Circuits and Systems for Video Technology**, 34(2): 1086-1097, 2024. ([PDF](https://arxiv.org/pdf/2111.15463.pdf))
 
@@ -54,7 +54,7 @@ Tongkun Guan, **Wei Shen**, Xue Yang, Qi Feng, Zekun Jiang, Xiaokang Yang. <font
 
 Danyang Tu, Wei Sun, Guangtao Zhai, **Wei Shen**. <font color='Navy'>Agglomerative Transformer for Human-Object Interaction Detection</font>. **IEEE International Conference on Computer Vision (ICCV)**, Paris, France, 2023. ([PDF](https://arxiv.org/abs/2308.08370))
 
-Chen Yang, Kailing Wang, Yuehao Wang, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Neural LerPlane Representations for Fast 4D Reconstruction of Deformable Tissues</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, Vancouver, Canada, 2023. ([PDF](https://arxiv.org/abs/2305.19906)) **(Young Scientist Award) (STAR Award)**
+Chen Yang, Kailing Wang, Yuehao Wang, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Neural LerPlane Representations for Fast 4D Reconstruction of Deformable Tissues</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, Vancouver, Canada, 2023. <span style="color:LightCoral;">[Young Scientist Award][STAR Award]</span> ([PDF](https://arxiv.org/abs/2305.19906))
 
 Chen Yang, Peihao Li, Zanwei Zhou, Shanxin Yuan, Bingbing Liu, Xiaokang Yang, Weichao Qiu, **Wei Shen**. <font color='Navy'>NeRFVS: Neural Radiance Fields for Free View Synthesis via Geometry Scaffolds</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Vancouver, Canada, 2023. ([PDF](https://arxiv.org/abs/2304.06287))
 
@@ -110,7 +110,7 @@ Yunhao Li, **Wei Shen**, Zhongpai Gao, Yucheng Zhu, Guangtao Zhai, Guodong Guo. 
 
 Hao Ding, Siyuan Qiao, Alan Yuille, **Wei Shen**. <font color='Navy'>Deeply Shape-guided Cascade for Instance Segmentation</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Nashville, USA, 2021.​ ([PDF](https://arxiv.org/pdf/1911.11263.pdf)) ([CODE](https://github.com/SJTU-DeepVisionLab/DSC))
 
-Yi Fang, Jiapeng Tang, Wang Shen, **Wei Shen**, Xiao Gu, Li Song, Guangtao Zhai. <font color='Navy'>Dual Attention Guided Gaze Target Detection in the Wild</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Nashville, USA, 2021 <span style="color:LightCoral;">[Oral]</span>.​ （[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Fang_Dual_Attention_Guided_Gaze_Target_Detection_in_the_Wild_CVPR_2021_paper.pdf)）
+Yi Fang, Jiapeng Tang, Wang Shen, **Wei Shen**, Xiao Gu, Li Song, Guangtao Zhai. <font color='Navy'>Dual Attention Guided Gaze Target Detection in the Wild</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Nashville, USA, 2021. <span style="color:LightCoral;">[Oral]</span> （[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Fang_Dual_Attention_Guided_Gaze_Target_Detection_in_the_Wild_CVPR_2021_paper.pdf)）
 
 Chen Wei, Huiyu Wang, **Wei Shen**, Alan Yuille. <font color='Navy'>CO2: Consistent Contrast for Unsupervised Visual Representation Learning</font>. **International Conference on Learning Representations (ICLR)**, Vienna, Austria, 2021. ([PDF](https://openreview.net/pdf?id=U4XLJhqwNF1))
 
@@ -122,13 +122,13 @@ Peng Tang, Xinggang Wang, Song Bai, **Wei Shen**, Xiang Bai, Wenyu Liu, Alan Yui
 
 Daniil Pakhomov, **Wei Shen**, Nassir Navab. <font color='Navy'>Towards Unsupervised Learning for Instrument Segmentation in Robotic Surgery with Cycle-Consistent Adversarial Networks</font>. **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**, Las Vegas, USA, 2020. ([PDF](https://arxiv.org/pdf/2007.04505.pdf))
 
-Yingda Xia, Yi Zhang, Fengze Liu, **Wei Shen**, Alan Yuille. <font color='Navy'>Synthesize then Compare: Detecting Failures and Anomalies for Semantic Segmentation</font>. **European Conference on Computer Vision (ECCV)**, Glasgow, UK, 2020 <span style="color:LightCoral;">[Oral]</span>. ([PDF](https://arxiv.org/pdf/2003.08440.pdf)) ([CODE](https://github.com/YingdaXia/SynthCP))
+Yingda Xia, Yi Zhang, Fengze Liu, **Wei Shen**, Alan Yuille. <font color='Navy'>Synthesize then Compare: Detecting Failures and Anomalies for Semantic Segmentation</font>. **European Conference on Computer Vision (ECCV)**, Glasgow, UK, 2020. <span style="color:LightCoral;">[Oral]</span> ([PDF](https://arxiv.org/pdf/2003.08440.pdf)) ([CODE](https://github.com/YingdaXia/SynthCP))
 
 ​Yingda Xia, Qihang Yu, **Wei Shen**, Yuyin Zhou, Elliot Fishman, Alan Yuille. <font color='Navy'>Detecting Pancreatic Adenocarcinoma in Multi-phase CT Scans via Alignment Ensemble</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, Lima, Peru, 2020. ([PDF](https://arxiv.org/pdf/2003.08441.pdf))
 
 Shuhao Fu, Yongyi Lu, Yan Wang, Yuyin Zhou, **Wei Shen**, Elliot Fishman, Alan Yuille. <font color='Navy'>Domain Adaptive Relational Reasoning for 3D Multi-Organ Segmentation</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, Lima, Peru, 2020. ([PDF](https://arxiv.org/pdf/2005.09120.pdf))
 
-Yan Wang, Xu Wei, Fengze Liu, Jieneng Chen, Yuyin Zhou, **Wei Shen**, Elliot Fishman, Alan Yuille. <font color='Navy'>Deep Distance Transform for Tubular Structure Segmentation in CT Scans</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Seattle, USA, 2020 <span style="color:LightCoral;">[Oral]</span>. ([PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Deep_Distance_Transform_for_Tubular_Structure_Segmentation_in_CT_Scans_CVPR_2020_paper.pdf))
+Yan Wang, Xu Wei, Fengze Liu, Jieneng Chen, Yuyin Zhou, **Wei Shen**, Elliot Fishman, Alan Yuille. <font color='Navy'>Deep Distance Transform for Tubular Structure Segmentation in CT Scans</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Seattle, USA, 2020. <span style="color:LightCoral;">[Oral]</span> ([PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Deep_Distance_Transform_for_Tubular_Structure_Segmentation_in_CT_Scans_CVPR_2020_paper.pdf))
 
 Zhishuai Zhang, **Wei Shen**, Siyuan Qiao, Yan Wang, Bo Wang, Alan Yuille. <font color='Navy'>Robust Face Detection via Learning Small Faces on Hard Images</font>. **IEEE Winter Conference on Applications of Computer Vision (WACV)**, Colorado, USA, 2020. ([PDF](https://arxiv.org/pdf/1811.11662.pdf)) ([CODE](https://github.com/bairdzhang/smallhardface)) 
 
@@ -147,11 +147,11 @@ Siyuan Qiao, Zhishuai Zhang, **Wei Shen**, Bo Wang, Alan Yuille. <font color='Na
 
 **Wei Shen**, Yilu Guo, Yan Wang, Kai Zhao, Bo Wang, Alan Yuille. <font color='Navy'>Deep Regression Forests for Age Estimation</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Salt Lake City, USA, 2018. ([PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Shen_Deep_Regression_Forests_CVPR_2018_paper.pdf)) ([CODE](https://github.com/shenwei1231/caffe-DeepRegressionForests))
 
-Siyuan Qiao, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='Navy'>Few-Shot Image Recognition by Predicting Parameters from Activations</font>.  **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Salt Lake City, USA, 2018 <span style="color:LightCoral;">[Spotlight]</span>. ([PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Qiao_Few-Shot_Image_Recognition_CVPR_2018_paper.pdf)) ([CODE](https://github.com/joe-siyuan-qiao/FewShot-CVPR))
+Siyuan Qiao, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='Navy'>Few-Shot Image Recognition by Predicting Parameters from Activations</font>.  **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Salt Lake City, USA, 2018. <span style="color:LightCoral;">[Spotlight]</span> ([PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Qiao_Few-Shot_Image_Recognition_CVPR_2018_paper.pdf)) ([CODE](https://github.com/joe-siyuan-qiao/FewShot-CVPR))
 
 ​Zhishuai Zhang, Siyuan Qiao, Cihang Xie, **Wei Shen**, Bo Wang, Alan Yuille. <font color='Navy'>Single-Shot Object Detection with Enriched Semantics</font>.  **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Salt Lake City, USA, 2018. ([PDF]( https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Single-Shot_Object_Detection_CVPR_2018_paper.pdf)) ([CODE](https://github.com/bairdzhang/des))
 
-Yan Wang, Yuyin Zhou, Peng Tang, **Wei Shen**, Elliot K. Fishman, Alan Yuille. <font color='Navy'>Training Multi-organ Segmentation Networks with Sample Selection by Relaxed Upper Confident Bound</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, Granada, Spain, 2018 <span style="color:LightCoral;">[Oral]</span>. ([PDF](https://arxiv.org/pdf/1804.02595.pdf))
+Yan Wang, Yuyin Zhou, Peng Tang, **Wei Shen**, Elliot K. Fishman, Alan Yuille. <font color='Navy'>Training Multi-organ Segmentation Networks with Sample Selection by Relaxed Upper Confident Bound</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, Granada, Spain, 2018. <span style="color:LightCoral;">[Oral]</span> ([PDF](https://arxiv.org/pdf/1804.02595.pdf))
 
 ​Zhuotun Zhu, Yingda Xia, **Wei Shen**, Elliot K Fishman, Alan Yuille. <font color='Navy'>A 3D Coarse-to-Fine Framework for Volumetric Medical Image Segmentation</font>. **International Conference on 3D Vision (3DV)**, Verona, Italy, 2018. ([PDF](https://arxiv.org/abs/1712.00201))
 
@@ -170,7 +170,7 @@ Christopher Funk, Seungkyu Lee, Martin R. Oswald, Stavros Tsogkas, **Wei Shen**,
 
 ​Siyuan Qiao, **Wei Shen**, Weichao Qiu, Chenxi Liu, Alan Yuille. <font color='Navy'>ScaleNet: Guiding Object Proposal Generation in Supermarkets and Beyond</font>. **IEEE International Conference on Computer Vision (ICCV)**, Venice, Italy, 2017. ([PDF](https://openaccess.thecvf.com/content_ICCV_2017/papers/Qiao_ScaleNet_Guiding_Object_ICCV_2017_paper.pdf)) ([CODE](https://github.com/joe-siyuan-qiao/ScaleNet))
 
-**Wei Shen**, Wenjing Gao, Yuan Jiang, Dan Zeng, and Zhijiang Zhang. <font color='Navy'>Shape Recognition by Bag of Contour Fragments with A Learned Pooling Function</font>. **IEEE International Conference on Image Processing (ICIP)**, Beijing, China, 2017 <span style="color:LightCoral;">[Oral]</span>. ([PDF](../files/bocf_lp.pdf))
+**Wei Shen**, Wenjing Gao, Yuan Jiang, Dan Zeng, and Zhijiang Zhang. <font color='Navy'>Shape Recognition by Bag of Contour Fragments with A Learned Pooling Function</font>. **IEEE International Conference on Image Processing (ICIP)**, Beijing, China, 2017. <span style="color:LightCoral;">[Oral]</span> ([PDF](../files/bocf_lp.pdf))
 
 Yuyin Zhou, Lingxi Xie, **Wei Shen**, Yan Wang, Elliot Fishman, Alan Yuille. <font color='Navy'>A Fixed-Point Model for Pancreas Segmentation in Abdominal CT Scans</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, Quebec City, Canada, 2017. ([PDF](https://arxiv.org/pdf/1612.08230.pdf)) ([CODE](https://github.com/198808xc/OrganSegC2F)) 
 ​<br><br>
