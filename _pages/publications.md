@@ -16,6 +16,8 @@ You can also find my full publication list on my [Google Scholar profile](http:/
 
 **Preprints**
 ======
+Jiazhong Cen, Jiemin Fang, Zanwei Zhou, Chen Yang, Lingxi Xie, Xiaopeng Zhang, **Wei Shen**, Qi Tian. <font color='Navy'>Segment Anything in 3D with Radiance Fields</font>. **arXiv:2304.12308**. ([PDF](https://arxiv.org/pdf/2304.12308.pdf))
+
 Tongkun Guan, **Wei Shen**, Xue Yang, Xuehui Wang, Xiaokang Yang. <font color='Navy'>Bridging Synthetic and Real Worlds for Pre-training Scene Text Detectors</font>. **arXiv:2312.05286**. ([PDF](https://arxiv.org/pdf/2312.05286.pdf))
 
 Jiazhong Cen, Jiemin Fang, Chen Yang, Lingxi Xie, Xiaopeng Zhang, **Wei Shen**, Qi Tian. <font color='Navy'>Segment Any 3D Gaussians</font>. **arXiv:2312.00860**. ([PDF](https://arxiv.org/pdf/2312.00860.pdf))
