@@ -38,6 +38,7 @@ Grants
 Academic Service
 ======
 * Associate Editor
+	* Pattern Recognition, 2024 - present
 	* Neurocomputing, 2019 - present
 	* Image and Vision Computing, 2023 - present 
 * Conference Area Chair
