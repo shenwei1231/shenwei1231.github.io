@@ -42,7 +42,7 @@ Huayu Wang, Zekun Jiang, Lingxi Xie, Dongsheng Jiang, **Wei Shen**, Qi Tian. <fo
 
 **2023**
 ======
-**Wei Shen**, Zelin Peng, Xuehui Wang, Huayu Wang, Jiazhong Cen, Dongsheng Jiang, Lingxi Xie, Xiaokang Yang, Qi Tian. <font color='Navy'>A Survey on Label-efficient Deep Segmentation: Bridging the Gap between Weak Supervision and Dense Prediction</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 45(8), 9284-9305, 2023. ([PDF](https://arxiv.org/pdf/2207.01223.pdf))
+**Wei Shen**, Zelin Peng, Xuehui Wang, Huayu Wang, Jiazhong Cen, Dongsheng Jiang, Lingxi Xie, Xiaokang Yang, Qi Tian. <font color='Navy'>A Survey on Label-efficient Deep Image Segmentation: Bridging the Gap between Weak Supervision and Dense Prediction</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 45(8), 9284-9305, 2023. ([PDF](https://arxiv.org/pdf/2207.01223.pdf))
 
 Yuhui Xu, Lingxi Xie, Cihang Xie, Wenrui Dai, Jieru Mei, Siyuan Qiao, **Wei Shen**, Hongkai Xiong, Alan Yuille. <font color='Navy'>Batch Normalization with Enhanced Linear Transformation</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 45(7), 9225-9232, 2023. ([PDF](https://arxiv.org/pdf/2011.14150.pdf))
 

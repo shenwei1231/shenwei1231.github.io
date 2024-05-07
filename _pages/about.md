@@ -13,7 +13,7 @@ Artificial Intelligence Institute, Shanghai Jiao Tong University <br>
 800 Dongchuan Road, 5-507 Software Building, Shanghai 200240 China
 
 
-<font color=LightCoral>I'm looking for self-motivated students working with me on computer vision and medical image analysis for 2023. For prospective students, please send me an email with your CV and transcript.</font>
+<font color=LightCoral>I'm looking for self-motivated students working with me on computer vision and medical image analysis for 2025. For prospective students, please send me an email with your CV and transcript.</font>
 
 
 
