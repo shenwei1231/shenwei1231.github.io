@@ -26,6 +26,7 @@ My research interests lie in the fields of computer vision, machine learning, de
 
 **Recent News**
 ======
+- I will serve as an Area Chair for NeurIPS 2024.
 - One paper has been accepted to IEEE TMI.
 >* [Efficient Deformable Tissue Reconstruction via Orthogonal Neural Plane](https://arxiv.org/pdf/2312.15253.pdf)
 - One paper has been accepted to CVPR 2024.
