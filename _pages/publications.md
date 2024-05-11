@@ -28,6 +28,8 @@ Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='Nav
 ======
 Chen Yang, Kailing Wang, Yuehao Wang, Qi Dou, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Efficient Deformable Tissue Reconstruction via Orthogonal Neural Plane</font>. **IEEE Trans. Medical Imaging**, 2024. ([PDF](https://arxiv.org/pdf/2312.15253.pdf))
 
+Danyang Tu, **Wei Shen**, Wei Sun, Xiongkuo Min, Guangtao Zhai, Changwen Chen. <font color='Navy'>Un-Gaze: an Unified Transformer for Joint Gaze-Location and Gaze-Object Detection</font>. **IEEE Trans. Circuits and Systems for Video Technology**, 34(5), 3271-3285, 2024. ([PDF](https://arxiv.org/pdf/2308.13857.pdf))
+
 Zelin Peng, Zhengqin Xu, Zhilin Zeng, Lingxi Xie, Qi Tian, **Wei Shen**. <font color='Navy'>Parameter Efficient Fine-tuning via Cross Block Orchestration for Segment Anything Model</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Seattle, USA, 2024. ([PDF](https://arxiv.org/pdf/2311.17112.pdf))
 
 Zelin Peng, Zhengqin Xu, Zhilin Zeng, Xiaokang Yang, **Wei Shen**. <font color='Navy'>SAM-PARSER: Fine-tuning SAM Efficiently by Parameter Space Reconstruction</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, Vancouver, Canada, 2024. ([PDF](https://arxiv.org/abs/2308.14604))
@@ -65,8 +67,6 @@ Duowen Chen, Yunhao Bai, **Wei Shen**, Qingli Li, Lequan Yu, Yan Wang. <font col
 Yunhao Bai, Duowen Chen, Qingli Li, **Wei Shen**, Yan Wang. <font color='Navy'>Bidirectional Copy-Paste for Semi-Supervised Medical Image Segmentation</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Vancouver, Canada, 2023. ([PDF](https://arxiv.org/abs/2305.00673))
 
 Xintian Mao, Yiming Liu, Fengze Liu, Qingli Li, **Wei Shen**, Yan Wang. <font color='Navy'>Intriguing Findings of Frequency Selection for Image Deblurring</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, Washington, USA, 2023. ([PDF](https://arxiv.org/pdf/2111.11745.pdf))
-
-Danyang Tu, **Wei Shen**, Wei Sun, Xiongkuo Min, Guangtao Zhai, Changwen Chen. <font color='Navy'>Un-Gaze: an Unified Transformer for Joint Gaze-Location and Gaze-Object Detection</font>. **IEEE Trans. Circuits and Systems for Video Technology**, 2023. ([PDF](https://arxiv.org/pdf/2308.13857.pdf))
 
 Huiyu Duan, **Wei Shen**, Xiongkuo Min, Yuan Tian, Jae-Hyun Jung, Xiaokang Yang, Guangtao Zhai. <font color='Navy'>Develop then Rival: A Human Vision-Inspired Framework for Superimposed Image Decomposition</font>. **IEEE Trans. Multimedia**, 25: 4267-4281, 2023. ([PDF](https://ieeexplore.ieee.org/document/9769950))
 
