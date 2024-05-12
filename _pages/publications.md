@@ -74,6 +74,12 @@ Yuzhi Zhao, Lai-Man Po, Xuehui Wang, Qiong Yan, **Wei Shen**, Yujia Zhang, Wei L
 
 **2022**
 ======
+Michela Antonelli, Annika Reinke, Spyridon Bakas, Keyvan Farahani, AnnetteKopp-Schneider, Bennett A. Landman, Geert Litjens, Bjoern Menze, Olaf Ronneberger, Ronald M.Summers, Bram van Ginneken, Michel Bilello, Patrick Bilic, Patrick F. Christ, Richard K. G. Do, Marc J. Gollub, Stephan H. Heckers, Henkjan Huisman, William R. Jarnagin, Maureen K. McHugo, Sandy Napel, Jennifer S. Goli Pernicka, Kawal Rhode, Catalina Tobon-Gomez, Eugene Vorontsov, Henkjan Huisman, James A. Meakin, Sebastien Ourselin, Manuel Wiesenfarth, Pablo Arbelaez, Byeonguk Bae, Sihong Chen, Laura Daza, Jianjiang Feng, Baochun He, Fabian Isensee, Yuanfeng Ji, Fucang Jia, Namkug Kim, Ildoo Kim, Dorit Merhof, Akshay Pai, Beomhee Park, Mathias Perslev, Ramin Rezaiifar, Oliver Rippel, Ignacio Sarasua, **Wei Shen**, Jaemin Son, Christian Wachinger, Liansheng Wang, Yan Wang, Yingda Xia, Daguang Xu, Zhanwei Xu, Yefeng Zheng, Amber L. Simpson, Lena Maier-Hein, M. Jorge Cardoso. <font color='Navy'>The Medical Segmentation Decathlon</font>. **Nature Communications**, 13(4128), 2022. ([PDF](https://arxiv.org/pdf/2106.05735.pdf))
+
+Chen Yang, Shunyu Yao, Zanwei Zhou, Bin Ji, Guangtao Zhai, **Wei Shen**. <font color='Navy'>Poxture: Human Posture Imitation Using Neural Texture</font>. **IEEE Trans. Circuits and Systems for Video Technology**, 32(12), 8537 - 8549, 2022. ([PDF](https://ieeexplore.ieee.org/document/9829868))
+
+Yuyin Zhou, David Dreizin, Yan Wang, Fengze Liu, **Wei Shen**, Alan Yuille. <font color='Navy'>External Attention Assisted Multi-Phase Splenic Vascular Injury Segmentation with Limited Data</font>. **IEEE Trans. Medical Imaging**, 41(6), 1346-1357, 2022. ([PDF](../files/External_Attention.pdf))
+
 Danyang Tu, Wei Sun, Xiongkuo Min, Guangtao Zhai, **Wei Shen**. <font color='Navy'>Video-based Human-Object Interaction Detection from Tubelet Tokens</font>. **Advances in Neural Information Processing Systems (NeurIPS)**, New Orleans, USA, 2022. ([PDF](https://arxiv.org/pdf/2206.01908.pdf))
 
 Feng Wang, Huiyu Wang, Chen Wei, Alan Yuille, **Wei Shen**. <font color='Navy'>CP2: Copy-Paste Contrastive Pretraining for Semantic Segmentation</font>. **European Conference on Computer Vision (ECCV)**, Tel-Aviv, Israel, 2022. ([PDF](https://arxiv.org/pdf/2203.11709.pdf)) ([CODE](https://github.com/SJTU-DeepVisionLab/CP2))
@@ -91,12 +97,6 @@ Xuehui Wang, Kai Zhao, Ruixin Zhang, Shouhong Ding, Yan Wang, **Wei Shen**. <fon
 Danyang Tu, Xiongkuo Min, Huiyu Duan, Guodong Guo, Guangtao Zhai, **Wei Shen**. <font color='Navy'>End-to-End Human-Gaze-Target Detection with Transformers</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, New Orleans, USA, 2022.​ ([PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Tu_End-to-End_Human-Gaze-Target_Detection_With_Transformers_CVPR_2022_paper.pdf))
 
 Jinghao Zhou, Chen Wei, Huiyu Wang, **Wei Shen**, Cihang Xie, Alan Yuille, Tao Kong. <font color='Navy'>iBOT: Image BERT Pre-Training with Online Tokenizer</font>. **International Conference on Learning Representations (ICLR)**, Lisbon, Portugal, 2022. ([PDF](https://arxiv.org/pdf/2111.07832.pdf))
-
-Michela Antonelli, Annika Reinke, Spyridon Bakas, Keyvan Farahani, AnnetteKopp-Schneider, Bennett A. Landman, Geert Litjens, Bjoern Menze, Olaf Ronneberger, Ronald M.Summers, Bram van Ginneken, Michel Bilello, Patrick Bilic, Patrick F. Christ, Richard K. G. Do, Marc J. Gollub, Stephan H. Heckers, Henkjan Huisman, William R. Jarnagin, Maureen K. McHugo, Sandy Napel, Jennifer S. Goli Pernicka, Kawal Rhode, Catalina Tobon-Gomez, Eugene Vorontsov, Henkjan Huisman, James A. Meakin, Sebastien Ourselin, Manuel Wiesenfarth, Pablo Arbelaez, Byeonguk Bae, Sihong Chen, Laura Daza, Jianjiang Feng, Baochun He, Fabian Isensee, Yuanfeng Ji, Fucang Jia, Namkug Kim, Ildoo Kim, Dorit Merhof, Akshay Pai, Beomhee Park, Mathias Perslev, Ramin Rezaiifar, Oliver Rippel, Ignacio Sarasua, **Wei Shen**, Jaemin Son, Christian Wachinger, Liansheng Wang, Yan Wang, Yingda Xia, Daguang Xu, Zhanwei Xu, Yefeng Zheng, Amber L. Simpson, Lena Maier-Hein, M. Jorge Cardoso. <font color='Navy'>The Medical Segmentation Decathlon</font>. **Nature Communications**, 13(4128), 2022. ([PDF](https://arxiv.org/pdf/2106.05735.pdf))
-
-Chen Yang, Shunyu Yao, Zanwei Zhou, Bin Ji, Guangtao Zhai, **Wei Shen**. <font color='Navy'>Poxture: Human Posture Imitation Using Neural Texture</font>. **IEEE Trans. Circuits and Systems for Video Technology**, 32(12), 8537 - 8549, 2022. ([PDF](https://ieeexplore.ieee.org/document/9829868))
-
-Yuyin Zhou, David Dreizin, Yan Wang, Fengze Liu, **Wei Shen**, Alan Yuille. <font color='Navy'>External Attention Assisted Multi-Phase Splenic Vascular Injury Segmentation with Limited Data</font>. **IEEE Trans. Medical Imaging**, 41(6), 1346-1357, 2022. ([PDF](../files/External_Attention.pdf))
 
 **2021**
 ======
