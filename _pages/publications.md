@@ -48,6 +48,10 @@ Huayu Wang, Zekun Jiang, Lingxi Xie, Dongsheng Jiang, **Wei Shen**, Qi Tian. <fo
 
 Yuhui Xu, Lingxi Xie, Cihang Xie, Wenrui Dai, Jieru Mei, Siyuan Qiao, **Wei Shen**, Hongkai Xiong, Alan Yuille. <font color='Navy'>Batch Normalization with Enhanced Linear Transformation</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 45(7), 9225-9232, 2023. ([PDF](https://arxiv.org/pdf/2011.14150.pdf))
 
+Huiyu Duan, **Wei Shen**, Xiongkuo Min, Yuan Tian, Jae-Hyun Jung, Xiaokang Yang, Guangtao Zhai. <font color='Navy'>Develop then Rival: A Human Vision-Inspired Framework for Superimposed Image Decomposition</font>. **IEEE Trans. Multimedia**, 25: 4267-4281, 2023. ([PDF](https://ieeexplore.ieee.org/document/9769950))
+
+Yuzhi Zhao, Lai-Man Po, Xuehui Wang, Qiong Yan, **Wei Shen**, Yujia Zhang, Wei Liu, Chun-Kit Wong, Chiu-Sing Pang, Weifeng Ou, Wing-Yin Yu, Buhua Liu. <font color='Navy'>ChildPredictor: A Child Face Prediction Framework with Disentangled Learning</font>. **IEEE Trans. Multimedia**, 25: 3737-3752, 2023. ([PDF](https://ieeexplore.ieee.org/document/9749880))
+
 Jiazhong Cen, Zanwei Zhou, Jiemin Fang, **Wei Shen**, Lingxi Xie, Dongsheng Jiang, Xiaopeng Zhang, Qi Tian. <font color='Navy'>Segment Anything in 3D with NeRFs</font>. **Advances in Neural Information Processing Systems (NeurIPS)**, New Orleans, USA, 2023. ([PDF](https://proceedings.neurips.cc/paper_files/paper/2023/file/525d24400247f884c3419b0b7b1c4829-Paper-Conference.pdf)) ([CODE](https://github.com/SJTU-DeepVisionLab/SegmentAnythingin3D))
 
 Zelin Peng, Guanchun Wang, Lingxi Xie, Dongsheng Jiang, **Wei Shen**, Qi Tian. <font color='Navy'>USAGE: A Unified Seed Area Generation Paradigm for Weakly Supervised Semantic Segmentation</font>. **IEEE International Conference on Computer Vision (ICCV)**, Paris, France, 2023. ([PDF](https://arxiv.org/abs/2303.07806))
@@ -67,10 +71,6 @@ Duowen Chen, Yunhao Bai, **Wei Shen**, Qingli Li, Lequan Yu, Yan Wang. <font col
 Yunhao Bai, Duowen Chen, Qingli Li, **Wei Shen**, Yan Wang. <font color='Navy'>Bidirectional Copy-Paste for Semi-Supervised Medical Image Segmentation</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Vancouver, Canada, 2023. ([PDF](https://arxiv.org/abs/2305.00673))
 
 Xintian Mao, Yiming Liu, Fengze Liu, Qingli Li, **Wei Shen**, Yan Wang. <font color='Navy'>Intriguing Findings of Frequency Selection for Image Deblurring</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, Washington, USA, 2023. ([PDF](https://arxiv.org/pdf/2111.11745.pdf))
-
-Huiyu Duan, **Wei Shen**, Xiongkuo Min, Yuan Tian, Jae-Hyun Jung, Xiaokang Yang, Guangtao Zhai. <font color='Navy'>Develop then Rival: A Human Vision-Inspired Framework for Superimposed Image Decomposition</font>. **IEEE Trans. Multimedia**, 25: 4267-4281, 2023. ([PDF](https://ieeexplore.ieee.org/document/9769950))
-
-Yuzhi Zhao, Lai-Man Po, Xuehui Wang, Qiong Yan, **Wei Shen**, Yujia Zhang, Wei Liu, Chun-Kit Wong, Chiu-Sing Pang, Weifeng Ou, Wing-Yin Yu, Buhua Liu. <font color='Navy'>ChildPredictor: A Child Face Prediction Framework with Disentangled Learning</font>. **IEEE Trans. Multimedia**, 25: 3737-3752, 2023. ([PDF](https://ieeexplore.ieee.org/document/9749880))
 
 **2022**
 ======
