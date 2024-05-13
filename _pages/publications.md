@@ -28,6 +28,8 @@ Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='Nav
 ======
 Chen Yang, Kailing Wang, Yuehao Wang, Qi Dou, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Efficient Deformable Tissue Reconstruction via Orthogonal Neural Plane</font>. **IEEE Trans. Medical Imaging**, 2024. ([PDF](https://arxiv.org/pdf/2312.15253.pdf))
 
+Jiazhong Cen, Zekun Jiang, Lingxi Xie, Dongsheng Jiang, **Wei Shen**, Qi Tian. <font color='Navy'>Consensus Synergizes with Memory: A Simple Approach for Anomaly Segmentation in Urban Scenes</font>. **IEEE Trans. Circuits and Systems for Video Technology**, 34(2): 1086-1097, 2024. ([PDF](https://arxiv.org/pdf/2111.15463.pdf))
+
 Danyang Tu, **Wei Shen**, Wei Sun, Xiongkuo Min, Guangtao Zhai, Changwen Chen. <font color='Navy'>Un-Gaze: an Unified Transformer for Joint Gaze-Location and Gaze-Object Detection</font>. **IEEE Trans. Circuits and Systems for Video Technology**, 34(5), 3271-3285, 2024. ([PDF](https://arxiv.org/pdf/2308.13857.pdf))
 
 Zelin Peng, Zhengqin Xu, Zhilin Zeng, Lingxi Xie, Qi Tian, **Wei Shen**. <font color='Navy'>Parameter Efficient Fine-tuning via Cross Block Orchestration for Segment Anything Model</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Seattle, USA, 2024. ([PDF](https://arxiv.org/pdf/2311.17112.pdf))
@@ -37,8 +39,6 @@ Zelin Peng, Zhengqin Xu, Zhilin Zeng, Xiaokang Yang, **Wei Shen**. <font color='
 Danning Lao, Qi Liu, Jiazi Bu, Junchi Yan, **Wei Shen**. <font color='Navy'>ViTree: Single-Path Neural Tree for Step-Wise Interpretable Fine-Grained Visual Categorization</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, Vancouver, Canada, 2024. ([PDF](https://arxiv.org/abs/2401.17050))
 
 Chongjie Si, Zekun Jiang, Xuehui Wang, Yan Wang, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Partial Label Learning with a Partner</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, Vancouver, Canada, 2024. <span style="color:LightCoral;">[Oral]</span> ([PDF](https://arxiv.org/abs/2312.11034))
-
-Jiazhong Cen, Zekun Jiang, Lingxi Xie, Dongsheng Jiang, **Wei Shen**, Qi Tian. <font color='Navy'>Consensus Synergizes with Memory: A Simple Approach for Anomaly Segmentation in Urban Scenes</font>. **IEEE Trans. Circuits and Systems for Video Technology**, 34(2): 1086-1097, 2024. ([PDF](https://arxiv.org/pdf/2111.15463.pdf))
 
 Huayu Wang, Zekun Jiang, Lingxi Xie, Dongsheng Jiang, **Wei Shen**, Qi Tian. <font color='Navy'>Domain-Adaptive Semantic Segmentation Emerges From Vision-Language Supervised Domain-Debiased Self-Training</font>. **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**, Seoul, Korea, 2024. ([PDF](https://ieeexplore.ieee.org/abstract/document/10447308))
 
