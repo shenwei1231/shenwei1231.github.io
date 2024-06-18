@@ -26,6 +26,9 @@ My research interests lie in the fields of computer vision, machine learning, de
 
 **Recent News**
 ======
+- Two papers Have been accepted to MICCAI 2024.
+>* [EndoGSLAM: Real-Time Dense Reconstruction and Tracking in Endoscopic Surgeries using Gaussian Splatting](https://arxiv.org/pdf/2403.15124)
+>* [Missing as Masking: Arbitrary Cross-modal Feature Reconstruction for Incomplete Multimodal Brain Tumor Segmentation]
 - I serve as an Associate Editor for Pattern Recognition from 2024.
 - I will serve as an Area Chair for NeurIPS 2024.
 - One paper has been accepted to IEEE TMI.
