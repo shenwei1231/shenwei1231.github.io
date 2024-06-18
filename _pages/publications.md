@@ -34,9 +34,9 @@ Jiazhong Cen, Zekun Jiang, Lingxi Xie, Dongsheng Jiang, **Wei Shen**, Qi Tian. <
 
 Danyang Tu, **Wei Shen**, Wei Sun, Xiongkuo Min, Guangtao Zhai, Changwen Chen. <font color='Navy'>Un-Gaze: an Unified Transformer for Joint Gaze-Location and Gaze-Object Detection</font>. **IEEE Trans. Circuits and Systems for Video Technology**, 34(5), 3271-3285, 2024. ([PDF](https://arxiv.org/pdf/2308.13857.pdf))
 
-Boxiang Yun, Baiying Lei, Jieneng Chen, Huiyu Wang, Song Qiu, **Wei Shen**, Qingli Li, Yan Wang. <font color='Navy'>SpecTr: Spectral Transformer for Microscopic Hyperspectral Pathology Image Segmentation</font>. **IEEE Trans. Circuits and Systems for Video Technology**, 34(6): 4610-4624, 2024. ([PDF]https://ieeexplore.ieee.org/document/10288474)
+Boxiang Yun, Baiying Lei, Jieneng Chen, Huiyu Wang, Song Qiu, **Wei Shen**, Qingli Li, Yan Wang. <font color='Navy'>SpecTr: Spectral Transformer for Microscopic Hyperspectral Pathology Image Segmentation</font>. **IEEE Trans. Circuits and Systems for Video Technology**, 34(6): 4610-4624, 2024. ([PDF](https://ieeexplore.ieee.org/document/10288474))
 
-Kailing Wang, Chen Yang, Yuehao Wang, Sikuang Li, Yan Wang, Qi Dou, Xiaokang Yang, **Wei Shen**. <font color='Navy'>EndoGSLAM: Real-Time Dense Reconstruction and Tracking in Endoscopic Surgeries using Gaussian Splatting</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, Marrakesh, Morocco, 2024. ([PDF]https://arxiv.org/pdf/2403.15124)
+Kailing Wang, Chen Yang, Yuehao Wang, Sikuang Li, Yan Wang, Qi Dou, Xiaokang Yang, **Wei Shen**. <font color='Navy'>EndoGSLAM: Real-Time Dense Reconstruction and Tracking in Endoscopic Surgeries using Gaussian Splatting</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, Marrakesh, Morocco, 2024. ([PDF](https://arxiv.org/pdf/2403.15124))
 
 Zhilin Zeng, Zelin Peng, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Missing as Masking: Arbitrary Cross-modal Feature Reconstruction for Incomplete Multimodal Brain Tumor Segmentation</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, Marrakesh, Morocco, 2024.
 
