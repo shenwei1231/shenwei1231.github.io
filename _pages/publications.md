@@ -20,8 +20,6 @@ Chongjie Si, Xuehui Wang, Xue Yang, Zhengqin Xu, Qingyun Li, Jifeng Dai, Yu Qiao
 
 Jiazhong Cen, Jiemin Fang, Zanwei Zhou, Chen Yang, Lingxi Xie, Xiaopeng Zhang, **Wei Shen**, Qi Tian. <font color='Navy'>Segment Anything in 3D with Radiance Fields</font>. **arXiv:2304.12308**. ([PDF](https://arxiv.org/pdf/2304.12308.pdf))
 
-Tongkun Guan, **Wei Shen**, Xue Yang, Xuehui Wang, Xiaokang Yang. <font color='Navy'>Bridging Synthetic and Real Worlds for Pre-training Scene Text Detectors</font>. **arXiv:2312.05286**. ([PDF](https://arxiv.org/pdf/2312.05286.pdf))
-
 Jiazhong Cen, Jiemin Fang, Chen Yang, Lingxi Xie, Xiaopeng Zhang, **Wei Shen**, Qi Tian. <font color='Navy'>Segment Any 3D Gaussians</font>. **arXiv:2312.00860**. ([PDF](https://arxiv.org/pdf/2312.00860.pdf))
 
 Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='Navy'>Micro-Batch Training with Batch-Channel Normalization and Weight Standardization</font>. **arXiv:1903.10520**. ([PDF](https://arxiv.org/pdf/1903.10520.pdf))
@@ -35,6 +33,14 @@ Jiazhong Cen, Zekun Jiang, Lingxi Xie, Dongsheng Jiang, **Wei Shen**, Qi Tian. <
 Danyang Tu, **Wei Shen**, Wei Sun, Xiongkuo Min, Guangtao Zhai, Changwen Chen. <font color='Navy'>Un-Gaze: an Unified Transformer for Joint Gaze-Location and Gaze-Object Detection</font>. **IEEE Trans. Circuits and Systems for Video Technology**, 34(5), 3271-3285, 2024. ([PDF](https://arxiv.org/pdf/2308.13857.pdf))
 
 Boxiang Yun, Baiying Lei, Jieneng Chen, Huiyu Wang, Song Qiu, **Wei Shen**, Qingli Li, Yan Wang. <font color='Navy'>SpecTr: Spectral Transformer for Microscopic Hyperspectral Pathology Image Segmentation</font>. **IEEE Trans. Circuits and Systems for Video Technology**, 34(6): 4610-4624, 2024. ([PDF](https://ieeexplore.ieee.org/document/10288474))
+
+Chongjie Si, Xuehui Wang, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Tendency-driven Mutual Exclusivity for Weakly Supervised Incremental Semantic Segmentation</font>. **European Conference on Computer Vision (ECCV)**, Milano, Italy, 2024. (https://arxiv.org/pdf/2404.11981)
+
+Tongkun Guan, **Wei Shen**, Xue Yang, Xuehui Wang, Xiaokang Yang. <font color='Navy'>Bridging Synthetic and Real Worlds for Pre-training Scene Text Detectors</font>. **European Conference on Computer Vision (ECCV)**, Milano, Italy, 2024. ([PDF](https://arxiv.org/pdf/2312.05286.pdf))
+
+Tongkun Guan, Chengyu Lin, **Wei Shen**, Xiaokang Yang. <font color='Navy'>PosFormer: Recognizing Complex Handwritten Mathematical Expression with Position Forest Transformer</font>. **European Conference on Computer Vision (ECCV)**, Milano, Italy, 2024.
+
+Huiyu Duan, Xiongkuo Min, Sijing Wu, Wei Shen, Guangtao Zhai. <font color='Navy'>UniProcessor: A Text-induced Unified Low-level Image Processor</font>. **European Conference on Computer Vision (ECCV)**, Milano, Italy, 2024.
 
 Zelin Peng, Zhengqin Xu, Zhilin Zeng, Lingxi Xie, Qi Tian, **Wei Shen**. <font color='Navy'>Parameter Efficient Fine-tuning via Cross Block Orchestration for Segment Anything Model</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Seattle, USA, 2024. ([PDF](https://arxiv.org/pdf/2311.17112.pdf))
 
