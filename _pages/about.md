@@ -26,6 +26,11 @@ My research interests lie in the fields of computer vision, machine learning, de
 
 **Recent News**
 ======
+- Four papers have been accepted to ECCV 2024.
+>* [Bridging Synthetic and Real Worlds for Pre-training Scene Text Detectors](https://arxiv.org/pdf/2312.05286.pdf)
+>* [Tendency-driven Mutual Exclusivity for Weakly Supervised Incremental Semantic Segmentation](https://arxiv.org/pdf/2404.11981) 
+>* [PosFormer: Recognizing Complex Handwritten Mathematical Expression with Position Forest Transformer]()
+>* [UniProcessor: A Text-induced Unified Low-level Image Processor]()
 - Two papers have been accepted to MICCAI 2024.
 >* [EndoGSLAM: Real-Time Dense Reconstruction and Tracking in Endoscopic Surgeries using Gaussian Splatting](https://arxiv.org/pdf/2403.15124)
 >* [Missing as Masking: Arbitrary Cross-modal Feature Reconstruction for Incomplete Multimodal Brain Tumor Segmentation]()
