@@ -16,6 +16,8 @@ You can also find my full publication list on my [Google Scholar profile](http:/
 
 **Preprints**
 ======
+Chongjie Si, Xiaokang Yang, **Wei Shen**. <font color='Navy'>See Further for Parameter Efficient Fine-tuning by Standing on the Shoulders of Decomposition</font>. **arXiv:2407.05417**. ([PDF](https://arxiv.org/pdf/2407.05417))
+
 Chongjie Si, Xuehui Wang, Xue Yang, Zhengqin Xu, Qingyun Li, Jifeng Dai, Yu Qiao, Xiaokang Yang, **Wei Shen**. <font color='Navy'>FLoRA: Low-Rank Core Space for N-dimension</font>. **arXiv:2405.14739**. ([PDF](https://arxiv.org/pdf/2405.14739.pdf))
 
 Jiazhong Cen, Jiemin Fang, Zanwei Zhou, Chen Yang, Lingxi Xie, Xiaopeng Zhang, **Wei Shen**, Qi Tian. <font color='Navy'>Segment Anything in 3D with Radiance Fields</font>. **arXiv:2304.12308**. ([PDF](https://arxiv.org/pdf/2304.12308.pdf))
@@ -38,7 +40,7 @@ Chongjie Si, Xuehui Wang, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Tenden
 
 Tongkun Guan, **Wei Shen**, Xue Yang, Xuehui Wang, Xiaokang Yang. <font color='Navy'>Bridging Synthetic and Real Worlds for Pre-training Scene Text Detectors</font>. **European Conference on Computer Vision (ECCV)**, Milano, Italy, 2024. ([PDF](https://arxiv.org/pdf/2312.05286.pdf))
 
-Tongkun Guan, Chengyu Lin, **Wei Shen**, Xiaokang Yang. <font color='Navy'>PosFormer: Recognizing Complex Handwritten Mathematical Expression with Position Forest Transformer</font>. **European Conference on Computer Vision (ECCV)**, Milano, Italy, 2024.
+Tongkun Guan, Chengyu Lin, **Wei Shen**, Xiaokang Yang. <font color='Navy'>PosFormer: Recognizing Complex Handwritten Mathematical Expression with Position Forest Transformer</font>. **European Conference on Computer Vision (ECCV)**, Milano, Italy, 2024. ([PDF](https://arxiv.org/pdf/2407.07764))
 
 Huiyu Duan, Xiongkuo Min, Sijing Wu, **Wei Shen**, Guangtao Zhai. <font color='Navy'>UniProcessor: A Text-induced Unified Low-level Image Processor</font>. **European Conference on Computer Vision (ECCV)**, Milano, Italy, 2024.
 
