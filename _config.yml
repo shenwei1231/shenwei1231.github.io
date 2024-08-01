@@ -244,6 +244,12 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+ # _team
+ - scope:
+      path: ""
+      type: team # previously `page` in Jekyll 2.2.
+    values:
+      layout: "news" # overrides previous default layout
 # Sass/SCSS
 sass:
   sass_dir: _sass
