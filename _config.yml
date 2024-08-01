@@ -244,12 +244,6 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _team
-  - scope:
-      path: ""
-      type: team 
-    values:
-      layout: "news" 
 # Sass/SCSS
 sass:
   sass_dir: _sass
