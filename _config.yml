@@ -246,8 +246,8 @@ defaults:
       share: true
  # _team
  - scope:
-      path: ""
-      type: team # previously `page` in Jekyll 2.2.
+      path: "team"
+      type: "posts" # previously `page` in Jekyll 2.2.
     values:
       layout: "news" # overrides previous default layout
 # Sass/SCSS
