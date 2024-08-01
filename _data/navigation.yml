@@ -5,7 +5,8 @@ main:
 
 #  - title: "Talks"
 #    url: /talks/    
-
+  - title: "Team"
+    url: /team/
 
   - title: "Research"
     url: /research/
@@ -22,5 +23,4 @@ main:
   - title: "CV"
     url: /cv/
     
- # - title: "Guide"
- #   url: /markdown/
+
