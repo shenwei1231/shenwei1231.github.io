@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Full Professor <br>
+Professor <br>
 Artificial Intelligence Institute, Shanghai Jiao Tong University <br>
 800 Dongchuan Road, Software Building, Shanghai 200240 China
 
