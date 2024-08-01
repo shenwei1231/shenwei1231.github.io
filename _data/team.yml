@@ -2,15 +2,15 @@
 
 - name: Xuehui Wang
   website: https://huiserwang.site/
-  image: ../images/team/wangxuehui.jpg
+  image: wangxuehui.jpg
   section: grad
 
 - name: Chongjie Si
   website: https://chongjiesi.github.io/
-  image: ../images/team/sichongjie.jpg
+  image: sichongjie.jpg
   section: grad
 
 - name: Zelin Peng
   website: https://godlin-sjtu.github.io/Profile/
-  image: ../images/team/pengzelin.jpg
+  image: pengzelin.jpg
   section: grad
