@@ -3,6 +3,9 @@ layout: default
 ---
 
 {% include base_path %}
+{% for post in site.team reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 <div class="team top-container">
     <div class="container-fluid">
