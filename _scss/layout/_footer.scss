@@ -1,0 +1,19 @@
+/* FOOTER
+-------------------------------------------------*/
+.main-footer {
+    @extend %space;
+    color: $white;
+    background: lighten($colorPrimary, 2%);
+    text-align: center;
+    small {
+        display: block;
+    }
+    a {
+        color: $white;
+        font-weight: $fontWeightBold;
+        &:hover,&:focus {
+            color: lighten($colorPrimary, 30%);
+            font-weight: $fontWeightBold;
+        }
+    }
+}

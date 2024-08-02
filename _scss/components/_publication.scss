@@ -1,0 +1,21 @@
+/* TREATMENTS
+-------------------------------------------------*/
+.publication {
+    @extend %space;
+    .icon {
+        font-size: 1.5rem;
+        color: $colorPrimary;
+    }
+
+    .pub-thumbnail {
+        /* I remove this for normal aspect ratio of thumbnails */
+        /* height: 15rem; */
+        width: 20rem;
+        margin-right: 1rem;
+    }
+
+    .abstract {
+        margin-top: 1.5rem;
+    }
+
+}

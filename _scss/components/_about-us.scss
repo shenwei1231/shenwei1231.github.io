@@ -1,0 +1,23 @@
+/* 3 SHADE COLUMNS
+-------------------------------------------------*/
+.about-us {
+    @extend %clearfix;
+    @extend %align-center;
+    display: block;
+    padding: $space*2 $space*2;
+    color: $grey;
+    background: $colorBg;
+    .icon {
+        font-size: 2rem;
+        color: $white;
+        vertical-align: bottom;
+    }
+    h3 {
+        color: $colorPrimary;
+        margin-bottom: $space;
+    }
+    p {
+        font-size: 1rem;
+        @extend %align-left;
+    }
+}

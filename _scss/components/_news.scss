@@ -1,0 +1,8 @@
+/* ABOUT
+-------------------------------------------------*/
+.news {
+    @extend %space;
+    .media {
+        margin-bottom: $space;
+    }
+}

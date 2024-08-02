@@ -1,0 +1,55 @@
+/* HERO
+-------------------------------------------------*/
+.hero {
+    $hero_height: 35em;
+    background: $colorPrimary;
+    position: relative;
+    margin-top: 70px;
+    // height: $hero_height;
+    .item {
+        height: $hero_height;
+        // overflow: hidden;
+        // position: relative;
+        img {
+            display: block;
+            width: 100%;
+            height: auto;
+        }
+    }
+    // .owl-controls {
+    //     position: absolute;
+    //     bottom: -5em;
+    //     left: 0;
+    //     width: 100%;
+    // }
+    .credit {
+        position: absolute;
+        background: rgba(0, 0, 0, 0.5);
+        right: 0;
+        top: 0;
+        padding: .2em 1em;
+        color: $white;
+    }
+}
+
+.hero-content {
+    padding: $space 0;
+    background: rgba($colorPrimary, 0.5);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    .hero-content-inner {
+        @include breakpoint(small) {
+            width: 50%;
+        }
+    }
+    h1 {
+        margin: 0 0 5px;
+        color: $white;
+    }
+    p {
+        color: darken($white, 20%);
+        font-size: 1.125rem;
+    }
+}
