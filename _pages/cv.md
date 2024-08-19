@@ -18,7 +18,7 @@ Work experience
 * 2024.08 - present Professor, Artificial Intelligence Institute, **Shanghai Jiao Tong University** 
 * 2020.10 - 2024.07 Associate Professor, Artificial Intelligence Institute, **Shanghai Jiao Tong University** 
 * 2018.11 - 2020.08 Assistant Research Professor, Deptartment of Computer Science, **Johns Hopkins University**.
-* 2016.05 - 2018.10 Visiting Assistant/Associate Professor, Deptartment of Computer Science, **Johns Hopkins University**. (Hosted by [Prof. Alan Yuille](http://www.cs.jhu.edu/~ayuille/))
+* 2016.05 - 2018.10 Visiting Scholar, Deptartment of Computer Science, **Johns Hopkins University**. (Hosted by [Prof. Alan Yuille](http://www.cs.jhu.edu/~ayuille/))
 * 2017.03 - 2018.10 Associate Professor, School of Communications and Information Engineering, **Shanghai University**.
 * 2012.10 - 2017.02 Lecturer, School of Communications and Information Engineering, **Shanghai University**.
 * 2011.04 - 2011.12 Intern, Visual Computing Group, **Microsoft Research Asia**. (Supervised by [Prof. Zhuowen Tu](https://pages.ucsd.edu/~ztu/))				   
