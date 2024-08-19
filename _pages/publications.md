@@ -46,6 +46,8 @@ Huiyu Duan, Xiongkuo Min, Sijing Wu, **Wei Shen**, Guangtao Zhai. <font color='N
 
 Zelin Peng, Zhengqin Xu, Zhilin Zeng, Lingxi Xie, Qi Tian, **Wei Shen**. <font color='Navy'>Parameter Efficient Fine-tuning via Cross Block Orchestration for Segment Anything Model</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Seattle, USA, 2024. ([PDF](https://arxiv.org/pdf/2311.17112.pdf))
 
+Zhilin Zeng, Zelin Peng, Xiaokang Yang, **Wei Shen**. <font color='Navy'>DeCo-Net Robust Multimodal Brain Tumor Segmentation via Decoupled Complementary Knowledge DistillationModel</font>. **IEEE International Conference on Bioinformatics and Biomedicine (BIBM)**, Lisbon, Portugal. 
+
 Kailing Wang, Chen Yang, Yuehao Wang, Sikuang Li, Yan Wang, Qi Dou, Xiaokang Yang, **Wei Shen**. <font color='Navy'>EndoGSLAM: Real-Time Dense Reconstruction and Tracking in Endoscopic Surgeries using Gaussian Splatting</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, Marrakesh, Morocco, 2024. ([PDF](https://arxiv.org/pdf/2403.15124))
 
 Zhilin Zeng, Zelin Peng, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Missing as Masking: Arbitrary Cross-modal Feature Reconstruction for Incomplete Multimodal Brain Tumor Segmentation</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, Marrakesh, Morocco, 2024.
