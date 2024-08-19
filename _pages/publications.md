@@ -42,7 +42,7 @@ Tongkun Guan, **Wei Shen**, Xue Yang, Xuehui Wang, Xiaokang Yang. <font color='N
 
 Tongkun Guan, Chengyu Lin, **Wei Shen**, Xiaokang Yang. <font color='Navy'>PosFormer: Recognizing Complex Handwritten Mathematical Expression with Position Forest Transformer</font>. **European Conference on Computer Vision (ECCV)**, Milano, Italy, 2024. ([PDF](https://arxiv.org/pdf/2407.07764))
 
-Huiyu Duan, Xiongkuo Min, Sijing Wu, **Wei Shen**, Guangtao Zhai. <font color='Navy'>UniProcessor: A Text-induced Unified Low-level Image Processor</font>. **European Conference on Computer Vision (ECCV)**, Milano, Italy, 2024.
+Huiyu Duan, Xiongkuo Min, Sijing Wu, **Wei Shen**, Guangtao Zhai. <font color='Navy'>UniProcessor: A Text-induced Unified Low-level Image Processor</font>. **European Conference on Computer Vision (ECCV)**, Milano, Italy, 2024. ([PDF](https://arxiv.org/abs/2407.20928))
 
 Zelin Peng, Zhengqin Xu, Zhilin Zeng, Lingxi Xie, Qi Tian, **Wei Shen**. <font color='Navy'>Parameter Efficient Fine-tuning via Cross Block Orchestration for Segment Anything Model</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Seattle, USA, 2024. ([PDF](https://arxiv.org/pdf/2311.17112.pdf))
 
