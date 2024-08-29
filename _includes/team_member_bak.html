@@ -1,0 +1,53 @@
+{% assign section_exisit = false %}
+{% for member in site.data.team %}
+{% if member.section == include.section_id %}
+{% assign section_exisit = true %}
+{% break %}
+{% endif %}
+{% endfor %}
+
+{% if section_exisit %}
+<section>
+    <header>
+        <h1> {{ include.section_title }} </h1>
+    </header>
+    <hr/>
+    <div class="row">
+        {% for member in site.data.team %}
+        {% if member.section == include.section_id %}
+        {% if include.section_layout == "grid" %}
+        <div class="col-sm-6 col-md-4">
+            <div style="width: 100%;">
+                <a href="{{ member.website }}">
+                    <img class="photo" src="{{ site.baseurl }}/images/team/{{ member.image }}">
+                </a>
+                <h4>
+                    <a href="{{ member.website }}">
+                        {{ member.name }}
+                    </a>
+                </h4>
+                <small>{{ member.title }}</small>
+                {% if member.bio %}
+                <p style="text-align: left;">
+                    {{ member.bio }}
+                </p>
+                {% endif %}
+            </div>
+        </div>
+        {% elsif include.section_layout == "list" %}
+        <div class="col-sm-6 col-md-4">
+            <div style="width: 100%;">
+                <a href="{{ member.website }}">
+                    {{ member.name }}
+                </a>
+                <p>
+                <small>{{ member.title }}</small>
+                </p>
+            </div>
+        </div>
+        {% endif %}
+        {% endif %}
+        {% endfor %}
+    </div>
+</section>
+{% endif %}
