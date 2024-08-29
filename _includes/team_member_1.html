@@ -7,19 +7,15 @@
 {% endfor %}
 
 {% if section_exisit %}
-<section style="display: flex; flex-direction: column;">
-	<div>
-		<header>
-			<h1> {{ include.section_title }} </h1>
-		</header>
-	</div>
-
-	<div style="display: flex; flex-direction: row; gap: 12px; justify-content: flex-start;">
-    
+<section>
+    <header>
+        <h1> {{ include.section_title }} </h1>
+    </header>
+    <hr/>
 	{% for member in site.data.team %}
 	{% if member.section == include.section_id %}
 	{% if include.section_layout == "grid" %}
-	<table style="width: auto; height: auto; padding-left: 4px; padding-right: 4px;" border="0" cellpadding="2" cellspacing="2">
+	<table style="text-align: left; width: 633px; height: 203px;" border="0" cellpadding="2" cellspacing="2">
 		<tbody>
 			<tr>
 				<td style="vertical-align: top;">
@@ -43,6 +39,5 @@
 	{% endif %}
 	{% endif %}
 	{% endfor %}
-	</div>
 </section>
 {% endif %}

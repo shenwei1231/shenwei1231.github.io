@@ -3,17 +3,25 @@
 - name: Xuehui Wang
   website: https://huiserwang.site/
   image: wangxuehui.jpg
-  section: grad
+  section: phd
   bio: (2021 Fall - )
 
 - name: Chongjie Si
   website: https://chongjiesi.github.io/
   image: sichongjie.jpg
-  section: grad
+  section: phd
   bio: (2022 Fall - )
 
 - name: Zelin Peng
   website: https://godlin-sjtu.github.io/Profile/
   image: pengzelin.jpg
-  section: grad
+  section: phd
   bio: (2022 Fall - )
+  
+# Master
+
+# Alumni
+- name: Kai Zhao
+  website: https://kaizhao.net/
+  section: alumni
+  bio: Former Master student at Shanghai University (2014); Now PostDoc at UCLA
