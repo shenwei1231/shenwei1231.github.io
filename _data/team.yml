@@ -18,10 +18,15 @@
   section: phd
   bio: (2022 Fall - )
   
-# Master
+# MPhil
 
 # Alumni
+- name: Huayu Wang
+  website: 
+  section: alumni
+  bio: (MPhil 2023, Shanghai Jiao Tong University) Software Engineer at SenseTime
+
 - name: Kai Zhao
   website: https://kaizhao.net/
   section: alumni
-  bio: Former Master student at Shanghai University (2014); Now PostDoc at UCLA
+  bio: (MPhil 2014, Shanghai University) PostDoc at UCLA
