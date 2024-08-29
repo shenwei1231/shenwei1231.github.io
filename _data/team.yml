@@ -6,6 +6,12 @@
   section: phd
   bio: 2021 Fall 
 
+- name: Chen Yang
+  website:
+  image: yangchen.jpg
+  section: phd
+  bio: 2022 Spring 
+
 - name: Chongjie Si
   website: https://chongjiesi.github.io/
   image: sichongjie.jpg
@@ -37,6 +43,12 @@
   bio: 2024 Fall   
 
 # MPhil
+- name: Danning Lao
+  website: 
+  image: laodanning.jpg
+  section: mphil
+  bio: 2022 Fall 
+  
 - name: Zhilin Zeng
   website: 
   image: zengzhilin.jpg
