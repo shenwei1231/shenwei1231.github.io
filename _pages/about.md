@@ -28,6 +28,7 @@ Wei Shen is a professor at the Artificial Intelligence Institute, Shanghai Jiao 
 
 **Recent News**
 ======
+- I will serve as an Area Chair for ICCV 2025.
 - One paper has been accepted to ACM Trans. Graphics (Siggraph Asia 2024).
 >* [GaussianObject: High-Quality 3D Object Reconstruction from Four Views with Gaussian Splatting](https://arxiv.org/pdf/2402.10259)
 - One paper has been accepted to BIBM 2024.
