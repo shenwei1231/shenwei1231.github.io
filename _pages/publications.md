@@ -28,6 +28,7 @@ Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='Nav
 ======
 Jiazhong Cen, Jiemin Fang, Chen Yang, Lingxi Xie, Xiaopeng Zhang, **Wei Shen**, Qi Tian. <font color='Navy'>Segment Any 3D Gaussians</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, Philadelphia, USA, 2025. ([PDF](https://arxiv.org/pdf/2312.00860.pdf))
 
+Zhengqin Xu, Zelin Peng, Xiaokang Yang, **Wei Shen**. <font color='Navy'>FATE: Feature-Adapted Parameter Tuning for Vision-Language Models</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, Philadelphia, USA, 2025. ([PDF]())
 **2024**
 ======
 Chen Yang, Sikuang Li, jiemin Fang, Ruofan Liang, Lingxi Xie, Xiaopeng Zhang, **Wei Shen**, Qi Tian. <font color='Navy'>GaussianObject: High-Quality 3D Object Reconstruction from Four Views with Gaussian Splatting</font>. **ACM Trans. Graphics (Siggraph Asia)**, 2024. ([PDF](https://arxiv.org/pdf/2402.10259))
