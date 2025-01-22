@@ -18,14 +18,18 @@ You can also find my full publication list on my [Google Scholar profile](http:/
 ======
 Chongjie Si, Xiaokang Yang, **Wei Shen**. <font color='Navy'>See Further for Parameter Efficient Fine-tuning by Standing on the Shoulders of Decomposition</font>. **arXiv:2407.05417**. ([PDF](https://arxiv.org/pdf/2407.05417))
 
-Chongjie Si, Xuehui Wang, Xue Yang, Zhengqin Xu, Qingyun Li, Jifeng Dai, Yu Qiao, Xiaokang Yang, **Wei Shen**. <font color='Navy'>FLoRA: Low-Rank Core Space for N-dimension</font>. **arXiv:2405.14739**. ([PDF](https://arxiv.org/pdf/2405.14739.pdf))
-
 Jiazhong Cen, Jiemin Fang, Zanwei Zhou, Chen Yang, Lingxi Xie, Xiaopeng Zhang, **Wei Shen**, Qi Tian. <font color='Navy'>Segment Anything in 3D with Radiance Fields</font>. **arXiv:2304.12308**. ([PDF](https://arxiv.org/pdf/2304.12308.pdf))
 
 Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='Navy'>Micro-Batch Training with Batch-Channel Normalization and Weight Standardization</font>. **arXiv:1903.10520**. ([PDF](https://arxiv.org/pdf/1903.10520.pdf))
 
 **2025**
 ======
+Tongkun Guan, **Wei Shen**, Xiaokang Yang. <font color='Navy'>CCDPlus: Towards Accurate Character to Character Distillation for Text Recognition</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 2025.
+
+Chongjie Si, Zhiyi Shi, Shifan Zhang, Xiaokang Yang, Hanspeter Pfister, **Wei Shen**. <font color='Navy'>Unleashing the Power of Task-Specific Directions in Parameter Efficient Fine-tuning</font>. **International Conference on Learning Representations (ICLR)**, Singapore, 2025. ([PDF](https://arxiv.org/pdf/2409.01035.pdf))
+
+Chongjie Si, Xuehui Wang, Xue Yang, Zhengqin Xu, Qingyun Li, Jifeng Dai, Yu Qiao, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Maintaining Structural Integrity in Parameter Spaces for Parameter Efficient Fine-tuning</font>. **International Conference on Learning Representations (ICLR)**, Singapore, 2025. ([PDF](https://arxiv.org/pdf/2405.14739.pdf))
+
 Jiazhong Cen, Jiemin Fang, Chen Yang, Lingxi Xie, Xiaopeng Zhang, **Wei Shen**, Qi Tian. <font color='Navy'>Segment Any 3D Gaussians</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, Philadelphia, USA, 2025. ([PDF](https://arxiv.org/pdf/2312.00860.pdf))
 
 Zhengqin Xu, Zelin Peng, Xiaokang Yang, **Wei Shen**. <font color='Navy'>FATE: Feature-Adapted Parameter Tuning for Vision-Language Models</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, Philadelphia, USA, 2025. ([PDF]())

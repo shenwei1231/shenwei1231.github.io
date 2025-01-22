@@ -28,6 +28,8 @@ Wei Shen is a professor at the Artificial Intelligence Institute, Shanghai Jiao 
 
 **Recent News**
 ======
+- One paper has been accepted to IEEE TPAMI.
+- Two papers have been accepted to ICLR 2025.
 - I will serve as an Area Chair for ICML 2025.
 - Two papers have been accepted to AAAI 2025.
 >* [Segment Any 3D Gaussians](https://arxiv.org/pdf/2312.00860.pdf)
