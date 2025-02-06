@@ -38,7 +38,7 @@ Academic Service
 ======
 * Associate Editor
 	* Pattern Recognition, 2024 - present
-	* Neurocomputing, 2019 - present
+	* Neurocomputing, 2019 - 2024
 	* Image and Vision Computing, 2023 - present 
 * Conference Area Chair
 	* ICML 2025, ICCV 2025, NeurIPS 2024, WACV 2024, NeurIPS 2023, CVPR 2023, CVPR 2022, ACCV 2022
