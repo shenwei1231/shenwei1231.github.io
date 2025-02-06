@@ -26,8 +26,6 @@ Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='Nav
 ======
 Tongkun Guan, **Wei Shen**, Xiaokang Yang. <font color='Navy'>CCDPlus: Towards Accurate Character to Character Distillation for Text Recognition</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 2025.
 
-#Chongjie Si, Zhiyi Shi, Shifan Zhang, Xiaokang Yang, Hanspeter Pfister, **Wei Shen**. <font color='Navy'>Unleashing the Power of Task-Specific Directions in Parameter Efficient Fine-tuning</font>. **International Conference on Learning Representations (ICLR)**, Singapore, 2025. ([PDF](https://arxiv.org/pdf/2409.01035.pdf))
-
 Chongjie Si, Xuehui Wang, Xue Yang, Zhengqin Xu, Qingyun Li, Jifeng Dai, Yu Qiao, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Maintaining Structural Integrity in Parameter Spaces for Parameter Efficient Fine-tuning</font>. **International Conference on Learning Representations (ICLR)**, Singapore, 2025. ([PDF](https://arxiv.org/pdf/2405.14739.pdf))
 
 Jiazhong Cen, Jiemin Fang, Chen Yang, Lingxi Xie, Xiaopeng Zhang, **Wei Shen**, Qi Tian. <font color='Navy'>Segment Any 3D Gaussians</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, Philadelphia, USA, 2025. ([PDF](https://arxiv.org/pdf/2312.00860.pdf))
