@@ -28,6 +28,10 @@ Wei Shen is a professor at the Artificial Intelligence Institute, Shanghai Jiao 
 
 **Recent News**
 ======
+- One paper has been accepted to IJCV.
+>* [Segment Anything in 3D with Radiance Fields](https://arxiv.org/pdf/2304.12308.pdf)
+- Five papers have been accepted to CVPR 2025.
+- I will serve as an Area Chair for NeurIPS 2025.
 - One paper has been accepted to IEEE TPAMI.
 - Two papers have been accepted to ICLR 2025.
 - I will serve as an Area Chair for ICML 2025.

@@ -18,13 +18,23 @@ You can also find my full publication list on my [Google Scholar profile](http:/
 ======
 Chongjie Si, Xiaokang Yang, **Wei Shen**. <font color='Navy'>See Further for Parameter Efficient Fine-tuning by Standing on the Shoulders of Decomposition</font>. **arXiv:2407.05417**. ([PDF](https://arxiv.org/pdf/2407.05417))
 
-Jiazhong Cen, Jiemin Fang, Zanwei Zhou, Chen Yang, Lingxi Xie, Xiaopeng Zhang, **Wei Shen**, Qi Tian. <font color='Navy'>Segment Anything in 3D with Radiance Fields</font>. **arXiv:2304.12308**. ([PDF](https://arxiv.org/pdf/2304.12308.pdf))
-
 Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='Navy'>Micro-Batch Training with Batch-Channel Normalization and Weight Standardization</font>. **arXiv:1903.10520**. ([PDF](https://arxiv.org/pdf/1903.10520.pdf))
 
 **2025**
 ======
-Tongkun Guan, **Wei Shen**, Xiaokang Yang. <font color='Navy'>CCDPlus: Towards Accurate Character to Character Distillation for Text Recognition</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 2025.
+Jiazhong Cen, Jiemin Fang, Zanwei Zhou, Chen Yang, Lingxi Xie, Xiaopeng Zhang, **Wei Shen**, Qi Tian. <font color='Navy'>Segment Anything in 3D with Radiance Fields</font>. **International Journal of Computer Vision**, 2025. ([PDF](https://arxiv.org/pdf/2304.12308.pdf))
+
+Tongkun Guan, **Wei Shen**, Xiaokang Yang. <font color='Navy'>CCDPlus: Towards Accurate Character to Character Distillation for Text Recognition</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 2025. ([PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10887029))
+
+Zelin Peng, Zhengqin Xu, Zhilin Zeng, Changsong Wen, Yu Huang, Menglin Yang, Feilong Tang, **Wei Shen**. <font color='Navy'>Understanding Fine-tuning CLIP for Open-vocabulary Semantic Segmentation in Hyperbolic Space</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Nashville, USA, 2025.
+
+Zelin Peng, Zhengqin Xu, Zhilin Zeng, Yu Huang, Yaoming Wang, **Wei Shen**. <font color='Navy'>Parameter-efficient Fine-tuning in Hyperspherical Space for Open-vocabulary Semantic Segmentation</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Nashville, USA, 2025. ([PDF](https://arxiv.org/abs/2405.18840))
+
+Zelin Peng, Yu Huang, Zhengqin Xu, Feilong Tang, Ming Hu, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Star with Bilinear Mapping</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Nashville, USA, 2025.
+
+Changsong Wen, Zelin Peng, Yu Huang, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Domain Generalization in CLIP via Learning with Diverse Text Prompts</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Nashville, USA, 2025.
+
+Zining Wang, Tongkun Guan, Pei Fu, Chen Duan, Qianyi Jiang, Zhentao Guo, Shan Guo, Junfeng Luo, **Wei Shen**, Xiaokang Yang. <font color='Navy'>Marten: Visual Question Answering with Mask Generation for Multi-modal Document Understanding</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Nashville, USA, 2025.
 
 Chongjie Si, Zhiyi Shi, Shifan Zhang, Xiaokang Yang, Hanspeter Pfister, **Wei Shen**. <font color='Navy'>Unleashing the Power of Task-Specific Directions in Parameter Efficient Fine-tuning</font>. **International Conference on Learning Representations (ICLR)**, Singapore, 2025. ([PDF](https://arxiv.org/pdf/2409.01035.pdf))
 
