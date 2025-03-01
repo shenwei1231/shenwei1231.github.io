@@ -24,7 +24,7 @@ My research interests lie in the fields of computer vision, machine learning, de
 
 **Short Bio**
 ======
-Wei Shen is a professor at the Artificial Intelligence Institute, Shanghai Jiao Tong University. He was an Assistant Research Professor at the Department of Computer Science, [Johns Hopkins University](https://www.jhu.edu/), worked with [Bloomberg Distinguished Professor Alan Yuille](http://www.cs.jhu.edu/~ayuille/). He received his B.S. and Ph.D. degrees from Huazhong University of Science and Technology in 2007 and in 2012, respectively. In 2012, he joined Shanghai University, served as a Lecturer and then an Associate Professor until Oct 2018. He also worked as a research intern with [Prof. Zhuowen Tu](https://pages.ucsd.edu/~ztu/) at Microsoft Research Asia. He has over 80 peer-reviewed publications in computer vision and machine learning related areas, including IEEE Trans. PAMI, IEEE Trans. Image Processing, IEEE Trans. Medical Imaging, NeurIPS, ICML, ICCV, CVPR, ECCV and MICCAI. He is an Area Chair for ICML 2025, ICCV 2025, NeurIPS 2023/2024, CVPR 2022/2023, ACCV 2022 and WACV 2024. He is an Associate Editor for Pattern Recognition. He receives the MICCAI Young Scientist Award and the NSFC Excellent Young Scientists Fund in 2023.
+Wei Shen is a professor at the Artificial Intelligence Institute, Shanghai Jiao Tong University. He was an Assistant Research Professor at the Department of Computer Science, [Johns Hopkins University](https://www.jhu.edu/), worked with [Bloomberg Distinguished Professor Alan Yuille](http://www.cs.jhu.edu/~ayuille/). He received his B.S. and Ph.D. degrees from Huazhong University of Science and Technology in 2007 and in 2012, respectively. In 2012, he joined Shanghai University, served as a Lecturer and then an Associate Professor until Oct 2018. He also worked as a research intern with [Prof. Zhuowen Tu](https://pages.ucsd.edu/~ztu/) at Microsoft Research Asia. He has over 80 peer-reviewed publications in computer vision and machine learning related areas, including IEEE Trans. PAMI, IEEE Trans. Image Processing, IEEE Trans. Medical Imaging, NeurIPS, ICML, ICCV, CVPR, ECCV and MICCAI. He is an Area Chair for ICML 2025, ICCV 2025, NeurIPS 2023/2024/2025, CVPR 2022/2023, ACCV 2022 and WACV 2024. He is an Associate Editor for Pattern Recognition. He receives the MICCAI Young Scientist Award and the NSFC Excellent Young Scientists Fund in 2023.
 
 **Recent News**
 ======
@@ -33,6 +33,7 @@ Wei Shen is a professor at the Artificial Intelligence Institute, Shanghai Jiao 
 - Five papers have been accepted to CVPR 2025.
 - I will serve as an Area Chair for NeurIPS 2025.
 - One paper has been accepted to IEEE TPAMI.
+>* [CCDPlus: Towards Accurate Character to Character Distillation for Text Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10887029)
 - Two papers have been accepted to ICLR 2025.
 - I will serve as an Area Chair for ICML 2025.
 - Two papers have been accepted to AAAI 2025.
