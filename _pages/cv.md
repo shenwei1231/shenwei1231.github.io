@@ -13,7 +13,7 @@ Education
 * 2007.09 - 2012.06 Ph.D in Electronic and Information Engineering, **Huazhong University of Science and Technology**. (Co-supervised by [Prof. Xiang Bai](http://cloud.eic.hust.edu.cn:8071/~xbai/)) 
 * 2003.09 - 2007.06 B.S. in Electronic and Information Engineering, **Huazhong University of Science and Technology**. 
 
-Work experience
+Work Experience
 ======
 * 2024.08 - present Professor, Artificial Intelligence Institute, **Shanghai Jiao Tong University** 
 * 2020.10 - 2024.07 Associate Professor, Artificial Intelligence Institute, **Shanghai Jiao Tong University** 
