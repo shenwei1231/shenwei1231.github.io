@@ -52,7 +52,7 @@
 
 	<body>
 
-	<div class="grid-container" style="display: flex; flex-direction: column; justify-content: flex-start;">
+	<div class="grid-container">
 		{% for member in site.data.team %}
 			{% if member.section == include.section_id %}
 			{% if include.section_layout == "grid" %}
@@ -70,7 +70,6 @@
 			{% endif %}
 			{% endfor %}
 	</div>
-		<div style="clear: both;"></div>
 
 
 	</body>
