@@ -56,7 +56,7 @@
 		{% for member in site.data.team %}
 			{% if member.section == include.section_id %}
 			{% if include.section_layout == "grid" %}
-			 <div class="grid-container" style="display: flex; flex-direction: column;>	
+			 <div class="grid-container" style="display: flex; flex-direction: column; justify-content: flex-start;">	
 				<div style="text-align: center;"><img alt="" src="{{ site.baseurl }}/images/team/{{ member.image }}"><br>
 				</div>
 				<div style="text-align: center;"><a href="{{ member.website }}">{{ member.name }}</a><br>
