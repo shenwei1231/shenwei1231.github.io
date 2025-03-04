@@ -38,7 +38,7 @@
         .grid-container img {
 
 
-            width: 50%; /* 使图片占满整个网格单元 */
+            width: 100%; /* 使图片占满整个网格单元 */
 
 
         }
@@ -56,7 +56,7 @@
 		{% for member in site.data.team %}
 			{% if member.section == include.section_id %}
 			{% if include.section_layout == "grid" %}
-			 	<div style="display: flex; flex-direction: column; gap: 50px; justify-content: flex-start;">
+			 	
 				<div style="text-align: center;"><img alt="" src="{{ site.baseurl }}/images/team/{{ member.image }}"><br>
 				</div>
 				<div style="text-align: center;"><a href="{{ member.website }}">{{ member.name }}</a><br>
@@ -65,7 +65,6 @@
 				<div style="text-align: center;">{{ member.bio }}<br>
 				{% endif %}
 				</div>
-				<div style="clear: both;"></div>
 			{% endif %}
 			{% endif %}
 			{% endfor %}
