@@ -59,11 +59,13 @@
 			 	
 				<div style="text-align: center;"><img alt="" src="{{ site.baseurl }}/images/team/{{ member.image }}"><br>
 				</div>
+				<div style="display: flex; flex-direction: column; gap: 50px; justify-content: flex-start;">
 				<div style="text-align: center;"><a href="{{ member.website }}">{{ member.name }}</a><br>
 				</div>
 				{% if member.bio %}
 				<div style="text-align: center;">{{ member.bio }}<br>
 				{% endif %}
+				</div>
 				</div>
 			{% endif %}
 			{% endif %}
