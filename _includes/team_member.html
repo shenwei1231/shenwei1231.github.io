@@ -60,7 +60,12 @@
 				<div style="text-align: center;"><img alt="" src="{{ site.baseurl }}/images/team/{{ member.image }}"><br>
 				</div>
 				
-				<div style="text-align: center;"><a href="{{ member.website }}">{{ member.name }}</a>{% if member.bio %}{{ member.bio }}{% endif %}<br>
+				<div style="text-align: center;"><a href="{{ member.website }}">{{ member.name }}</a><br>
+				</div>
+				{% if member.bio %}
+				<div style="text-align: center;">{{ member.bio }}<br>
+				{% endif %}
+				</div>
 			{% endif %}
 			{% endif %}
 			{% endfor %}
