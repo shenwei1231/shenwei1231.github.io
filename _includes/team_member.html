@@ -57,15 +57,10 @@
 			{% if member.section == include.section_id %}
 			{% if include.section_layout == "grid" %}
 			 	
-				<div style="text-align: center;"><img alt="xxx" src="{{ site.baseurl }}/images/team/{{ member.image }}"><br>
+				<div style="text-align: center;"><img alt="" src="{{ site.baseurl }}/images/team/{{ member.image }}"><br>
 				</div>
 				
-				<div style="text-align: center;"><a href="{{ member.website }}">{{ member.name }}</a><br>
-				</div>
-				{% if member.bio %}
-				<div style="text-align: center;">{{ member.bio }}<br>
-				{% endif %}
-				</div>
+				<div style="text-align: center;"><a href="{{ member.website }}">{{ member.name }}</a>{% if member.bio %}{{ member.bio }}{% endif %}<br>
 			{% endif %}
 			{% endif %}
 			{% endfor %}
