@@ -74,12 +74,17 @@
   bio: 2024 Fall  
   
 # Alumni
+- name: Danning Lao
+  website: 
+  section: alumni
+  bio: (MPhil 2022-2025, Shanghai Jiao Tong University) Algorithm Engineer at Meituan
+
 - name: Huayu Wang
   website: 
   section: alumni
-  bio: (MPhil 2023, Shanghai Jiao Tong University) Software Engineer at SenseTime
+  bio: (MPhil 2021-2024, Shanghai Jiao Tong University) Software Engineer at SenseTime
 
 - name: Kai Zhao
   website: https://kaizhao.net/
   section: alumni
-  bio: (MPhil 2014, Shanghai University) PostDoc at UCLA
+  bio: (MPhil 2014-2017, Shanghai University) PostDoc at UCLA
