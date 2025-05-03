@@ -26,7 +26,7 @@ Jiazhong Cen, Jiemin Fang, Zanwei Zhou, Chen Yang, Lingxi Xie, Xiaopeng Zhang, *
 
 Tongkun Guan, **Wei Shen**, Xiaokang Yang. <font color='Navy'>CCDPlus: Towards Accurate Character to Character Distillation for Text Recognition</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 2025. ([PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10887029))
 
-Jiazhong Cen, Xudong Zhou, Jiemin Fang, Changsong Wen, Lingxi Xie, Xiaopeng Zhang, **Wei Shen**, Qi Tian。 <font color='Navy'>Tackling View-Dependent Semantics in 3D Language Gaussian Splatting</font>. **International Conference on Machine Learning (ICML)**, Vancouver, Canada, 2025.
+Jiazhong Cen, Xudong Zhou, Jiemin Fang, Changsong Wen, Lingxi Xie, Xiaopeng Zhang, **Wei Shen**, Qi Tian. <font color='Navy'>Tackling View-Dependent Semantics in 3D Language Gaussian Splatting</font>. **International Conference on Machine Learning (ICML)**, Vancouver, Canada, 2025.
 
 Zelin Peng, Zhengqin Xu, Zhilin Zeng, Changsong Wen, Yu Huang, Menglin Yang, Feilong Tang, **Wei Shen**. <font color='Navy'>Understanding Fine-tuning CLIP for Open-vocabulary Semantic Segmentation in Hyperbolic Space</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Nashville, USA, 2025.
 
