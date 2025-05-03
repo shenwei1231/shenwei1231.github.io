@@ -26,6 +26,8 @@ Jiazhong Cen, Jiemin Fang, Zanwei Zhou, Chen Yang, Lingxi Xie, Xiaopeng Zhang, *
 
 Tongkun Guan, **Wei Shen**, Xiaokang Yang. <font color='Navy'>CCDPlus: Towards Accurate Character to Character Distillation for Text Recognition</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 2025. ([PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10887029))
 
+Jiazhong Cen, Xudong Zhou, Jiemin Fang, Changsong Wen, Lingxi Xie, Xiaopeng Zhang, **Wei Shen**, Qi Tian。 <font color='Navy'>Tackling View-Dependent Semantics in 3D Language Gaussian Splatting</font>. **International Conference on Machine Learning (ICML)**, Vancouver, Canada, 2025.
+
 Zelin Peng, Zhengqin Xu, Zhilin Zeng, Changsong Wen, Yu Huang, Menglin Yang, Feilong Tang, **Wei Shen**. <font color='Navy'>Understanding Fine-tuning CLIP for Open-vocabulary Semantic Segmentation in Hyperbolic Space</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Nashville, USA, 2025.
 
 Zelin Peng, Zhengqin Xu, Zhilin Zeng, Yu Huang, Yaoming Wang, **Wei Shen**. <font color='Navy'>Parameter-efficient Fine-tuning in Hyperspherical Space for Open-vocabulary Semantic Segmentation</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Nashville, USA, 2025. ([PDF](https://arxiv.org/abs/2405.18840))
@@ -181,7 +183,7 @@ Yuyin Zhou, Yan Wang, Peng Tang, Song Bai, **Wei Shen**, Elliot K. Fishman, Alan
 ​Siyuan Qiao, **Wei Shen**, Zhishuai Zhang, Bo Wang, Alan Yuille. <font color='Navy'>Deep Co-Training for Semi-Supervised Image Recognition</font>. 
 **European Conference on Computer Vision (ECCV)**, Munich, Germany, 2018. ([PDF](https://openaccess.thecvf.com/content_ECCV_2018/papers/Siyuan_Qiao_Deep_Co-Training_for_ECCV_2018_paper.pdf))
 
-Siyuan Qiao, Zhishuai Zhang, **Wei Shen**, Bo Wang, Alan Yuille. <font color='Navy'>Gradually Updated Neural Networks for Large-Scale Image Recognition</font>. **International Conference on Machine Learning (ICML)**, Stockholm, Sweden, 2018.. ([PDF](http://proceedings.mlr.press/v80/qiao18b/qiao18b.pdf)) ([CODE](https://github.com/joe-siyuan-qiao/GUNN))
+Siyuan Qiao, Zhishuai Zhang, **Wei Shen**, Bo Wang, Alan Yuille. <font color='Navy'>Gradually Updated Neural Networks for Large-Scale Image Recognition</font>. **International Conference on Machine Learning (ICML)**, Stockholm, Sweden, 2018. ([PDF](http://proceedings.mlr.press/v80/qiao18b/qiao18b.pdf)) ([CODE](https://github.com/joe-siyuan-qiao/GUNN))
 
 **Wei Shen**, Yilu Guo, Yan Wang, Kai Zhao, Bo Wang, Alan Yuille. <font color='Navy'>Deep Regression Forests for Age Estimation</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Salt Lake City, USA, 2018. ([PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Shen_Deep_Regression_Forests_CVPR_2018_paper.pdf)) ([CODE](https://github.com/shenwei1231/caffe-DeepRegressionForests))
 
