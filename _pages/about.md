@@ -28,8 +28,12 @@ Wei Shen is a professor at the Artificial Intelligence Institute, Shanghai Jiao 
 
 **Recent News**
 ======
+- Two papers have been accepted to ICCV 2025.
+>* [Generalized Tensor-based Parameter-Efficient Fine-Tuning via Lie Group Transformations](https://arxiv.org/abs/2504.00851)
+>* [A Token-level Text Image Foundation Model for Document Understanding](https://arxiv.org/abs/2503.02304)
+- My PhD student Chen Yang passed his doctoral oral defense. Congratulations!
 - One paper has been accepted to ICML 2025.
->* [Tackling View-Dependent Semantics in 3D Language Gaussian Splatting]()
+>* [Tackling View-Dependent Semantics in 3D Language Gaussian Splatting](https://arxiv.org/abs/2505.24746)
 - My computer vision textbook *Hands On Computer Vision* was published, which is now available for purchase at [JD](https://item.jd.com/14381883.html) and other booksellers.
 - One paper has been accepted to IJCV.
 >* [Segment Anything in 3D with Radiance Fields](https://arxiv.org/pdf/2304.12308.pdf)
