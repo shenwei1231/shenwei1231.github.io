@@ -32,6 +32,11 @@ author_profile: true
 
 Reconstructing deformable tissues from endoscopic videos in robotic surgery is crucial for various clinical applications, such as intraoperative assistance, surgery simulation and training. We propose highly-efficient tissue reconstruction methods based on NeRFs and 3DGS, which not only significantly accelerate the reconstruction process as well as the rendering process (up to real-time), but also maintain or even improve the reconstruction quality across a variety of non-rigid deformations. Our work received <span style="color:LightCoral;">Young Scientist Award</span> of MICCAI 2023.
 
+<center>
+ <video src="{{ site.baseurl }}/images/tissueReconstruction.mp4" controls="controls" width="85%" loop></video>
+</center>
+<br>
+
 ### Publications
 - Chen Yang, Kailing Wang, Yuehao Wang, Qi Dou, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Efficient Deformable Tissue Reconstruction via Orthogonal Neural Plane</font>. **IEEE Trans. Medical Imaging**, 43(9): 3211-3223, 2024. ([PDF](https://arxiv.org/pdf/2312.15253.pdf))
 - Chen Yang, Kailing Wang, Yuehao Wang, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Neural LerPlane Representations for Fast 4D Reconstruction of Deformable Tissues</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, Vancouver, Canada, 2023. <span style="color:LightCoral;">[Young Scientist Award][STAR Award]</span> ([PDF](https://arxiv.org/abs/2305.19906))
