@@ -25,6 +25,7 @@ Work Experience
 
 Grants
 ======
+* 2026.01 - 2029.12		  The Space Analysis Theory of Parameter-Efficient Fine-Tuning with Applications to Visual Dense Prediction Tasks, **National Natural Science Foundation of China** No. 62576207 **(PI)**
 * 2024.01 - 2026.12		  Shape Guided Image Segmentation, **National Natural Science Foundation of China** No. 62322604 **(PI)**
 * 2022.01 - 2025.12       Deep Sequential Decision Trees with Applications to Visual Recognition, **National Natural Science Foundation of China** No. 62176159​ **(PI)**
 * 2021.07 - 2024.06		  Deep Differentiable Random Forests with Applications to Visual Recognition, **Natural Science Foundation of Shanghai** No. 21ZR1432200 **(PI)**
@@ -37,11 +38,12 @@ Grants
 Academic Service
 ======
 * Associate Editor
+	* SCIENCE CHINA Information Sciences, 2025 - present
 	* Pattern Recognition, 2024 - present
 	* Neurocomputing, 2019 - 2024
-	* Image and Vision Computing, 2023 - present 
+	* Image and Vision Computing, 2023 - 2025 
 * Conference Area Chair
-	* NeurIPS 2025, ICML 2025, ICCV 2025, NeurIPS 2024, WACV 2024, NeurIPS 2023, CVPR 2023, CVPR 2022, ACCV 2022
+	* CVPR 2026, NeurIPS 2025, ICML 2025, ICCV 2025, NeurIPS 2024, WACV 2024, NeurIPS 2023, CVPR 2023, CVPR 2022, ACCV 2022
 * Journal Reviewer	
 	* IEEE Transactions on Pattern Analysis and Machine Intelligence
     * IEEE Transactions on Image Processing
