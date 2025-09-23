@@ -28,6 +28,9 @@ Wei Shen is a professor at the Artificial Intelligence Institute, Shanghai Jiao 
 
 **Recent News**
 ======
+- Two papers have been accepted to NeurIPS 2025, where one is oral.
+>* [HyperET: Efficient Training in Hyperbolic Space for Multi-modal Large Language Models]()
+>* [OPMapper: Enhancing Open-Vocabulary Semantic Segmentation with Multi-Guidance Information]()
 - I will serve as an Area Chair for CVPR 2026.
 - Two papers have been accepted to ICCV 2025.
 >* [Generalized Tensor-based Parameter-Efficient Fine-Tuning via Lie Group Transformations](https://arxiv.org/abs/2504.00851)
