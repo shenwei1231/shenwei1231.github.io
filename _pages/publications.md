@@ -26,9 +26,17 @@ Jiazhong Cen, Jiemin Fang, Zanwei Zhou, Chen Yang, Lingxi Xie, Xiaopeng Zhang, *
 
 Tongkun Guan, **Wei Shen**, Xiaokang Yang. <font color='Navy'>CCDPlus: Towards Accurate Character to Character Distillation for Text Recognition</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 47(5): 3546-3562, 2025. ([PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10887029))
 
+Zelin Peng, Zhengqin Xu, Qingyang Liu, Xiaokang Yang, **Wei Shen**. <font color='Navy'>HyperET: Efficient Training in Hyperbolic Space for Multi-modal Large Language Models</font>. **Advances in Neural Information Processing Systems (NeurIPS)**, San Diego, USA, 2025.
+
+Xuehui Wang, Chongjie Si, Xue Yang, Yuzhi Zhao, Wenhai Wang, Xiaokang Yang, **Wei Shen**. <font color='Navy'>OPMapper: Enhancing Open-Vocabulary Semantic Segmentation with Multi-Guidance Information</font>. **Advances in Neural Information Processing Systems (NeurIPS)**, San Diego, USA, 2025.
+
 Chongjie Si, Zhiyi Shi, Xuehui Wang, Yichen Xiao, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Generalized Tensor-based Parameter-Efficient Fine-Tuning via Lie Group Transformations</font>. **IEEE International Conference on Computer Vision (ICCV)**, Honolulu, USA, 2025. ([PDF](https://arxiv.org/abs/2504.00851))
 
 Tongkun Guan, Zining Wang, Pei Fu, Zhengtao Guo, **Wei Shen**, Kai Zhou, Tiezhu Yue, Chen Duan, Hao Sun, Qianyi Jiang, Junfeng Luo, Xiaokang Yang. <font color='Navy'>A Token-level Text Image Foundation Model for Document Understanding</font>. **IEEE International Conference on Computer Vision (ICCV)**, Honolulu, USA, 2025. ([PDF](https://arxiv.org/abs/2503.02304))
+
+Kailing Wang, Chen Yang, Rong Lin, Xiaokang Yang, **Wei Shen**. <font color='Navy'>EndoSD-SLAM: Real-time Deformable Endoscopic SLAM via Sparse-Dense Hybrid Representation</font>. **IEEE International Conference on Bioinformatics and Biomedicine (BIBM)**, Wuhan, China, 2025.
+
+Zanwei Zhou, Chen Yang, Piao Yang, Xiaokang Yang, **Wei Shen**. <font color='Navy'>EndoDAV: Depth Any Video in Endoscopy with Spatiotemporal Accuracy</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, Daejeon, Korea, 2025. ([PDF](https://papers.miccai.org/miccai-2025/paper/1355_paper.pdf))
 
 Jiazhong Cen, Xudong Zhou, Jiemin Fang, Changsong Wen, Lingxi Xie, Xiaopeng Zhang, **Wei Shen**, Qi Tian. <font color='Navy'>Tackling View-Dependent Semantics in 3D Language Gaussian Splatting</font>. **International Conference on Machine Learning (ICML)**, Vancouver, Canada, 2025. ([PDF](https://arxiv.org/abs/2505.24746))
 
