@@ -49,7 +49,6 @@
   bio: 2025 Fall 
   
 # MPhil
-  
 - name: Zhilin Zeng
   website: 
   image: zengzhilin.jpg
@@ -61,6 +60,12 @@
   image: lisikuang.jpg
   section: mphil
   bio: 2024 Fall  
+  
+- name: Xuanyi Chen
+  website: 
+  image: chenxuanyi.jpg
+  section: mphil
+  bio: 2025 Fall
   
 # Alumni
 - name: Chen Yang
