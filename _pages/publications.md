@@ -26,7 +26,7 @@ Jiazhong Cen, Jiemin Fang, Zanwei Zhou, Chen Yang, Lingxi Xie, Xiaopeng Zhang, *
 
 Tongkun Guan, **Wei Shen**, Xiaokang Yang. <font color='Navy'>CCDPlus: Towards Accurate Character to Character Distillation for Text Recognition</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 47(5): 3546-3562, 2025. ([PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10887029))
 
-Zelin Peng, Zhengqin Xu, Qingyang Liu, Xiaokang Yang, **Wei Shen**. <font color='Navy'>HyperET: Efficient Training in Hyperbolic Space for Multi-modal Large Language Models</font>. **Advances in Neural Information Processing Systems (NeurIPS)**, San Diego, USA, 2025.
+Zelin Peng, Zhengqin Xu, Qingyang Liu, Xiaokang Yang, **Wei Shen**. <font color='Navy'>HyperET: Efficient Training in Hyperbolic Space for Multi-modal Large Language Models</font>. **Advances in Neural Information Processing Systems (NeurIPS)**, San Diego, USA, 2025. <span style="color:LightCoral;">[Oral]</span>
 
 Xuehui Wang, Chongjie Si, Xue Yang, Yuzhi Zhao, Wenhai Wang, Xiaokang Yang, **Wei Shen**. <font color='Navy'>OPMapper: Enhancing Open-Vocabulary Semantic Segmentation with Multi-Guidance Information</font>. **Advances in Neural Information Processing Systems (NeurIPS)**, San Diego, USA, 2025.
 
