@@ -20,6 +20,20 @@ Chongjie Si, Xiaokang Yang, **Wei Shen**. <font color='Navy'>See Further for Par
 
 Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='Navy'>Micro-Batch Training with Batch-Channel Normalization and Weight Standardization</font>. **arXiv:1903.10520**. ([PDF](https://arxiv.org/pdf/1903.10520.pdf))
 
+**2026**
+======
+Zelin Peng, Guanchun Wang, Zhengqin Xu, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Difficulty-adapted Masked Transformer for Semi-Supervised Medical Image Segmentation</font>. **IEEE Journal of Biomedical and Health Informatic**, 2026.
+
+Changsong Wen, Zelin Peng, Yu Huang, **Wei Shen**. <font color='Navy'>Efficient Segmentation with Multimodal Large Language Model via Token Routing</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, Singapore, 2026.
+
+Zelin Peng, Zhengqin Xu, Feilong Tang, **Wei Shen**. <font color='Navy'>CP-CLIP: Customized Parameter Generation for Open-vocabulary Semantic Segmentation</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, Singapore, 2026.
+
+Jichen Hu, Chen Yang, Zanwei Zhou, Jiemin Fang, Qi Tian, **Wei Shen**. <font color='Navy'>Dereflection Any Image with Diffusion Priors and Diversified Data</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, Singapore, 2026. ([PDF](https://arxiv.org/abs/2503.17347))
+
+Zanwei Zhou, Taoran Yi, Jiemin Fang, Chen Yang, Lingxi Xie, Xinggang Wang, **Wei Shen**, Qi Tian. <font color='Navy'>Few-step Diffusion for 3D Generation by Learning Marginal Probability Path</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, Singapore, 2026.
+
+Sikuang Li, Chen Yang, Jiemin Fang, Taoran Yi, Jia Lu, Jiazhong Cen, Lingxi Xie, **Wei Shen**, Qi Tian. <font color='Navy'>WorldGrow: Infinite 3D Scene Generation with Structured Latents</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, Singapore, 2026. ([PDF](https://arxiv.org/abs/2510.21682))
+
 **2025**
 ======
 Jiazhong Cen, Jiemin Fang, Zanwei Zhou, Chen Yang, Lingxi Xie, Xiaopeng Zhang, **Wei Shen**, Qi Tian. <font color='Navy'>Segment Anything in 3D with Radiance Fields</font>. **International Journal of Computer Vision**, 133(8): 5138-5160, 2025. ([PDF](https://arxiv.org/pdf/2304.12308.pdf))
@@ -34,7 +48,7 @@ Chongjie Si, Zhiyi Shi, Xuehui Wang, Yichen Xiao, Xiaokang Yang, **Wei Shen**. <
 
 Tongkun Guan, Zining Wang, Pei Fu, Zhengtao Guo, **Wei Shen**, Kai Zhou, Tiezhu Yue, Chen Duan, Hao Sun, Qianyi Jiang, Junfeng Luo, Xiaokang Yang. <font color='Navy'>A Token-level Text Image Foundation Model for Document Understanding</font>. **IEEE International Conference on Computer Vision (ICCV)**, Honolulu, USA, 2025. ([PDF](https://arxiv.org/abs/2503.02304))
 
-Kailing Wang, Chen Yang, Rong Lin, Xiaokang Yang, **Wei Shen**. <font color='Navy'>EndoSD-SLAM: Real-time Deformable Endoscopic SLAM via Sparse-Dense Hybrid Representation</font>. **IEEE International Conference on Bioinformatics and Biomedicine (BIBM)**, Wuhan, China, 2025.
+Kailing Wang, Chen Yang, Rong Lin, Xiaokang Yang, **Wei Shen**. <font color='Navy'>EndoSD-SLAM: Real-time Deformable Endoscopic SLAM via Sparse-Dense Hybrid Representation</font>. **IEEE International Conference on Bioinformatics and Biomedicine (BIBM)**, Wuhan, China, 2025. 
 
 Zanwei Zhou, Chen Yang, Piao Yang, Xiaokang Yang, **Wei Shen**. <font color='Navy'>EndoDAV: Depth Any Video in Endoscopy with Spatiotemporal Accuracy</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, Daejeon, Korea, 2025. ([PDF](https://papers.miccai.org/miccai-2025/paper/1355_paper.pdf))
 
