@@ -23,7 +23,7 @@ Work Experience
 * 2012.10 - 2017.02 Lecturer, School of Communications and Information Engineering, **Shanghai University**.
 * 2011.04 - 2011.12 Intern, Visual Computing Group, **Microsoft Research Asia**. (Supervised by [Prof. Zhuowen Tu](https://pages.ucsd.edu/~ztu/))				   
 
-Grants
+Grant
 ======
 * 2026.01 - 2029.12		  The Space Analysis Theory of Parameter-Efficient Fine-Tuning with Applications to Visual Dense Prediction Tasks, **National Natural Science Foundation of China** No. 62576207 **(PI)**
 * 2024.01 - 2026.12		  Shape Guided Image Segmentation, **National Natural Science Foundation of China** No. 62322604 **(PI)**
@@ -34,6 +34,12 @@ Grants
 * 2014.01 - 2016.12       Symmetry based object localization in natural images, **Research Fund for the Doctoral Program of Higher Education of China** No. 20133108120017 **(PI)**
 * 2014.01 - 2015.12       Symmetry based object representation and recognition in natural images, **Innovation Program of Shanghai Municipal Education Commission** No. 14YZ018 **(PI)**
 * 2014.01 - 2016.12       Research on skeleton extraction and object recognition in natural images by supervised learning, **National Natural Science Foundation of China** No. 61303095 **(PI)**
+
+Award
+======
+* 2025 CSIG Young Scientist Award
+* 2023 First Class Prize of Shanghai Municipal Science and Technology Progress Award (6/13)
+* 2023 MICCAI Young Scientist Award
 
 Academic Service
 ======
