@@ -28,10 +28,11 @@ Wei Shen is a professor at the Artificial Intelligence Institute, Shanghai Jiao 
 
 **Recent News**
 ======
+- One paper has been accepted to IEEE TPAMI.
 - I will serve as an Area Chair for ECCV 2026.
 - I was awarded **CSIG Young Scientist Award**.
 - I will serve as an Area Chair for ICML 2026.
-- One paper has been accepted to JBHI.
+- One paper has been accepted to IEEE JBHI.
 - Five papers have been accepted to AAAI 2026, where one is oral.
 - Two papers have been accepted to NeurIPS 2025, where one is oral.
 >* [HyperET: Efficient Training in Hyperbolic Space for Multi-modal Large Language Models]()
