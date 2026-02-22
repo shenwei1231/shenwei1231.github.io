@@ -28,6 +28,7 @@ Wei Shen is a professor at the Artificial Intelligence Institute, Shanghai Jiao 
 
 **Recent News**
 ======
+- Five papers have been accepted to CVPR 2026.
 - One paper has been accepted to IEEE TPAMI.
 - I will serve as an Area Chair for ECCV 2026.
 - I was awarded **CSIG Young Scientist Award**.
