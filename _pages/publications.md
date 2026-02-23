@@ -26,6 +26,8 @@ Chongjie Si, Zhiyi Shi, Shifan Zhang, Xiaokang Yang, Hanspeter Pfister, **Wei Sh
 
 Zelin Peng, Guanchun Wang, Zhengqin Xu, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Difficulty-adapted Masked Transformer for Semi-Supervised Medical Image Segmentation</font>. **IEEE Journal of Biomedical and Health Informatic**, 2026.
 
+Jiajie Teng, Huiyu Duan, Sijing Wu, Jiarui Wang, Xilei Zhu, Jianing Jin, **Wei Shen**, Xiongkuo Min, Guangtao Zhai. MIMIC-Bench: Exploring the User-Like Thinking and Mimicking Capabilities of Multimodal Large Language Models.  **International Conference on Learning Representations (ICLR)**, Rio de Janeiro, Brazil, 2026. ([PDF](https://openreview.net/pdf?id=J7wc4G6woS))
+
 Changsong Wen, Zelin Peng, Yu Huang, **Wei Shen**. <font color='Navy'>Efficient Segmentation with Multimodal Large Language Model via Token Routing</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, Singapore, 2026.
 
 Zelin Peng, Zhengqin Xu, Feilong Tang, **Wei Shen**. <font color='Navy'>CP-CLIP: Customized Parameter Generation for Open-vocabulary Semantic Segmentation</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, Singapore, 2026.
