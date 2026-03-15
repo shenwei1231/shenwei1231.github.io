@@ -26,6 +26,16 @@ Chongjie Si, Zhiyi Shi, Shifan Zhang, Xiaokang Yang, Hanspeter Pfister, **Wei Sh
 
 Zelin Peng, Guanchun Wang, Zhengqin Xu, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Difficulty-adapted Masked Transformer for Semi-Supervised Medical Image Segmentation</font>. **IEEE Journal of Biomedical and Health Informatic**, 2026.
 
+Yu Huang, Zelin Peng, Changsong Wen, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Unlocking 3D Affordance Segmentation with 2D Semantic Knowledge</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Denver, USA, 2026.
+
+Chongjie Si, Yidan Cui, Fuchao Yang, **Wei Shen**. <font color='Navy'>Revisiting Sparsity Constraint Under High-Rank Property in Partial Multi-Label Learning</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Denver, USA, 2026.
+
+Jiazhong Cen, Jiemin Fang, Sikuang Li, Guanjun Wu, Chen Yang, Taoran Yi, Zanwei Zhou, zhikuan bao, Lingxi Xie, **Wei Shen**, Qi Tian. <font color='Navy'>Text-Image Conditioned 3D Generation</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Denver, USA, 2026.
+
+Tongkun Guan, Zhibo Yang, Jianqiang Wan, Mingkun Yang, Zhentao Guo, Zijian Hu, Ruilin Luo, Ruizhe Chen, Songtao Jiang, Peng Wang, **Wei Shen**, Junyang Lin, Xiaokang Yang. <font color='Navy'>CodePercept: Code-Grounded Visual STEM Perception for MLLM</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Denver, USA, 2026.
+
+Xuehui Wang, Zhenyu Wu, JingJing Xie, Zichen Ding, Bowen Yang, Zehao Li, Zhaoyang Liu, Qingyun Li, Xuan Dong, Zhe Chen, Weiyun Wang, Xiangyu Zhao, Jixuan Chen, Haodong Duan, Tianbao Xie, Chenyu Yang, Shiqian Su, Yue Yu, Yanting Zhang, Xiangyu Yue, Weijie Su, Xizhou Zhu, **Wei Shen**, Jifeng Dai, Wenhai Wang. <font color='Navy'>MMBench-GUI: A Unified Hierarchical Evaluation Framework for Multi-Platform GUI Agents</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Denver, USA, 2026.
+
 Jiajie Teng, Huiyu Duan, Sijing Wu, Jiarui Wang, Xilei Zhu, Jianing Jin, **Wei Shen**, Xiongkuo Min, Guangtao Zhai. MIMIC-Bench: Exploring the User-Like Thinking and Mimicking Capabilities of Multimodal Large Language Models.  **International Conference on Learning Representations (ICLR)**, Rio de Janeiro, Brazil, 2026. ([PDF](https://openreview.net/pdf?id=J7wc4G6woS))
 
 Changsong Wen, Zelin Peng, Yu Huang, **Wei Shen**. <font color='Navy'>Efficient Segmentation with Multimodal Large Language Model via Token Routing</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, Singapore, 2026.
