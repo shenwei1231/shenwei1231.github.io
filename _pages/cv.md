@@ -37,6 +37,7 @@ Grant
 
 Award
 ======
+* 2026 Huawei Spark Award
 * 2025 CSIG Young Scientist Award
 * 2023 First Class Prize of Shanghai Municipal Science and Technology Progress Award (6/13)
 * 2023 MICCAI Young Scientist Award
