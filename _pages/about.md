@@ -28,7 +28,6 @@ Wei Shen is a professor at the Artificial Intelligence Institute, Shanghai Jiao 
 
 **Recent News**
 ======
-- I will serve as an Area Chair for NeurIPS 2026.
 - I was awarded **Huawei Spark Award**.
 - Five papers have been accepted to CVPR 2026.
 - One paper has been accepted to IEEE TPAMI.
