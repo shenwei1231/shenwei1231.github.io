@@ -22,7 +22,7 @@ Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='Nav
 
 **2026**
 ======
-Chongjie Si, Zhiyi Shi, Shifan Zhang, Xiaokang Yang, Hanspeter Pfister, **Wei Shen**. <font color='Navy'>Task-Specific Directions: Definition, Exploration, and Utilization in Parameter Efficient Fine-Tuning</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 2026.
+Chongjie Si, Zhiyi Shi, Shifan Zhang, Xiaokang Yang, Hanspeter Pfister, **Wei Shen**. <font color='Navy'>Task-Specific Directions: Definition, Exploration, and Utilization in Parameter Efficient Fine-Tuning</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 48(6):6754-6770, 2026.
 
 Zelin Peng, Guanchun Wang, Zhengqin Xu, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Difficulty-adapted Masked Transformer for Semi-Supervised Medical Image Segmentation</font>. **IEEE Journal of Biomedical and Health Informatic**, 2026.
 
