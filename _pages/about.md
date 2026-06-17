@@ -28,7 +28,7 @@ Wei Shen is a professor at the Artificial Intelligence Institute, Shanghai Jiao 
 
 **Recent News**
 ======
-- My PhD students Zelin Peng and Xuehui Wang passed their doctoral oral defense. Congratulations!
+- My PhD students Zelin Peng and Xuehui Wang passed their doctoral oral defense. Both of them have been selected for JD's TGT（Tech Genius Team）Program. Congratulations!
 - Five papers have been accepted to CVPR 2026.
 - One paper has been accepted to IEEE TPAMI.
 - I will serve as an Area Chair for ECCV 2026.
