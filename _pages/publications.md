@@ -26,6 +26,16 @@ Chongjie Si, Zhiyi Shi, Shifan Zhang, Xiaokang Yang, Hanspeter Pfister, **Wei Sh
 
 Zelin Peng, Guanchun Wang, Zhengqin Xu, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Difficulty-adapted Masked Transformer for Semi-Supervised Medical Image Segmentation</font>. **IEEE Journal of Biomedical and Health Informatic**, 2026.
 
+Changsong Wen, Zelin Peng, Yu Huang, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Exploring Efficient Reasoning Segmentation with Small Language Models</font>. **European Conference on Computer Vision (ECCV)**, Malmö, Sweden, 2026.
+
+Tongkun Guan, Haocheng Wang, **Wei Shen**, Xiaokang Yang. <font color='Navy'> LightSTAR: Efficient Visual Document Retrieval via Lightweight Selection with Vision-Adaptive Refinement</font>. **European Conference on Computer Vision (ECCV)**, Malmö, Sweden, 2026.
+
+Xuehui Wang, Xuankun Yang, **Wei Shen**. <font color='Navy'>Combating Textual Noise and Redundancy: Entropy-Aware Dense Visual Token Pruning</font>. **European Conference on Computer Vision (ECCV)**, Malmö, Sweden, 2026.
+
+Chongjie Si, Yidan Cui, Fuchao Yang, **Wei Shen**. <font color='Navy'>Why Can Accurate Models Be Learned from Inaccurate Annotations?</font>. **European Conference on Computer Vision (ECCV)**, Malmö, Sweden, 2026.
+
+Zining Wang, Tongkun Guan, Boming Chen, Zhentao Guo, Jianqiang Liu, Chao Jin, Chen Duan, Kai zhou, Pengfei Yan, **Wei Shen**, Xiaokang Yang. <font color='Navy'>AdaThinking-E: One-Token Entropy Regulation for Adaptive Thinking</font>. **European Conference on Computer Vision (ECCV)**, Malmö, Sweden, 2026.
+
 Yu Huang, Zelin Peng, Changsong Wen, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Unlocking 3D Affordance Segmentation with 2D Semantic Knowledge</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Denver, USA, 2026.
 
 Chongjie Si, Yidan Cui, Fuchao Yang, **Wei Shen**. <font color='Navy'>Revisiting Sparsity Constraint Under High-Rank Property in Partial Multi-Label Learning</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Denver, USA, 2026.
@@ -35,6 +45,9 @@ Jiazhong Cen, Jiemin Fang, Sikuang Li, Guanjun Wu, Chen Yang, Taoran Yi, Zanwei 
 Tongkun Guan, Zhibo Yang, Jianqiang Wan, Mingkun Yang, Zhentao Guo, Zijian Hu, Ruilin Luo, Ruizhe Chen, Songtao Jiang, Peng Wang, **Wei Shen**, Junyang Lin, Xiaokang Yang. <font color='Navy'>CodePercept: Code-Grounded Visual STEM Perception for MLLM</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Denver, USA, 2026.
 
 Xuehui Wang, Zhenyu Wu, JingJing Xie, Zichen Ding, Bowen Yang, Zehao Li, Zhaoyang Liu, Qingyun Li, Xuan Dong, Zhe Chen, Weiyun Wang, Xiangyu Zhao, Jixuan Chen, Haodong Duan, Tianbao Xie, Chenyu Yang, Shiqian Su, Yue Yu, Yanting Zhang, Xiangyu Yue, Weijie Su, Xizhou Zhu, **Wei Shen**, Jifeng Dai, Wenhai Wang. <font color='Navy'>MMBench-GUI: A Unified Hierarchical Evaluation Framework for Multi-Platform GUI Agents</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Denver, USA, 2026.
+
+Zelin Peng, Yichen Zhao, Yu Huang, Piao Yang, Feilong Tang, Zhengqin Xu, Xiaokang Yang, **Wei Shen**. <font color='Navy'>NEARL: Interacted Query Adaptation with Orthogonal Regularization for Medical Vision-Language Understanding</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, Strasbourg, France, 2026.
+
 
 Jiajie Teng, Huiyu Duan, Sijing Wu, Jiarui Wang, Xilei Zhu, Jianing Jin, **Wei Shen**, Xiongkuo Min, Guangtao Zhai. MIMIC-Bench: Exploring the User-Like Thinking and Mimicking Capabilities of Multimodal Large Language Models.  **International Conference on Learning Representations (ICLR)**, Rio de Janeiro, Brazil, 2026. ([PDF](https://openreview.net/pdf?id=J7wc4G6woS))
 
