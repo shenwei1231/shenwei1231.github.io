@@ -13,7 +13,7 @@ Artificial Intelligence Institute, Shanghai Jiao Tong University <br>
 800 Dongchuan Road, Software Building, Shanghai 200240 China
 
 
-<font color=LightCoral>I'm looking for self-motivated students working with me on computer vision and medical image analysis for 2026. For prospective students, please send me an email with your CV and transcript.</font>
+<font color=LightCoral>I'm looking for self-motivated students working with me on computer vision and medical image analysis for 2027. For prospective students, please send me an email with your CV and transcript.</font>
 
 
 
@@ -28,6 +28,7 @@ Wei Shen is a professor at the Artificial Intelligence Institute, Shanghai Jiao 
 
 **Recent News**
 ======
+- I will serve as an Area Chair for AAAI 2027.
 - Five papers have been accepted to ECCV 2026.
 - My PhD students Zelin Peng and Xuehui Wang passed their doctoral oral defense. Both of them have been selected for JD's TGT（Tech Genius Team）Program. Congratulations!
 - Five papers have been accepted to CVPR 2026.

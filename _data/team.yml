@@ -42,6 +42,12 @@
   section: phd
   bio: 2026 Fall 
   
+- name: Li Jinyang
+  website: 
+  image: lijingyang.jpg
+  section: phd
+  bio: 2026 Fall 
+  
 # MPhil 
 - name: Sikuang Li
   website: 
@@ -54,6 +60,18 @@
   image: chenxuanyi.jpg
   section: mphil
   bio: 2025 Fall
+  
+- name: Jichen Pang
+  website: 
+  image: pangjichen.jpg
+  section: mphil
+  bio: 2026 Fall
+  
+- name: Xinyi Wang
+  website: 
+  image: wangxinyi.jpg
+  section: mphil
+  bio: 2026 Fall
   
 # Alumni
 - name: Zelin Peng
