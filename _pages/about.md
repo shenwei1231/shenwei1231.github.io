@@ -28,7 +28,8 @@ Wei Shen is a professor at the Artificial Intelligence Institute, Shanghai Jiao 
 
 **Recent News**
 ======
-- I will serve as an Area Chair for AAAI 2027.
+- One paper has been accepted to IEEE TIP.
+- I will serve as an Area Chair for AAAI 2027 and ICLR 2027.
 - Five papers have been accepted to ECCV 2026.
 - My PhD students Zelin Peng and Xuehui Wang passed their doctoral oral defense. Both of them have been selected for JD's TGT（Tech Genius Team）Program. Congratulations!
 - Five papers have been accepted to CVPR 2026.

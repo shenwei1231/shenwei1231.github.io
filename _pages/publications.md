@@ -24,6 +24,8 @@ Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='Nav
 ======
 Chongjie Si, Zhiyi Shi, Shifan Zhang, Xiaokang Yang, Hanspeter Pfister, **Wei Shen**. <font color='Navy'>Task-Specific Directions: Definition, Exploration, and Utilization in Parameter Efficient Fine-Tuning</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 48(6):6754-6770, 2026.
 
+Tongkun Guan, Yutong Cai, Haocheng Wang, Zijian Hu, **Wei Shen**, Xiaokang Yang. <font color='Navy'>BPE-Level Visual-Textual Alignment for Multi-Scene Text Retrieval</font>. **IEEE Trans. Image Processing**, 2026.
+
 Zelin Peng, Guanchun Wang, Zhengqin Xu, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Difficulty-adapted Masked Transformer for Semi-Supervised Medical Image Segmentation</font>. **IEEE Journal of Biomedical and Health Informatic**, 30(6):5167-5180, 2026.
 
 Changsong Wen, Zelin Peng, Yu Huang, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Exploring Efficient Reasoning Segmentation with Small Language Models</font>. **European Conference on Computer Vision (ECCV)**, Malmö, Sweden, 2026.
