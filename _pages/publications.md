@@ -42,7 +42,7 @@ Yu Huang, Zelin Peng, Changsong Wen, Xiaokang Yang, **Wei Shen**. <font color='N
 
 Chongjie Si, Yidan Cui, Fuchao Yang, **Wei Shen**. <font color='Navy'>Revisiting Sparsity Constraint Under High-Rank Property in Partial Multi-Label Learning</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Denver, USA, 2026.
 
-Jiazhong Cen, Jiemin Fang, Sikuang Li, Guanjun Wu, Chen Yang, Taoran Yi, Zanwei Zhou, zhikuan bao, Lingxi Xie, **Wei Shen**, Qi Tian. <font color='Navy'>Text-Image Conditioned 3D Generation</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Denver, USA, 2026.
+Jiazhong Cen, Jiemin Fang, Sikuang Li, Guanjun Wu, Chen Yang, Taoran Yi, Zanwei Zhou, Zhikuan bao, Lingxi Xie, **Wei Shen**, Qi Tian. <font color='Navy'>Text-Image Conditioned 3D Generation</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Denver, USA, 2026.
 
 Tongkun Guan, Zhibo Yang, Jianqiang Wan, Mingkun Yang, Zhentao Guo, Zijian Hu, Ruilin Luo, Ruizhe Chen, Songtao Jiang, Peng Wang, **Wei Shen**, Junyang Lin, Xiaokang Yang. <font color='Navy'>CodePercept: Code-Grounded Visual STEM Perception for MLLM</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Denver, USA, 2026.
 
