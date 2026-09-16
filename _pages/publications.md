@@ -22,6 +22,8 @@ Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='Nav
 
 **2026**
 ======
+Zelin Peng, Zhengqin Xu, Changsong Wen, Yu Huang, Yaoming Wang, Xiaokang Yang, **Wei Shen**. <font color='Navy'>HyperCLIP++: Fine-tuning CLIP for Open-vocabulary Semantic Segmentation in Hyperbolic Space</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 2026.
+
 Chongjie Si, Zhiyi Shi, Shifan Zhang, Xiaokang Yang, Hanspeter Pfister, **Wei Shen**. <font color='Navy'>Task-Specific Directions: Definition, Exploration, and Utilization in Parameter Efficient Fine-Tuning</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 48(6):6754-6770, 2026.
 
 Tongkun Guan, Yutong Cai, Haocheng Wang, Zijian Hu, **Wei Shen**, Xiaokang Yang. <font color='Navy'>BPE-Level Visual-Textual Alignment for Multi-Scene Text Retrieval</font>. **IEEE Trans. Image Processing**, 2026.

@@ -28,6 +28,7 @@ Wei Shen is a professor at the Artificial Intelligence Institute, Shanghai Jiao 
 
 **Recent News**
 ======
+- One paper has been accepted to IEEE TPAMI. 
 - One paper has been accepted to IEEE TIP.
 - I will serve as an Area Chair for AAAI 2027 and ICLR 2027.
 - Five papers have been accepted to ECCV 2026.
