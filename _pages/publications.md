@@ -30,7 +30,7 @@ Tongkun Guan, Yutong Cai, Haocheng Wang, Zijian Hu, **Wei Shen**, Xiaokang Yang.
 
 Zelin Peng, Guanchun Wang, Zhengqin Xu, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Difficulty-adapted Masked Transformer for Semi-Supervised Medical Image Segmentation</font>. **IEEE Journal of Biomedical and Health Informatic**, 30(6): 5167 - 5180, 2026.
 
-Jichen Hu, Jiawei Guo, Jiazhong Cen, Chen Yang, Sikuang Li, **Wei Shen**. <font color='Navy'>WorldAct: Activating Monolithic 3D Worlds into Interactive-Ready Object-Centric Scenes</font>. **Advances in Neural Information Processing Systems (NeurIPS)**, Sydney, Australia, 2026. ([PDF](https://arxiv.org/pdf/2605.15843))(Project Page[https://sjtu-deepvisionlab.github.io/WorldAct/])
+Jichen Hu, Jiawei Guo, Jiazhong Cen, Chen Yang, Sikuang Li, **Wei Shen**. <font color='Navy'>WorldAct: Activating Monolithic 3D Worlds into Interactive-Ready Object-Centric Scenes</font>. **Advances in Neural Information Processing Systems (NeurIPS)**, Sydney, Australia, 2026. ([PDF](https://arxiv.org/pdf/2605.15843))([Project Page](https://sjtu-deepvisionlab.github.io/WorldAct/))
 
 Changsong Wen, Yanjie Wang, Zelin Peng, Yu Huang, Yaoming Wang, Xiaokang Yang, **Wei Shen**. <font color='Navy'>See to Believe: Segmentation by Reasoning with Visual Evidence</font>. **Advances in Neural Information Processing Systems (NeurIPS)**, Sydney, Australia, 2026.
 
@@ -109,7 +109,7 @@ Zhengqin Xu, Zelin Peng, Xiaokang Yang, **Wei Shen**. <font color='Navy'>FATE: F
 
 **2024**
 ======
-Chen Yang, Sikuang Li, jiemin Fang, Ruofan Liang, Lingxi Xie, Xiaopeng Zhang, **Wei Shen**, Qi Tian. <font color='Navy'>GaussianObject: High-Quality 3D Object Reconstruction from Four Views with Gaussian Splatting</font>. **ACM Trans. Graphics (Siggraph Asia)**, 43(6), 2024. ([PDF](https://arxiv.org/pdf/2402.10259))
+Chen Yang, Sikuang Li, jiemin Fang, Ruofan Liang, Lingxi Xie, Xiaopeng Zhang, **Wei Shen**, Qi Tian. <font color='Navy'>GaussianObject: High-Quality 3D Object Reconstruction from Four Views with Gaussian Splatting</font>. **ACM Trans. Graphics (Siggraph Asia)**, 43(6), 2024. ([PDF](https://arxiv.org/pdf/2402.10259))([Project Page](https://gaussianobject.github.io/))
 
 Chen Yang, Kailing Wang, Yuehao Wang, Qi Dou, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Efficient Deformable Tissue Reconstruction via Orthogonal Neural Plane</font>. **IEEE Trans. Medical Imaging**, 43(9): 3211 - 3223, 2024. ([PDF](https://arxiv.org/pdf/2312.15253.pdf))
 
