@@ -57,7 +57,7 @@ Xuehui Wang, Zhenyu Wu, JingJing Xie, Zichen Ding, Bowen Yang, Zehao Li, Zhaoyan
 Zelin Peng, Yichen Zhao, Yu Huang, Piao Yang, Feilong Tang, Zhengqin Xu, Xiaokang Yang, **Wei Shen**. <font color='Navy'>NEARL: Interacted Query Adaptation with Orthogonal Regularization for Medical Vision-Language Understanding</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, Strasbourg, France, 2026.
 
 
-Jiajie Teng, Huiyu Duan, Sijing Wu, Jiarui Wang, Xilei Zhu, Jianing Jin, **Wei Shen**, Xiongkuo Min, Guangtao Zhai. MIMIC-Bench: Exploring the User-Like Thinking and Mimicking Capabilities of Multimodal Large Language Models.  **International Conference on Learning Representations (ICLR)**, Rio de Janeiro, Brazil, 2026. ([PDF](https://openreview.net/pdf?id=J7wc4G6woS))
+Jiajie Teng, Huiyu Duan, Sijing Wu, Jiarui Wang, Xilei Zhu, Jianing Jin, **Wei Shen**, Xiongkuo Min, Guangtao Zhai. <font color='Navy'>NMIMIC-Bench: Exploring the User-Like Thinking and Mimicking Capabilities of Multimodal Large Language Models</font>.  **International Conference on Learning Representations (ICLR)**, Rio de Janeiro, Brazil, 2026. ([PDF](https://openreview.net/pdf?id=J7wc4G6woS))
 
 Changsong Wen, Zelin Peng, Yu Huang, **Wei Shen**. <font color='Navy'>Efficient Segmentation with Multimodal Large Language Model via Token Routing</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, Singapore, 2026.
 
