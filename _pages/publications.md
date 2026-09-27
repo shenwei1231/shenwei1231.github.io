@@ -30,7 +30,7 @@ Tongkun Guan, Yutong Cai, Haocheng Wang, Zijian Hu, **Wei Shen**, Xiaokang Yang.
 
 Zelin Peng, Guanchun Wang, Zhengqin Xu, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Difficulty-adapted Masked Transformer for Semi-Supervised Medical Image Segmentation</font>. **IEEE Journal of Biomedical and Health Informatic**, 30(6): 5167 - 5180, 2026.
 
-Jichen Hu, Jiawei Guo, Jiazhong Cen, Chen Yang, Sikuang Li, **Wei Shen**. <font color='Navy'>WorldAct: Activating Monolithic 3D Worlds into Interactive-Ready Object-Centric Scenes</font>. **Advances in Neural Information Processing Systems (NeurIPS)**, Sydney, Australia, 2026. ([PDF](https://arxiv.org/pdf/2605.15843))
+Jichen Hu, Jiawei Guo, Jiazhong Cen, Chen Yang, Sikuang Li, **Wei Shen**. <font color='Navy'>WorldAct: Activating Monolithic 3D Worlds into Interactive-Ready Object-Centric Scenes</font>. **Advances in Neural Information Processing Systems (NeurIPS)**, Sydney, Australia, 2026. ([PDF](https://arxiv.org/pdf/2605.15843))(Project Page[https://sjtu-deepvisionlab.github.io/WorldAct/])
 
 Changsong Wen, Yanjie Wang, Zelin Peng, Yu Huang, Yaoming Wang, Xiaokang Yang, **Wei Shen**. <font color='Navy'>See to Believe: Segmentation by Reasoning with Visual Evidence</font>. **Advances in Neural Information Processing Systems (NeurIPS)**, Sydney, Australia, 2026.
 
@@ -153,7 +153,7 @@ Huiyu Duan, **Wei Shen**, Xiongkuo Min, Yuan Tian, Jae-Hyun Jung, Xiaokang Yang,
 
 Yuzhi Zhao, Lai-Man Po, Xuehui Wang, Qiong Yan, **Wei Shen**, Yujia Zhang, Wei Liu, Chun-Kit Wong, Chiu-Sing Pang, Weifeng Ou, Wing-Yin Yu, Buhua Liu. <font color='Navy'>ChildPredictor: A Child Face Prediction Framework with Disentangled Learning</font>. **IEEE Trans. Multimedia**, 25: 3737 - 3752, 2023. ([PDF](https://ieeexplore.ieee.org/document/9749880))
 
-Jiazhong Cen, Zanwei Zhou, Jiemin Fang, **Wei Shen**, Lingxi Xie, Dongsheng Jiang, Xiaopeng Zhang, Qi Tian. <font color='Navy'>Segment Anything in 3D with NeRFs</font>. **Advances in Neural Information Processing Systems (NeurIPS)**, New Orleans, USA, 2023. ([PDF](https://proceedings.neurips.cc/paper_files/paper/2023/file/525d24400247f884c3419b0b7b1c4829-Paper-Conference.pdf)) ([CODE](https://github.com/SJTU-DeepVisionLab/SegmentAnythingin3D))
+Jiazhong Cen, Zanwei Zhou, Jiemin Fang, **Wei Shen**, Lingxi Xie, Dongsheng Jiang, Xiaopeng Zhang, Qi Tian. <font color='Navy'>Segment Anything in 3D with NeRFs</font>. **Advances in Neural Information Processing Systems (NeurIPS)**, New Orleans, USA, 2023. ([PDF](https://proceedings.neurips.cc/paper_files/paper/2023/file/525d24400247f884c3419b0b7b1c4829-Paper-Conference.pdf)) ([Project Page](https://jumpat.github.io/SA3D/))([CODE](https://github.com/SJTU-DeepVisionLab/SegmentAnythingin3D))
 
 Zelin Peng, Guanchun Wang, Lingxi Xie, Dongsheng Jiang, **Wei Shen**, Qi Tian. <font color='Navy'>USAGE: A Unified Seed Area Generation Paradigm for Weakly Supervised Semantic Segmentation</font>. **IEEE International Conference on Computer Vision (ICCV)**, Paris, France, 2023. ([PDF](https://arxiv.org/abs/2303.07806))
 
