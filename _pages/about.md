@@ -28,9 +28,13 @@ Wei Shen is a professor at the Artificial Intelligence Institute, Shanghai Jiao 
 
 **Recent News**
 ======
+- Two papers have been accepted to NeurIPS 2026.
+>* [HyperCLIP++: Fine-tuning CLIP for Open-vocabulary Semantic Segmentation in Hyperbolic Space](https://arxiv.org/pdf/2609.24564)
 - One paper has been accepted to IEEE TPAMI. 
+>* [WorldAct: Activating Monolithic 3D Worlds into Interactive-Ready Object-Centric Scenes](https://arxiv.org/pdf/2605.15843)
+>* [See to Believe: Segmentation by Reasoning with Visual Evidence]()
 - One paper has been accepted to IEEE TIP.
-- I will serve as an Area Chair for AAAI 2027 and ICLR 2027.
+- I will serve as an Area Chair for AAAI 2027, ICLR 2027 and CVPR 2027.
 - Five papers have been accepted to ECCV 2026.
 - My PhD students Zelin Peng and Xuehui Wang passed their doctoral oral defense. Both of them have been selected for JD's TGT（Tech Genius Team）Program. Congratulations!
 - Five papers have been accepted to CVPR 2026.
@@ -41,8 +45,8 @@ Wei Shen is a professor at the Artificial Intelligence Institute, Shanghai Jiao 
 - One paper has been accepted to IEEE JBHI.
 - Five papers have been accepted to AAAI 2026, where one is oral.
 - Two papers have been accepted to NeurIPS 2025, where one is oral.
->* [HyperET: Efficient Training in Hyperbolic Space for Multi-modal Large Language Models]()
->* [OPMapper: Enhancing Open-Vocabulary Semantic Segmentation with Multi-Guidance Information]()
+>* [HyperET: Efficient Training in Hyperbolic Space for Multi-modal Large Language Models](https://papers.neurips.cc/paper_files/paper/2025/file/0bcd8d153b8c548629eca53f4ebdeb42-Paper-Conference.pdf)
+>* [OPMapper: Enhancing Open-Vocabulary Semantic Segmentation with Multi-Guidance Information](https://papers.nips.cc/paper_files/paper/2025/file/d3248f63ad76392608963b97c095ca33-Paper-Conference.pdf)
 - I will serve as an Area Chair for CVPR 2026.
 - Two papers have been accepted to ICCV 2025.
 >* [Generalized Tensor-based Parameter-Efficient Fine-Tuning via Lie Group Transformations](https://arxiv.org/abs/2504.00851)

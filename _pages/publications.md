@@ -22,13 +22,17 @@ Siyuan Qiao, Huiyu Wang, Chenxi Liu, **Wei Shen**, Alan Yuille. <font color='Nav
 
 **2026**
 ======
-Zelin Peng, Zhengqin Xu, Changsong Wen, Yu Huang, Yaoming Wang, Xiaokang Yang, **Wei Shen**. <font color='Navy'>HyperCLIP++: Fine-tuning CLIP for Open-vocabulary Semantic Segmentation in Hyperbolic Space</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 2026.
+Zelin Peng, Zhengqin Xu, Changsong Wen, Yu Huang, Yaoming Wang, Xiaokang Yang, **Wei Shen**. <font color='Navy'>HyperCLIP++: Fine-tuning CLIP for Open-vocabulary Semantic Segmentation in Hyperbolic Space</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 2026. ([PDF](https://arxiv.org/pdf/2609.24564))
 
-Chongjie Si, Zhiyi Shi, Shifan Zhang, Xiaokang Yang, Hanspeter Pfister, **Wei Shen**. <font color='Navy'>Task-Specific Directions: Definition, Exploration, and Utilization in Parameter Efficient Fine-Tuning</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 48(6):6754-6770, 2026.
+Chongjie Si, Zhiyi Shi, Shifan Zhang, Xiaokang Yang, Hanspeter Pfister, **Wei Shen**. <font color='Navy'>Task-Specific Directions: Definition, Exploration, and Utilization in Parameter Efficient Fine-Tuning</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 48(6): 6754 - 6770, 2026. ([PDF](https://arxiv.org/pdf/2409.01035))
 
-Tongkun Guan, Yutong Cai, Haocheng Wang, Zijian Hu, **Wei Shen**, Xiaokang Yang. <font color='Navy'>BPE-Level Visual-Textual Alignment for Multi-Scene Text Retrieval</font>. **IEEE Trans. Image Processing**, 2026.
+Tongkun Guan, Yutong Cai, Haocheng Wang, Zijian Hu, **Wei Shen**, Xiaokang Yang. <font color='Navy'>BPE-Level Visual-Textual Alignment for Multi-Scene Text Retrieval</font>. **IEEE Trans. Image Processing**, 35: 9661 - 9674, 2026.
 
-Zelin Peng, Guanchun Wang, Zhengqin Xu, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Difficulty-adapted Masked Transformer for Semi-Supervised Medical Image Segmentation</font>. **IEEE Journal of Biomedical and Health Informatic**, 30(6):5167-5180, 2026.
+Zelin Peng, Guanchun Wang, Zhengqin Xu, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Difficulty-adapted Masked Transformer for Semi-Supervised Medical Image Segmentation</font>. **IEEE Journal of Biomedical and Health Informatic**, 30(6): 5167 - 5180, 2026.
+
+Jichen Hu, Jiawei Guo, Jiazhong Cen, Chen Yang, Sikuang Li, **Wei Shen**. <font color='Navy'>WorldAct: Activating Monolithic 3D Worlds into Interactive-Ready Object-Centric Scenes</font>. **Advances in Neural Information Processing Systems (NeurIPS)**, Sydney, Australia, 2026. ([PDF](https://arxiv.org/pdf/2605.15843))
+
+Changsong Wen, Yanjie Wang, Zelin Peng, Yu Huang, Yaoming Wang, Xiaokang Yang, **Wei Shen**. <font color='Navy'>See to Believe: Segmentation by Reasoning with Visual Evidence</font>. **Advances in Neural Information Processing Systems (NeurIPS)**, Sydney, Australia, 2026.
 
 Changsong Wen, Zelin Peng, Yu Huang, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Exploring Efficient Reasoning Segmentation with Small Language Models</font>. **European Conference on Computer Vision (ECCV)**, Malmö, Sweden, 2026.
 
@@ -67,9 +71,9 @@ Sikuang Li, Chen Yang, Jiemin Fang, Taoran Yi, Jia Lu, Jiazhong Cen, Lingxi Xie,
 
 **2025**
 ======
-Jiazhong Cen, Jiemin Fang, Zanwei Zhou, Chen Yang, Lingxi Xie, Xiaopeng Zhang, **Wei Shen**, Qi Tian. <font color='Navy'>Segment Anything in 3D with Radiance Fields</font>. **International Journal of Computer Vision**, 133(8): 5138-5160, 2025. ([PDF](https://arxiv.org/pdf/2304.12308.pdf))
+Jiazhong Cen, Jiemin Fang, Zanwei Zhou, Chen Yang, Lingxi Xie, Xiaopeng Zhang, **Wei Shen**, Qi Tian. <font color='Navy'>Segment Anything in 3D with Radiance Fields</font>. **International Journal of Computer Vision**, 133(8): 5138 - 5160, 2025. ([PDF](https://arxiv.org/pdf/2304.12308.pdf))
 
-Tongkun Guan, **Wei Shen**, Xiaokang Yang. <font color='Navy'>CCDPlus: Towards Accurate Character to Character Distillation for Text Recognition</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 47(5): 3546-3562, 2025. ([PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10887029))
+Tongkun Guan, **Wei Shen**, Xiaokang Yang. <font color='Navy'>CCDPlus: Towards Accurate Character to Character Distillation for Text Recognition</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 47(5): 3546 - 3562, 2025. ([PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10887029))
 
 Zelin Peng, Zhengqin Xu, Qingyang Liu, Xiaokang Yang, **Wei Shen**. <font color='Navy'>HyperET: Efficient Training in Hyperbolic Space for Multi-modal Large Language Models</font>. **Advances in Neural Information Processing Systems (NeurIPS)**, San Diego, USA, 2025. <span style="color:LightCoral;">[Oral]</span> ([PDF](https://arxiv.org/abs/2510.20322))
 
@@ -107,13 +111,13 @@ Zhengqin Xu, Zelin Peng, Xiaokang Yang, **Wei Shen**. <font color='Navy'>FATE: F
 ======
 Chen Yang, Sikuang Li, jiemin Fang, Ruofan Liang, Lingxi Xie, Xiaopeng Zhang, **Wei Shen**, Qi Tian. <font color='Navy'>GaussianObject: High-Quality 3D Object Reconstruction from Four Views with Gaussian Splatting</font>. **ACM Trans. Graphics (Siggraph Asia)**, 43(6), 2024. ([PDF](https://arxiv.org/pdf/2402.10259))
 
-Chen Yang, Kailing Wang, Yuehao Wang, Qi Dou, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Efficient Deformable Tissue Reconstruction via Orthogonal Neural Plane</font>. **IEEE Trans. Medical Imaging**, 43(9): 3211-3223, 2024. ([PDF](https://arxiv.org/pdf/2312.15253.pdf))
+Chen Yang, Kailing Wang, Yuehao Wang, Qi Dou, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Efficient Deformable Tissue Reconstruction via Orthogonal Neural Plane</font>. **IEEE Trans. Medical Imaging**, 43(9): 3211 - 3223, 2024. ([PDF](https://arxiv.org/pdf/2312.15253.pdf))
 
-Jiazhong Cen, Zekun Jiang, Lingxi Xie, Dongsheng Jiang, **Wei Shen**, Qi Tian. <font color='Navy'>Consensus Synergizes with Memory: A Simple Approach for Anomaly Segmentation in Urban Scenes</font>. **IEEE Trans. Circuits and Systems for Video Technology**, 34(2): 1086-1097, 2024. ([PDF](https://arxiv.org/pdf/2111.15463.pdf))
+Jiazhong Cen, Zekun Jiang, Lingxi Xie, Dongsheng Jiang, **Wei Shen**, Qi Tian. <font color='Navy'>Consensus Synergizes with Memory: A Simple Approach for Anomaly Segmentation in Urban Scenes</font>. **IEEE Trans. Circuits and Systems for Video Technology**, 34(2): 1086 - 1097, 2024. ([PDF](https://arxiv.org/pdf/2111.15463.pdf))
 
-Danyang Tu, **Wei Shen**, Wei Sun, Xiongkuo Min, Guangtao Zhai, Changwen Chen. <font color='Navy'>Un-Gaze: an Unified Transformer for Joint Gaze-Location and Gaze-Object Detection</font>. **IEEE Trans. Circuits and Systems for Video Technology**, 34(5), 3271-3285, 2024. ([PDF](https://arxiv.org/pdf/2308.13857.pdf))
+Danyang Tu, **Wei Shen**, Wei Sun, Xiongkuo Min, Guangtao Zhai, Changwen Chen. <font color='Navy'>Un-Gaze: an Unified Transformer for Joint Gaze-Location and Gaze-Object Detection</font>. **IEEE Trans. Circuits and Systems for Video Technology**, 34(5): 3271 - 3285, 2024. ([PDF](https://arxiv.org/pdf/2308.13857.pdf))
 
-Boxiang Yun, Baiying Lei, Jieneng Chen, Huiyu Wang, Song Qiu, **Wei Shen**, Qingli Li, Yan Wang. <font color='Navy'>SpecTr: Spectral Transformer for Microscopic Hyperspectral Pathology Image Segmentation</font>. **IEEE Trans. Circuits and Systems for Video Technology**, 34(6): 4610-4624, 2024. ([PDF](https://ieeexplore.ieee.org/document/10288474))
+Boxiang Yun, Baiying Lei, Jieneng Chen, Huiyu Wang, Song Qiu, **Wei Shen**, Qingli Li, Yan Wang. <font color='Navy'>SpecTr: Spectral Transformer for Microscopic Hyperspectral Pathology Image Segmentation</font>. **IEEE Trans. Circuits and Systems for Video Technology**, 34(6): 4610 - 4624, 2024. ([PDF](https://ieeexplore.ieee.org/document/10288474))
 
 Chongjie Si, Xuehui Wang, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Tendency-driven Mutual Exclusivity for Weakly Supervised Incremental Semantic Segmentation</font>. **European Conference on Computer Vision (ECCV)**, Milano, Italy, 2024. ([PDF](https://arxiv.org/pdf/2404.11981))
 
@@ -141,13 +145,13 @@ Huayu Wang, Zekun Jiang, Lingxi Xie, Dongsheng Jiang, **Wei Shen**, Qi Tian. <fo
 
 **2023**
 ======
-**Wei Shen**, Zelin Peng, Xuehui Wang, Huayu Wang, Jiazhong Cen, Dongsheng Jiang, Lingxi Xie, Xiaokang Yang, Qi Tian. <font color='Navy'>A Survey on Label-efficient Deep Image Segmentation: Bridging the Gap between Weak Supervision and Dense Prediction</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 45(8), 9284-9305, 2023. ([PDF](https://arxiv.org/pdf/2207.01223.pdf))
+**Wei Shen**, Zelin Peng, Xuehui Wang, Huayu Wang, Jiazhong Cen, Dongsheng Jiang, Lingxi Xie, Xiaokang Yang, Qi Tian. <font color='Navy'>A Survey on Label-efficient Deep Image Segmentation: Bridging the Gap between Weak Supervision and Dense Prediction</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 45(8): 9284 - 9305, 2023. ([PDF](https://arxiv.org/pdf/2207.01223.pdf))
 
-Yuhui Xu, Lingxi Xie, Cihang Xie, Wenrui Dai, Jieru Mei, Siyuan Qiao, **Wei Shen**, Hongkai Xiong, Alan Yuille. <font color='Navy'>Batch Normalization with Enhanced Linear Transformation</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 45(7), 9225-9232, 2023. ([PDF](https://arxiv.org/pdf/2011.14150.pdf))
+Yuhui Xu, Lingxi Xie, Cihang Xie, Wenrui Dai, Jieru Mei, Siyuan Qiao, **Wei Shen**, Hongkai Xiong, Alan Yuille. <font color='Navy'>Batch Normalization with Enhanced Linear Transformation</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 45(7): 9225 - 9232, 2023. ([PDF](https://arxiv.org/pdf/2011.14150.pdf))
 
-Huiyu Duan, **Wei Shen**, Xiongkuo Min, Yuan Tian, Jae-Hyun Jung, Xiaokang Yang, Guangtao Zhai. <font color='Navy'>Develop then Rival: A Human Vision-Inspired Framework for Superimposed Image Decomposition</font>. **IEEE Trans. Multimedia**, 25: 4267-4281, 2023. ([PDF](https://ieeexplore.ieee.org/document/9769950))
+Huiyu Duan, **Wei Shen**, Xiongkuo Min, Yuan Tian, Jae-Hyun Jung, Xiaokang Yang, Guangtao Zhai. <font color='Navy'>Develop then Rival: A Human Vision-Inspired Framework for Superimposed Image Decomposition</font>. **IEEE Trans. Multimedia**, 25: 4267 - 4281, 2023. ([PDF](https://ieeexplore.ieee.org/document/9769950))
 
-Yuzhi Zhao, Lai-Man Po, Xuehui Wang, Qiong Yan, **Wei Shen**, Yujia Zhang, Wei Liu, Chun-Kit Wong, Chiu-Sing Pang, Weifeng Ou, Wing-Yin Yu, Buhua Liu. <font color='Navy'>ChildPredictor: A Child Face Prediction Framework with Disentangled Learning</font>. **IEEE Trans. Multimedia**, 25: 3737-3752, 2023. ([PDF](https://ieeexplore.ieee.org/document/9749880))
+Yuzhi Zhao, Lai-Man Po, Xuehui Wang, Qiong Yan, **Wei Shen**, Yujia Zhang, Wei Liu, Chun-Kit Wong, Chiu-Sing Pang, Weifeng Ou, Wing-Yin Yu, Buhua Liu. <font color='Navy'>ChildPredictor: A Child Face Prediction Framework with Disentangled Learning</font>. **IEEE Trans. Multimedia**, 25: 3737 - 3752, 2023. ([PDF](https://ieeexplore.ieee.org/document/9749880))
 
 Jiazhong Cen, Zanwei Zhou, Jiemin Fang, **Wei Shen**, Lingxi Xie, Dongsheng Jiang, Xiaopeng Zhang, Qi Tian. <font color='Navy'>Segment Anything in 3D with NeRFs</font>. **Advances in Neural Information Processing Systems (NeurIPS)**, New Orleans, USA, 2023. ([PDF](https://proceedings.neurips.cc/paper_files/paper/2023/file/525d24400247f884c3419b0b7b1c4829-Paper-Conference.pdf)) ([CODE](https://github.com/SJTU-DeepVisionLab/SegmentAnythingin3D))
 
@@ -173,9 +177,9 @@ Xintian Mao, Yiming Liu, Fengze Liu, Qingli Li, **Wei Shen**, Yan Wang. <font co
 ======
 Michela Antonelli, Annika Reinke, Spyridon Bakas, Keyvan Farahani, AnnetteKopp-Schneider, Bennett A. Landman, Geert Litjens, Bjoern Menze, Olaf Ronneberger, Ronald M.Summers, Bram van Ginneken, Michel Bilello, Patrick Bilic, Patrick F. Christ, Richard K. G. Do, Marc J. Gollub, Stephan H. Heckers, Henkjan Huisman, William R. Jarnagin, Maureen K. McHugo, Sandy Napel, Jennifer S. Goli Pernicka, Kawal Rhode, Catalina Tobon-Gomez, Eugene Vorontsov, Henkjan Huisman, James A. Meakin, Sebastien Ourselin, Manuel Wiesenfarth, Pablo Arbelaez, Byeonguk Bae, Sihong Chen, Laura Daza, Jianjiang Feng, Baochun He, Fabian Isensee, Yuanfeng Ji, Fucang Jia, Namkug Kim, Ildoo Kim, Dorit Merhof, Akshay Pai, Beomhee Park, Mathias Perslev, Ramin Rezaiifar, Oliver Rippel, Ignacio Sarasua, **Wei Shen**, Jaemin Son, Christian Wachinger, Liansheng Wang, Yan Wang, Yingda Xia, Daguang Xu, Zhanwei Xu, Yefeng Zheng, Amber L. Simpson, Lena Maier-Hein, M. Jorge Cardoso. <font color='Navy'>The Medical Segmentation Decathlon</font>. **Nature Communications**, 13(4128), 2022. ([PDF](https://arxiv.org/pdf/2106.05735.pdf))
 
-Chen Yang, Shunyu Yao, Zanwei Zhou, Bin Ji, Guangtao Zhai, **Wei Shen**. <font color='Navy'>Poxture: Human Posture Imitation Using Neural Texture</font>. **IEEE Trans. Circuits and Systems for Video Technology**, 32(12), 8537 - 8549, 2022. ([PDF](https://ieeexplore.ieee.org/document/9829868))
+Chen Yang, Shunyu Yao, Zanwei Zhou, Bin Ji, Guangtao Zhai, **Wei Shen**. <font color='Navy'>Poxture: Human Posture Imitation Using Neural Texture</font>. **IEEE Trans. Circuits and Systems for Video Technology**, 32(12): 8537 - 8549, 2022. ([PDF](https://ieeexplore.ieee.org/document/9829868))
 
-Yuyin Zhou, David Dreizin, Yan Wang, Fengze Liu, **Wei Shen**, Alan Yuille. <font color='Navy'>External Attention Assisted Multi-Phase Splenic Vascular Injury Segmentation with Limited Data</font>. **IEEE Trans. Medical Imaging**, 41(6), 1346-1357, 2022. ([PDF](../files/External_Attention.pdf))
+Yuyin Zhou, David Dreizin, Yan Wang, Fengze Liu, **Wei Shen**, Alan Yuille. <font color='Navy'>External Attention Assisted Multi-Phase Splenic Vascular Injury Segmentation with Limited Data</font>. **IEEE Trans. Medical Imaging**, 41(6): 1346 - 1357, 2022. ([PDF](../files/External_Attention.pdf))
 
 Danyang Tu, Wei Sun, Xiongkuo Min, Guangtao Zhai, **Wei Shen**. <font color='Navy'>Video-based Human-Object Interaction Detection from Tubelet Tokens</font>. **Advances in Neural Information Processing Systems (NeurIPS)**, New Orleans, USA, 2022. ([PDF](https://arxiv.org/pdf/2206.01908.pdf))
 
@@ -197,9 +201,9 @@ Jinghao Zhou, Chen Wei, Huiyu Wang, **Wei Shen**, Cihang Xie, Alan Yuille, Tao K
 
 **2021**
 ======
-**Wei Shen**, Yilu Guo, Yan Wang, Kai Zhao, Bo Wang, Alan Yuille. <font color='Navy'>Deep Differentiable Random Forests for Age Estimation</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 43(2): 404-419, 2021. ([PDF](https://arxiv.org/abs/1907.10665)) ([CODE](https://github.com/shenwei1231/caffe-DeepDecisionForest))
+**Wei Shen**, Yilu Guo, Yan Wang, Kai Zhao, Bo Wang, Alan Yuille. <font color='Navy'>Deep Differentiable Random Forests for Age Estimation</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 43(2): 404 - 419, 2021. ([PDF](https://arxiv.org/abs/1907.10665)) ([CODE](https://github.com/shenwei1231/caffe-DeepDecisionForest))
 
-Yan Wang, Peng Tang, Yuyin Zhou, **Wei Shen**, Elliot K. Fishman, Alan Yuille. <font color='Navy'>Learning Inductive Attention Guidance for Partially Supervised Pancreatic Ductal Adenocarcinoma Prediction</font>. **IEEE Trans. Medical Imaging**, 43(2), 2723-2735, 2021. ([PDF](../files/IAG-NET-online.pdf))
+Yan Wang, Peng Tang, Yuyin Zhou, **Wei Shen**, Elliot K. Fishman, Alan Yuille. <font color='Navy'>Learning Inductive Attention Guidance for Partially Supervised Pancreatic Ductal Adenocarcinoma Prediction</font>. **IEEE Trans. Medical Imaging**, 43(2): 2723 - 2735, 2021. ([PDF](../files/IAG-NET-online.pdf))
 
 Qihang Yu, Yingda Xia, Yutong Bai, Yongyi Lu, Alan Yuille, **Wei Shen**. <font color='Navy'>Glance-and-Gaze Vision Transformer</font>. **Advances in Neural Information Processing Systems (NeurIPS)**, Sydney, Australia, 2021. ([PDF](https://proceedings.neurips.cc/paper/2021/file/6c524f9d5d7027454a783c841250ba71-Paper.pdf))
 
@@ -215,7 +219,7 @@ Yingwei Li, Qihang Yu, Mingxing Tan, Jieru Mei, Peng Tang, **Wei Shen**, Alan Yu
 
 **2020**
 ======
-Peng Tang, Xinggang Wang, Song Bai, **Wei Shen**, Xiang Bai, Wenyu Liu, Alan Yuille. <font color='Navy'>PCL: Proposal Cluster Learning for Weakly Supervised Object Detection</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 42(1), 176-191, 2020. ([PDF](https://arxiv.org/abs/1807.03342))
+Peng Tang, Xinggang Wang, Song Bai, **Wei Shen**, Xiang Bai, Wenyu Liu, Alan Yuille. <font color='Navy'>PCL: Proposal Cluster Learning for Weakly Supervised Object Detection</font>. **IEEE Trans. Pattern Analysis and Machine Intelligence**, 42(1): 176 - 191, 2020. ([PDF](https://arxiv.org/abs/1807.03342))
 
 Daniil Pakhomov, **Wei Shen**, Nassir Navab. <font color='Navy'>Towards Unsupervised Learning for Instrument Segmentation in Robotic Surgery with Cycle-Consistent Adversarial Networks</font>. **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**, Las Vegas, USA, 2020. ([PDF](https://arxiv.org/pdf/2007.04505.pdf))
 
@@ -233,7 +237,7 @@ Yunhan Zhao, Ye Tian, Charless Fowlkes, **Wei Shen**, Alan Yuille. <font color='
 
 **Before 2019**
 ======
-​Yan Wang, Yuyin Zhou, **Wei Shen**, Seyoun Park, Elliot K. Fishman, Alan Yuille. <font color='Navy'>Abdominal multi-organ segmentation with organ-attention networks and statistical fusion</font>. **Medical Image Analysis**, 55: 88-102, 2019. ([PDF](https://arxiv.org/abs/1804.08414))
+​Yan Wang, Yuyin Zhou, **Wei Shen**, Seyoun Park, Elliot K. Fishman, Alan Yuille. <font color='Navy'>Abdominal multi-organ segmentation with organ-attention networks and statistical fusion</font>. **Medical Image Analysis**, 55: 88 - 102, 2019. ([PDF](https://arxiv.org/abs/1804.08414))
 
 Yuyin Zhou, Yan Wang, Peng Tang, Song Bai, **Wei Shen**, Elliot K. Fishman, Alan Yuille. <font color='Navy'>Semi-Supervised 3D Multi-Organ Segmentation via Deep Multi-Planar Co-Training</font>. **IEEE Winter Conference on Applications of Computer Vision (WACV)**, Hawaii, USA, 2019. ([PDF](https://arxiv.org/pdf/1804.02586.pdf))
 
@@ -255,7 +259,7 @@ Yan Wang, Yuyin Zhou, Peng Tang, **Wei Shen**, Elliot K. Fishman, Alan Yuille. <
 ​Kai Zhao, **Wei Shen**, Shanghua Gao, Dandan Li, Ming-Ming Cheng. <font color='Navy'>Hi-Fi: Hierarchical Feature Integration for Skeleton Detection</font>. ​
 **International Joint Conference on Artificial Intelligence (IJCAI)**, Stockholm, Sweden, 2018. ([PDF](https://arxiv.org/abs/1801.01849))
 
-​**Wei Shen**, Chenting Du, Yuan Jiang, Dan Zeng, Zhijiang Zhang.  <font color='Navy'>Bag of Shape Features with A Learned Pooling Function for Shape Recognition</font>. **Pattern Recognition Letters**, 106(15): 33–40, 2018. ([PDF](../files/bosf_lp.pdf))
+​**Wei Shen**, Chenting Du, Yuan Jiang, Dan Zeng, Zhijiang Zhang.  <font color='Navy'>Bag of Shape Features with A Learned Pooling Function for Shape Recognition</font>. **Pattern Recognition Letters**, 106(15): 33 – 40, 2018. ([PDF](../files/bosf_lp.pdf))
 
 **Wei Shen**, Kai Zhao, Yuan Jiang, Yan Wang, Xiang Bai, Alan Yuille. <font color='Navy'>DeepSkeleton: Learning Multi-task Scale-associated Deep Side Outputs for Object Skeleton Extraction in Natural Images</font>. **IEEE Trans. Image Processing**, 26(11): 5298 - 5311, 2017. ([PDF](http://arxiv.org/abs/1609.03659)) ([Project Page](http://kaiz.xyz/deepsk)) ([CODE](https://github.com/zeakey/skeleton)) ([SK-LARGE Dataset](../files/sk1491.tar))
 
@@ -272,7 +276,7 @@ Christopher Funk, Seungkyu Lee, Martin R. Oswald, Stavros Tsogkas, **Wei Shen**,
 Yuyin Zhou, Lingxi Xie, **Wei Shen**, Yan Wang, Elliot Fishman, Alan Yuille. <font color='Navy'>A Fixed-Point Model for Pancreas Segmentation in Abdominal CT Scans</font>. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, Quebec City, Canada, 2017. ([PDF](https://arxiv.org/pdf/1612.08230.pdf)) ([CODE](https://github.com/198808xc/OrganSegC2F)) 
 ​<br><br>
 
-**Wei Shen**, Xiang Bai, Zihao Hu, Zhijiang Zhang. <font color='Navy'>Multiple Instance Subspace Learning via Partial Random Projection Tree for Local Reflection Symmetry in Natural Images</font>. **Pattern Recognition**, 52(4): 306-316, 2016. ([PDF](../files/pr_symmetrydetection.pdf)) ﻿﻿﻿([PR-curve Data](../files/pr_curve_data.zip))﻿﻿﻿ ﻿([WH-SYMMAX dataset](../files/wh-symmax.zip))﻿
+**Wei Shen**, Xiang Bai, Zihao Hu, Zhijiang Zhang. <font color='Navy'>Multiple Instance Subspace Learning via Partial Random Projection Tree for Local Reflection Symmetry in Natural Images</font>. **Pattern Recognition**, 52(4): 306 - 316, 2016. ([PDF](../files/pr_symmetrydetection.pdf)) ﻿﻿﻿([PR-curve Data](../files/pr_curve_data.zip))﻿﻿﻿ ﻿([WH-SYMMAX dataset](../files/wh-symmax.zip))﻿
 
 **Wei Shen**, Kai Zhao, Yuan Jiang, Yan Wang, Zhijiang Zhang, Xiang Bai. <font color='Navy'>Object Skeleton Extraction in Natural Images by Fusing Scale-associated Deep Side Outputs</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Las Vegas, USA, 2016.([PDF](../files/deepskeleton_final.pdf)) ([Supplementary Material](../files/supplementarymaterial_final.pdf)) ([CODE](https://github.com/zeakey/DeepSkeleton)) ([PR-curve Data](../files/pr-curve.zip)) ([SK-SMALL Dataset](../files/sk506.zip)) 
 
@@ -284,20 +288,20 @@ Zheng Zhang, **Wei Shen**, Cong Yao, Xiang Bai. <font color='Navy'>Symmetry-Base
 
 Shifu Zhou, **Wei Shen**, Dan Zeng, Zhijiang Zhang. <font color='Navy'>Unusual Event Detection in Crowded Scenes by Trajectory Analysis</font>. **IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)**, Brisbane, Australia, 2015.
 
-**Wei Shen**, Ke Deng, Xiang Bai, Tommer Leyvand, Baining Guo, Zhuowen Tu. <font color='Navy'>Exemplar-based Human Action Pose Correction</font>. **IEEE Trans. Cybernetics**, 44(7﻿): 1053-1066, 2014. ([PDF](../files/posecorrection.pdf))
+**Wei Shen**, Ke Deng, Xiang Bai, Tommer Leyvand, Baining Guo, Zhuowen Tu. <font color='Navy'>Exemplar-based Human Action Pose Correction</font>. **IEEE Trans. Cybernetics**, 44(7﻿): 1053 - 1066, 2014. ([PDF](../files/posecorrection.pdf))
 
 **Wei Shen**, Rui Lei, Dan Zeng, Zhijiang Zhang. <font color='Navy'>Regularity Guaranteed Human Pose Correction</font>. **Asian Conference on Computer Vision (ACCV)**, Singapore, 2014. ([PDF](../files/rgposecorrectionfinal.pdf))
 
-**Wei Shen**, Yan Wang, Xiang Bai, Hongyuan Wang, Longin Jan Latecki. <font color='Navy'>Shape Clustering: Common Structure Discovery</font>. **Pattern Recognition**, 46(2): 539-550, 2013. ([PDF](../files/shape_clustering_common_structure_discovery.pdf)) ([CODE](../files/shape_clustering_cs.zip))
+**Wei Shen**, Yan Wang, Xiang Bai, Hongyuan Wang, Longin Jan Latecki. <font color='Navy'>Shape Clustering: Common Structure Discovery</font>. **Pattern Recognition**, 46(2): 539 - 550, 2013. ([PDF](../files/shape_clustering_common_structure_discovery.pdf)) ([CODE](../files/shape_clustering_cs.zip))
 
-**Wei Shen**, Xiang Bai, Xingwei Yang, Longin Jan Latecki. <font color='Navy'>Skeleton Pruning as Trade-off between Skeleton Simplicity and Reconstruction Error</font>. **SCIENCE CHINA Information Sciences**, 56(4): 1-14, 2013. ([PDF](../files/skeleton_pruning_as_trade-off_between_skeleton_simplicity_and_reconstruction_error.pdf))
+**Wei Shen**, Xiang Bai, Xingwei Yang, Longin Jan Latecki. <font color='Navy'>Skeleton Pruning as Trade-off between Skeleton Simplicity and Reconstruction Error</font>. **SCIENCE CHINA Information Sciences**, 56(4): 1 - 14, 2013. ([PDF](../files/skeleton_pruning_as_trade-off_between_skeleton_simplicity_and_reconstruction_error.pdf))
 ([CODE](../files/skelpruningtradeoff.zip))
 
 Ying Li, **Wei Shen**, Xun Shi, Zhijiang Zhang. <font color='Navy'>Ensemble of Randomized Linear Discri﻿minant Analysis for Face Recognition with Single Sample Per Person</font>. **International Conference Automatic Face and Gesture Recognition (FG)**, Shanghai, China, 2013. ([PDF](../files/ensemble_of_randomized_linear_discriminant_analysis_for_face_recognition_with_single_sample_per_person/pdf))
 
 **Wei Shen**, Ke Deng, Xiang Bai, Tommer Leyvand, Baining Guo, Zhuowen Tu. <font color='Navy'>Exemplar-based Human Action Pose Correction and Tagging</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Providence, USA, 2012. ([PDF](../files/posecorrection_cvpr.pdf))
 
-**Wei Shen**, Xiang Bai, Rong Hu, Hongyuan Wang, Longin Jan Latecki. <font color='Navy'>Skeleton Growing and Pruning with Bending Potential Ratio</font>. **Pattern Recognition**, 44(2): 196-209, 2011. ([PDF](../files/skeleton_growing_and_pruning_with_bending_potential_ratio.pdf))  ([CODE](../files/shenskeletonpruningbpr.zip))
+**Wei Shen**, Xiang Bai, Rong Hu, Hongyuan Wang, Longin Jan Latecki. <font color='Navy'>Skeleton Growing and Pruning with Bending Potential Ratio</font>. **Pattern Recognition**, 44(2): 196 - 209, 2011. ([PDF](../files/skeleton_growing_and_pruning_with_bending_potential_ratio.pdf))  ([CODE](../files/shenskeletonpruningbpr.zip))
 
 Bo Wang, **Wei Shen**, Wenyu Liu, Xinge You, Xiang Bai. <font color='Navy'>Shape Classification Using Tree Unions</font>. **International Conference on Pattern Recognition (ICPR)**, Istanbul, Turkey, 2010. ([PDF](../files/shape_classification_using_tree_-unions.pdf))
 
