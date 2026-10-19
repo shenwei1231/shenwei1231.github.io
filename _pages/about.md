@@ -29,10 +29,10 @@ Wei Shen is a professor at the Artificial Intelligence Institute, Shanghai Jiao 
 **Recent News**
 ======
 - Two papers have been accepted to NeurIPS 2026.
->* [HyperCLIP++: Fine-tuning CLIP for Open-vocabulary Semantic Segmentation in Hyperbolic Space](https://arxiv.org/pdf/2609.24564)
-- One paper has been accepted to IEEE TPAMI. 
 >* [WorldAct: Activating Monolithic 3D Worlds into Interactive-Ready Object-Centric Scenes](https://arxiv.org/pdf/2605.15843)
 >* [See to Believe: Segmentation by Reasoning with Visual Evidence]()
+- One paper has been accepted to IEEE TPAMI. 
+>* [HyperCLIP++: Fine-tuning CLIP for Open-vocabulary Semantic Segmentation in Hyperbolic Space](https://arxiv.org/pdf/2609.24564)
 - One paper has been accepted to IEEE TIP.
 - I will serve as an Area Chair for AAAI 2027, ICLR 2027 and CVPR 2027.
 - Five papers have been accepted to ECCV 2026.

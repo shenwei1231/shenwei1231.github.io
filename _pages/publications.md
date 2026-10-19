@@ -30,6 +30,8 @@ Tongkun Guan, Yutong Cai, Haocheng Wang, Zijian Hu, **Wei Shen**, Xiaokang Yang.
 
 Zelin Peng, Guanchun Wang, Zhengqin Xu, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Difficulty-adapted Masked Transformer for Semi-Supervised Medical Image Segmentation</font>. **IEEE Journal of Biomedical and Health Informatic**, 30(6): 5167 - 5180, 2026.
 
+Jia Lu, Taoran Yi, Jiemin Fang, Chen Yang, Chuiyun Wu, **Wei Shen**, Wenyu Liu, Qi Tian, Xinggang Wang. <font color='Navy'>Snap-Snap: Taking Two Images to Reconstruct 3D Human Gaussians in Milliseconds</font>. **IEEE Trans. Circuits and Systems for Video Technology**, 36(9): 12782 - 12795, 2026.
+
 Jichen Hu, Jiawei Guo, Jiazhong Cen, Chen Yang, Sikuang Li, **Wei Shen**. <font color='Navy'>WorldAct: Activating Monolithic 3D Worlds into Interactive-Ready Object-Centric Scenes</font>. **Advances in Neural Information Processing Systems (NeurIPS)**, Sydney, Australia, 2026. ([PDF](https://arxiv.org/pdf/2605.15843))([Project Page](https://sjtu-deepvisionlab.github.io/WorldAct/))
 
 Changsong Wen, Yanjie Wang, Zelin Peng, Yu Huang, Yaoming Wang, Xiaokang Yang, **Wei Shen**. <font color='Navy'>See to Believe: Segmentation by Reasoning with Visual Evidence</font>. **Advances in Neural Information Processing Systems (NeurIPS)**, Sydney, Australia, 2026.
