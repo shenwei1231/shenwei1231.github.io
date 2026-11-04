@@ -299,7 +299,7 @@ Shifu Zhou, **Wei Shen**, Dan Zeng, Zhijiang Zhang. <font color='Navy'>Unusual E
 **Wei Shen**, Xiang Bai, Xingwei Yang, Longin Jan Latecki. <font color='Navy'>Skeleton Pruning as Trade-off between Skeleton Simplicity and Reconstruction Error</font>. **SCIENCE CHINA Information Sciences**, 56(4): 1 - 14, 2013. ([PDF](../files/skeleton_pruning_as_trade-off_between_skeleton_simplicity_and_reconstruction_error.pdf))
 ([CODE](../files/skelpruningtradeoff.zip))
 
-Ying Li, **Wei Shen**, Xun Shi, Zhijiang Zhang. <font color='Navy'>Ensemble of Randomized Linear Discri﻿minant Analysis for Face Recognition with Single Sample Per Person</font>. **International Conference Automatic Face and Gesture Recognition (FG)**, Shanghai, China, 2013. ([PDF](../files/ensemble_of_randomized_linear_discriminant_analysis_for_face_recognition_with_single_sample_per_person/pdf))
+Ying Li, **Wei Shen**, Xun Shi, Zhijiang Zhang. <font color='Navy'>Ensemble of Randomized Linear Discri﻿minant Analysis for Face Recognition with Single Sample Per Person</font>. **International Conference Automatic Face and Gesture Recognition (FG)**, Shanghai, China, 2013. ([PDF](../files/ensemble_of_randomized_linear_discriminant_analysis_for_face_recognition_with_single_sample_per_person.pdf))
 
 **Wei Shen**, Ke Deng, Xiang Bai, Tommer Leyvand, Baining Guo, Zhuowen Tu. <font color='Navy'>Exemplar-based Human Action Pose Correction and Tagging</font>. **IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, Providence, USA, 2012. ([PDF](../files/posecorrection_cvpr.pdf))
 
