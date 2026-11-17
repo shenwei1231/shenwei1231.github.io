@@ -36,6 +36,8 @@ Jichen Hu, Jiawei Guo, Jiazhong Cen, Chen Yang, Sikuang Li, **Wei Shen**. <font 
 
 Changsong Wen, Yanjie Wang, Zelin Peng, Yu Huang, Yaoming Wang, Xiaokang Yang, **Wei Shen**. <font color='Navy'>See to Believe: Segmentation by Reasoning with Visual Evidence</font>. **Advances in Neural Information Processing Systems (NeurIPS)**, Sydney, Australia, 2026.
 
+Yichen Zhao, Zelin Peng, Fenghe Tang, Piao Yang, Yu Huang and **Wei Shen**. <font color='Navy'>MMRad-22K: A Structured Multimodal Evidence Dataset for Chest X-ray Report Generation</font>. **Conference on Empirical Methods in Natural Language Processing (EMNLP) Findings**, Budapest, Hungary, 2026. ([Project Page](https://github.com/qiuzyc/MMRad))
+
 Changsong Wen, Zelin Peng, Yu Huang, Xiaokang Yang, **Wei Shen**. <font color='Navy'>Exploring Efficient Reasoning Segmentation with Small Language Models</font>. **European Conference on Computer Vision (ECCV)**, Malmö, Sweden, 2026.
 
 Tongkun Guan, Haocheng Wang, **Wei Shen**, Xiaokang Yang. <font color='Navy'> LightSTAR: Efficient Visual Document Retrieval via Lightweight Selection with Vision-Adaptive Refinement</font>. **European Conference on Computer Vision (ECCV)**, Malmö, Sweden, 2026.
@@ -67,9 +69,9 @@ Zelin Peng, Zhengqin Xu, Feilong Tang, **Wei Shen**. <font color='Navy'>CP-CLIP:
 
 Jichen Hu, Chen Yang, Zanwei Zhou, Jiemin Fang, Qi Tian, **Wei Shen**. <font color='Navy'>Dereflection Any Image with Diffusion Priors and Diversified Data</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, Singapore, 2026. ([PDF](https://arxiv.org/abs/2503.17347))
 
-Zanwei Zhou, Taoran Yi, Jiemin Fang, Chen Yang, Lingxi Xie, Xinggang Wang, **Wei Shen**, Qi Tian. <font color='Navy'>Few-step Diffusion for 3D Generation by Learning Marginal Probability Path</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, Singapore, 2026.
+Zanwei Zhou, Taoran Yi, Jiemin Fang, Chen Yang, Lingxi Xie, Xinggang Wang, **Wei Shen**, Qi Tian. <font color='Navy'>Few-step Flow for 3D Generation via Marginal-Data Transport Distillation</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, Singapore, 2026.
 
-Sikuang Li, Chen Yang, Jiemin Fang, Taoran Yi, Jia Lu, Jiazhong Cen, Lingxi Xie, **Wei Shen**, Qi Tian. <font color='Navy'>WorldGrow: Infinite 3D Scene Generation with Structured Latents</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, Singapore, 2026. ([PDF](https://arxiv.org/abs/2510.21682))
+Sikuang Li, Chen Yang, Jiemin Fang, Taoran Yi, Jia Lu, Jiazhong Cen, Lingxi Xie, **Wei Shen**, Qi Tian. <font color='Navy'>WorldGrow: Generating Infinite 3D World</font>. **AAAI Conference on Artificial Intelligence (AAAI)**, Singapore, 2026. ([PDF](https://arxiv.org/abs/2510.21682))
 
 **2025**
 ======
